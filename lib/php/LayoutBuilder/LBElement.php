@@ -591,7 +591,7 @@ class LBElement{
         echo '<div class="row grid-view '. $woocommerce_class .'">';
         if($this -> show_title == 'yes'){ ?>
             <div class="carousel-title">
-                <h2 class="content-title"><span><?php echo $this -> name; ?></span><em><?php echo $this -> label_description; ?></em></h2>
+                <h2 class="content-title"><span><?php echo $this -> name; ?></span><em></em></h2>
             </div>
         <?php } 
         
