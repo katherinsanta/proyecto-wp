@@ -1,0 +1,846 @@
+
+/*==============================================================  BOF Typography styles   ==============================================================*/
+/* Artfully Masterminded by ZURB */
+
+/*	--------------------------------------------------
+    :: Typography
+	-------------------------------------------------- */
+	h1, h2, h3, h4, h5, h6 { font-weight: bold; line-height: 1.25 }
+	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
+	h1 { font-size: 46px; font-size: 4.6rem; margin-bottom: 12px;}
+	h2 { font-size: 35px; font-size: 3.5rem; margin-bottom: 10px; }
+	h3 { font-size: 28px; font-size: 2.8rem; margin-bottom: 10px; }
+	h4 { font-size: 21px; font-size: 2.1rem; margin-bottom: 3px; }
+	h5 { font-size: 18px; font-size: 1.8rem; font-weight: normal; margin-bottom: 3px;  }
+	h6 { font-size: 15px; font-size: 1.5rem; font-weight: normal; }
+
+	.subheader { color: #777; font-weight: 300; margin-bottom: 24px; }
+
+	p { margin: 0 0 20px; }
+	p:last-child { margin: 0px; }
+	p img { margin: 0; }
+	p.lead { font-size: 18px; font-size: 1.8rem; line-height: 1.8;  }
+	
+	em, i { font-style: italic; line-height: inherit; }
+	strong, b { font-weight: bold; line-height: inherit; }
+	small { font-size: 60%; line-height: inherit; }
+	
+	h1 small, h2 small, h3 small, h4 small, h5 small { color: #777; }
+	
+	/*	Blockquotes  */
+	blockquote, blockquote p { line-height: 20px; color: #777; }
+	blockquote { margin: 0 0 18px; padding: 9px 20px 0 19px; border-left: 1px solid #ddd; }
+	blockquote cite { display: block; font-size: 12px; font-size: 1.2rem; color: #555; }
+	blockquote cite:before { content: "\2014 \0020"; }
+	blockquote cite a, blockquote cite a:visited { color: #555; }
+	
+	hr { border: solid #ddd; border-width: 1px 0 0; clear: both; margin: 12px 0 18px; height: 0; }
+	
+	abbr, acronym { text-transform: uppercase; font-size: 90%; color: #222; border-bottom: 1px solid #ddd; cursor: help; }
+	abbr { text-transform: none; }
+
+	/**
+ 	 * Print styles.
+	 *
+	 * Inlined to avoid required HTTP connection: www.phpied.com/delay-loading-your-print-css/
+	 * Credit to Paul Irish and HTML5 Boilerplate (html5boilerplate.com)
+	 */
+	.print-only { display: none !important; }
+	@media print {
+		* { background: transparent !important; color: black !important; text-shadow: none !important; filter:none !important;
+		-ms-filter: none !important; } /* Black prints faster: sanbeiji.com/archives/953 */
+		p a, p a:visited { color: #444 !important; text-decoration: underline; }
+		p a[href]:after { content: " (" attr(href) ")"; }
+		abbr[title]:after { content: " (" attr(title) ")"; }
+		.ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after { content: ""; }  /* Don't show links for images, or javascript/internal links */
+		pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
+		thead { display: table-header-group; } /* css-discuss.incutio.com/wiki/Printing_Tables */
+		tr, img { page-break-inside: avoid; }
+		@page { margin: 0.5cm; }
+		p, h2, h3 { orphans: 3; widows: 3; }
+		h2, h3{ page-break-after: avoid; }
+		.hide-on-print { display: none !important; }
+		.print-only { display: block !important; }
+	}
+
+
+/*==============================================================  EOF Typography styles   ==============================================================*/
+/********************************************************************************************************************************************************/
+/********************************************************************************************************************************************************/
+/*==============================================================  BOF prettyPhoto styles   ==============================================================*/
+
+div.pp_default .pp_top,div.pp_default .pp_top .pp_middle,div.pp_default .pp_top .pp_left,div.pp_default .pp_top .pp_right,div.pp_default .pp_bottom,div.pp_default .pp_bottom .pp_left,div.pp_default .pp_bottom .pp_middle,div.pp_default .pp_bottom .pp_right
+{height:13px}
+div.pp_default .pp_top .pp_left
+{background:url(../images/prettyPhoto/default/sprite.png) -78px -93px no-repeat}
+div.pp_default .pp_top .pp_middle
+{background:url(../images/prettyPhoto/default/sprite_x.png) top left repeat-x}
+div.pp_default .pp_top .pp_right{background:url(../images/prettyPhoto/default/sprite.png) -112px -93px no-repeat}
+div.pp_default .pp_content .ppt{color:#f8f8f8}
+div.pp_default .pp_content_container .pp_left{background:url(../images/prettyPhoto/default/sprite_y.png) -7px 0 repeat-y;padding-left:13px}
+div.pp_default .pp_content_container .pp_right{background:url(../images/prettyPhoto/default/sprite_y.png) top right repeat-y;padding-right:13px}
+div.pp_default .pp_next:hover{background:url(../images/prettyPhoto/default/sprite_next.png) center right no-repeat;cursor:pointer}
+div.pp_default .pp_previous:hover{background:url(../images/prettyPhoto/default/sprite_prev.png) center left no-repeat;cursor:pointer}
+div.pp_default .pp_expand{background:url(../images/prettyPhoto/default/sprite.png) 0 -29px no-repeat;cursor:pointer;width:28px;height:28px}
+div.pp_default .pp_expand:hover{background:url(../images/prettyPhoto/default/sprite.png) 0 -56px no-repeat;cursor:pointer}
+div.pp_default .pp_contract{background:url(../images/prettyPhoto/default/sprite.png) 0 -84px no-repeat;cursor:pointer;width:28px;height:28px}
+div.pp_default .pp_contract:hover{background:url(../images/prettyPhoto/default/sprite.png) 0 -113px no-repeat;cursor:pointer}
+div.pp_default .pp_close{width:30px;height:30px;background:url(../images/prettyPhoto/default/sprite.png) 2px 1px no-repeat;cursor:pointer}
+div.pp_default .pp_gallery ul li a{background:url(../images/prettyPhoto/default/default_thumb.png) center center #f8f8f8;border:1px solid #aaa}
+div.pp_default .pp_gallery a.pp_arrow_previous,div.pp_default .pp_gallery a.pp_arrow_next{position:static;left:auto}
+div.pp_default .pp_nav .pp_play,div.pp_default .pp_nav .pp_pause{background:url(../images/prettyPhoto/default/sprite.png) -51px 1px no-repeat;height:30px;width:30px}
+div.pp_default .pp_nav .pp_pause{background-position:-51px -29px}
+div.pp_default a.pp_arrow_previous,div.pp_default a.pp_arrow_next{background:url(../images/prettyPhoto/default/sprite.png) -31px -3px no-repeat;height:20px;width:20px;margin:4px 0 0}
+div.pp_default a.pp_arrow_next{left:52px;background-position:-82px -3px}
+div.pp_default .pp_content_container .pp_details{margin-top:5px}
+div.pp_default .pp_nav{clear:none;height:30px;width:105px;position:relative}
+div.pp_default .pp_nav .currentTextHolder{font-family:Georgia;font-style:italic;font-color:#999;font-size:11px;left:75px;line-height:25px;position:absolute;top:2px;margin:0;padding:0 0 0 10px}
+div.pp_default .pp_close:hover,div.pp_default .pp_nav .pp_play:hover,div.pp_default .pp_nav .pp_pause:hover,div.pp_default .pp_arrow_next:hover,div.pp_default .pp_arrow_previous:hover
+{opacity:0.7}
+div.pp_default .pp_description{font-size:11px;font-weight:700;line-height:14px;margin:5px 50px 5px 0}
+div.pp_default .pp_bottom .pp_left{background:url(../images/prettyPhoto/default/sprite.png) -78px -127px no-repeat}
+div.pp_default .pp_bottom .pp_middle{background:url(../images/prettyPhoto/default/sprite_x.png) bottom left repeat-x}
+div.pp_default .pp_bottom .pp_right{background:url(../images/prettyPhoto/default/sprite.png) -112px -127px no-repeat}
+div.pp_default .pp_loaderIcon{background:url(../images/prettyPhoto/default/loader.gif) center center no-repeat}
+div.light_rounded .pp_top .pp_left{background:url(../images/prettyPhoto/light_rounded/sprite.png) -88px -53px no-repeat}
+div.light_rounded .pp_top .pp_right{background:url(../images/prettyPhoto/light_rounded/sprite.png) -110px -53px no-repeat}
+div.light_rounded .pp_next:hover{background:url(../images/prettyPhoto/light_rounded/btnNext.png) center right no-repeat;cursor:pointer}
+div.light_rounded .pp_previous:hover{background:url(../images/prettyPhoto/light_rounded/btnPrevious.png) center left no-repeat;cursor:pointer}
+div.light_rounded .pp_expand{background:url(../images/prettyPhoto/light_rounded/sprite.png) -31px -26px no-repeat;cursor:pointer}
+div.light_rounded .pp_expand:hover{background:url(../images/prettyPhoto/light_rounded/sprite.png) -31px -47px no-repeat;cursor:pointer}
+div.light_rounded .pp_contract{background:url(../images/prettyPhoto/light_rounded/sprite.png) 0 -26px no-repeat;cursor:pointer}
+div.light_rounded .pp_contract:hover{background:url(../images/prettyPhoto/light_rounded/sprite.png) 0 -47px no-repeat;cursor:pointer}
+div.light_rounded .pp_close{width:75px;height:22px;background:url(../images/prettyPhoto/light_rounded/sprite.png) -1px -1px no-repeat;cursor:pointer}
+div.light_rounded .pp_nav .pp_play{background:url(../images/prettyPhoto/light_rounded/sprite.png) -1px -100px no-repeat;height:15px;width:14px}
+div.light_rounded .pp_nav .pp_pause{background:url(../images/prettyPhoto/light_rounded/sprite.png) -24px -100px no-repeat;height:15px;width:14px}
+div.light_rounded .pp_arrow_previous{background:url(../images/prettyPhoto/light_rounded/sprite.png) 0 -71px no-repeat}
+div.light_rounded .pp_arrow_next{background:url(../images/prettyPhoto/light_rounded/sprite.png) -22px -71px no-repeat}
+div.light_rounded .pp_bottom .pp_left{background:url(../images/prettyPhoto/light_rounded/sprite.png) -88px -80px no-repeat}
+div.light_rounded .pp_bottom .pp_right{background:url(../images/prettyPhoto/light_rounded/sprite.png) -110px -80px no-repeat}
+div.dark_rounded .pp_top .pp_left{background:url(../images/prettyPhoto/dark_rounded/sprite.png) -88px -53px no-repeat}
+div.dark_rounded .pp_top .pp_right{background:url(../images/prettyPhoto/dark_rounded/sprite.png) -110px -53px no-repeat}
+div.dark_rounded .pp_content_container .pp_left{background:url(../images/prettyPhoto/dark_rounded/contentPattern.png) top left repeat-y}
+div.dark_rounded .pp_content_container .pp_right{background:url(../images/prettyPhoto/dark_rounded/contentPattern.png) top right repeat-y}
+div.dark_rounded .pp_next:hover{background:url(../images/prettyPhoto/dark_rounded/btnNext.png) center right no-repeat;cursor:pointer}
+div.dark_rounded .pp_previous:hover{background:url(../images/prettyPhoto/dark_rounded/btnPrevious.png) center left no-repeat;cursor:pointer}
+div.dark_rounded .pp_expand{background:url(../images/prettyPhoto/dark_rounded/sprite.png) -31px -26px no-repeat;cursor:pointer}
+div.dark_rounded .pp_expand:hover{background:url(../images/prettyPhoto/dark_rounded/sprite.png) -31px -47px no-repeat;cursor:pointer}
+div.dark_rounded .pp_contract{background:url(../images/prettyPhoto/dark_rounded/sprite.png) 0 -26px no-repeat;cursor:pointer}
+div.dark_rounded .pp_contract:hover{background:url(../images/prettyPhoto/dark_rounded/sprite.png) 0 -47px no-repeat;cursor:pointer}
+div.dark_rounded .pp_close{width:75px;height:22px;background:url(../images/prettyPhoto/dark_rounded/sprite.png) -1px -1px no-repeat;cursor:pointer}
+div.dark_rounded .pp_description{margin-right:85px;color:#fff}
+div.dark_rounded .pp_nav .pp_play{background:url(../images/prettyPhoto/dark_rounded/sprite.png) -1px -100px no-repeat;height:15px;width:14px}
+div.dark_rounded .pp_nav .pp_pause{background:url(../images/prettyPhoto/dark_rounded/sprite.png) -24px -100px no-repeat;height:15px;width:14px}
+div.dark_rounded .pp_arrow_previous{background:url(../images/prettyPhoto/dark_rounded/sprite.png) 0 -71px no-repeat}
+div.dark_rounded .pp_arrow_next{background:url(../images/prettyPhoto/dark_rounded/sprite.png) -22px -71px no-repeat}d
+iv.dark_rounded .pp_bottom .pp_left{background:url(../images/prettyPhoto/dark_rounded/sprite.png) -88px -80px no-repeat}
+div.dark_rounded .pp_bottom .pp_right{background:url(../images/prettyPhoto/dark_rounded/sprite.png) -110px -80px no-repeat}
+div.dark_rounded .pp_loaderIcon{background:url(../images/prettyPhoto/dark_rounded/loader.gif) center center no-repeat}
+div.dark_square .pp_left,div.dark_square .pp_middle,div.dark_square .pp_right,div.dark_square .pp_content{background:#000}
+div.dark_square .pp_description{color:#fff;margin:0 85px 0 0}div.dark_square .pp_loaderIcon{background:url(../images/prettyPhoto/dark_square/loader.gif) center center no-repeat}
+div.dark_square .pp_expand{background:url(../images/prettyPhoto/dark_square/sprite.png) -31px -26px no-repeat;cursor:pointer}
+div.dark_square .pp_expand:hover{background:url(../images/prettyPhoto/dark_square/sprite.png) -31px -47px no-repeat;cursor:pointer}
+div.dark_square .pp_contract{background:url(../images/prettyPhoto/dark_square/sprite.png) 0 -26px no-repeat;cursor:pointer}
+div.dark_square .pp_contract:hover{background:url(../images/prettyPhoto/dark_square/sprite.png) 0 -47px no-repeat;cursor:pointer}
+div.dark_square .pp_close{width:75px;height:22px;background:url(../images/prettyPhoto/dark_square/sprite.png) -1px -1px no-repeat;cursor:pointer}
+div.dark_square .pp_nav{clear:none}div.dark_square .pp_nav .pp_play{background:url(../images/prettyPhoto/dark_square/sprite.png) -1px -100px no-repeat;height:15px;width:14px}
+div.dark_square .pp_nav .pp_pause{background:url(../images/prettyPhoto/dark_square/sprite.png) -24px -100px no-repeat;height:15px;width:14px}
+div.dark_square .pp_arrow_previous{background:url(../images/prettyPhoto/dark_square/sprite.png) 0 -71px no-repeat}
+div.dark_square .pp_arrow_next{background:url(../images/prettyPhoto/dark_square/sprite.png) -22px -71px no-repeat}
+div.dark_square .pp_next:hover{background:url(../images/prettyPhoto/dark_square/btnNext.png) center right no-repeat;cursor:pointer}
+div.dark_square .pp_previous:hover{background:url(../images/prettyPhoto/dark_square/btnPrevious.png) center left no-repeat;cursor:pointer}
+div.light_square .pp_expand{background:url(../images/prettyPhoto/light_square/sprite.png) -31px -26px no-repeat;cursor:pointer}
+div.light_square .pp_expand:hover{background:url(../images/prettyPhoto/light_square/sprite.png) -31px -47px no-repeat;cursor:pointer}
+div.light_square .pp_contract{background:url(../images/prettyPhoto/light_square/sprite.png) 0 -26px no-repeat;cursor:pointer}
+div.light_square .pp_contract:hover{background:url(../images/prettyPhoto/light_square/sprite.png) 0 -47px no-repeat;cursor:pointer}
+div.light_square .pp_close{width:75px;height:22px;background:url(../images/prettyPhoto/light_square/sprite.png) -1px -1px no-repeat;cursor:pointer}
+div.light_square .pp_nav .pp_play{background:url(../images/prettyPhoto/light_square/sprite.png) -1px -100px no-repeat;height:15px;width:14px}
+div.light_square .pp_nav .pp_pause{background:url(../images/prettyPhoto/light_square/sprite.png) -24px -100px no-repeat;height:15px;width:14px}
+div.light_square .pp_arrow_previous{background:url(../images/prettyPhoto/light_square/sprite.png) 0 -71px no-repeat}
+div.light_square .pp_arrow_next{background:url(../images/prettyPhoto/light_square/sprite.png) -22px -71px no-repeat}
+div.light_square .pp_next:hover{background:url(../images/prettyPhoto/light_square/btnNext.png) center right no-repeat;cursor:pointer}
+div.light_square .pp_previous:hover{background:url(../images/prettyPhoto/light_square/btnPrevious.png) center left no-repeat;cursor:pointer}
+div.facebook .pp_top .pp_left{background:url(../images/prettyPhoto/facebook/sprite.png) -88px -53px no-repeat}
+div.facebook .pp_top .pp_middle{background:url(../images/prettyPhoto/facebook/contentPatternTop.png) top left repeat-x}
+div.facebook .pp_top .pp_right{background:url(../images/prettyPhoto/facebook/sprite.png) -110px -53px no-repeat}
+div.facebook .pp_content_container .pp_left{background:url(../images/prettyPhoto/facebook/contentPatternLeft.png) top left repeat-y}
+div.facebook .pp_content_container .pp_right{background:url(../images/prettyPhoto/facebook/contentPatternRight.png) top right repeat-y}
+div.facebook .pp_expand{background:url(../images/prettyPhoto/facebook/sprite.png) -31px -26px no-repeat;cursor:pointer}
+div.facebook .pp_expand:hover{background:url(../images/prettyPhoto/facebook/sprite.png) -31px -47px no-repeat;cursor:pointer}
+div.facebook .pp_contract{background:url(../images/prettyPhoto/facebook/sprite.png) 0 -26px no-repeat;cursor:pointer}
+div.facebook .pp_contract:hover{background:url(../images/prettyPhoto/facebook/sprite.png) 0 -47px no-repeat;cursor:pointer}
+div.facebook .pp_close{width:22px;height:22px;background:url(../images/prettyPhoto/facebook/sprite.png) -1px -1px no-repeat;cursor:pointer}
+div.facebook .pp_description{margin:0 37px 0 0}div.facebook .pp_loaderIcon{background:url(../images/prettyPhoto/facebook/loader.gif) center center no-repeat}
+div.facebook .pp_arrow_previous{background:url(../images/prettyPhoto/facebook/sprite.png) 0 -71px no-repeat;height:22px;margin-top:0;width:22px}
+div.facebook .pp_arrow_previous.disabled{background-position:0 -96px;cursor:default}
+div.facebook .pp_arrow_next{background:url(../images/prettyPhoto/facebook/sprite.png) -32px -71px no-repeat;height:22px;margin-top:0;width:22px}
+div.facebook .pp_arrow_next.disabled{background-position:-32px -96px;cursor:default}
+div.facebook .pp_nav{margin-top:0}div.facebook .pp_nav p{font-size:15px;padding:0 3px 0 4px}
+div.facebook .pp_nav .pp_play{background:url(../images/prettyPhoto/facebook/sprite.png) -1px -123px no-repeat;height:22px;width:22px}
+div.facebook .pp_nav .pp_pause{background:url(../images/prettyPhoto/facebook/sprite.png) -32px -123px no-repeat;height:22px;width:22px}
+div.facebook .pp_next:hover{background:url(../images/prettyPhoto/facebook/btnNext.png) center right no-repeat;cursor:pointer}
+div.facebook .pp_previous:hover{background:url(../images/prettyPhoto/facebook/btnPrevious.png) center left no-repeat;cursor:pointer}
+div.facebook .pp_bottom .pp_left{background:url(../images/prettyPhoto/facebook/sprite.png) -88px -80px no-repeat}
+div.facebook .pp_bottom .pp_middle{background:url(../images/prettyPhoto/facebook/contentPatternBottom.png) top left repeat-x}
+div.facebook .pp_bottom .pp_right{background:url(../images/prettyPhoto/facebook/sprite.png) -110px -80px no-repeat}
+div.pp_pic_holder a:focus{outline:none}div.pp_overlay{background:#000;display:none;left:0;position:absolute;top:0;width:100%;z-index:9500}
+div.pp_pic_holder{display:none;position:absolute;width:100px;z-index:10000}
+.pp_content{height:40px;min-width:40px}
+* html .pp_content{width:40px}
+.pp_content_container{position:relative;text-align:left;width:100%}
+.pp_content_container .pp_left{padding-left:20px}
+.pp_content_container .pp_right{padding-right:20px}
+.pp_content_container .pp_details{float:left;margin:10px 0 2px}
+.pp_description{display:none;margin:0}
+.pp_social{float:left;margin:7px 0 0}
+.pp_social .facebook{float:left;position:relative;top:-1px;margin-left:5px;width:55px;overflow:hidden}
+.pp_social .twitter{float:left}
+.pp_nav{clear:right;float:left;margin:3px 10px 0 0}
+.pp_nav p{float:left;margin:2px 4px}
+.pp_nav .pp_play,.pp_nav .pp_pause{float:left;margin-right:4px;text-indent:-10000px}
+a.pp_arrow_previous,a.pp_arrow_next{display:block;float:left;height:15px;margin-top:3px;overflow:hidden;text-indent:-10000px;width:14px}
+.pp_hoverContainer{position:absolute;top:0;width:100%;z-index:2000}
+.pp_gallery{display:none;left:50%;margin-top:-50px;position:absolute;z-index:10000}
+.pp_gallery div{float:left;overflow:hidden;position:relative}
+.pp_gallery ul{float:left;height:35px;position:relative;white-space:nowrap;margin:0 0 0 5px;padding:0}
+.pp_gallery ul a {  border:1px rgba(0,0,0,0.5) solid;  display:block; min-height:10px; float:left; height:auto; padding:0px; max-height: 33px; max-width:50px; overflow:hidden }
+.pp_gallery ul a img{border:none; padding:0px; margin:0px; dispaly:block; min-height: 50px; }
+.pp_gallery li{ display:table-cell; vertical-align:middle; float:left; margin:0 5px 0 0;padding:0 }
+.pp_gallery li.default a{background:url(../images/prettyPhoto/facebook/default_thumbnail.gif) 0 0 no-repeat;display:block;}
+.pp_gallery .pp_arrow_previous,.pp_gallery .pp_arrow_next{margin-top:7px!important}
+a.pp_next{background:url(../images/prettyPhoto/light_rounded/btnNext.png) 10000px 10000px no-repeat;display:block;float:right;height:100%;text-indent:-10000px;width:49%}
+a.pp_previous{background:url(../images/prettyPhoto/light_rounded/btnNext.png) 10000px 10000px no-repeat;display:block;float:left;height:100%;text-indent:-10000px;width:49%}
+a.pp_expand,a.pp_contract{cursor:pointer;display:none;height:20px;position:absolute;right:30px;text-indent:-10000px;top:10px;width:20px;z-index:20000}
+a.pp_close{position:absolute;right:0;top:0;display:block;line-height:22px;text-indent:-10000px}
+.pp_loaderIcon{display:block;height:24px;left:50%;position:absolute;top:50%;width:24px;margin:-12px 0 0 -12px}
+#pp_full_res{line-height:1!important}
+#pp_full_res .pp_inline{text-align:left}
+#pp_full_res .pp_inline p{margin:0 0 15px}
+div.ppt{color:#fff;display:none;font-size:17px;z-index:9999;margin:0 0 5px 15px}
+div.pp_default .pp_content,div.light_rounded .pp_content{background-color:#fff}
+div.pp_default #pp_full_res .pp_inline,div.light_rounded .pp_content .ppt,div.light_rounded #pp_full_res .pp_inline,div.light_square .pp_content .ppt,div.light_square #pp_full_res .pp_inline,div.facebook .pp_content .ppt,div.facebook #pp_full_res .pp_inline{color:#000}div.pp_default .pp_gallery ul li a:hover,div.pp_default .pp_gallery ul li.selected a,.pp_gallery ul a:hover,.pp_gallery li.selected a{border-color:#fff}div.pp_default .pp_details,div.light_rounded .pp_details,div.dark_rounded .pp_details,div.dark_square .pp_details,div.light_square .pp_details,div.facebook .pp_details{position:relative}div.light_rounded .pp_top .pp_middle,div.light_rounded .pp_content_container .pp_left,div.light_rounded .pp_content_container .pp_right,div.light_rounded .pp_bottom .pp_middle,div.light_square .pp_left,div.light_square .pp_middle,div.light_square .pp_right,div.light_square .pp_content,div.facebook .pp_content{background:#fff}div.light_rounded .pp_description,div.light_square .pp_description{margin-right:85px}div.light_rounded .pp_gallery a.pp_arrow_previous,div.light_rounded .pp_gallery a.pp_arrow_next,div.dark_rounded .pp_gallery a.pp_arrow_previous,div.dark_rounded .pp_gallery a.pp_arrow_next,div.dark_square .pp_gallery a.pp_arrow_previous,div.dark_square .pp_gallery a.pp_arrow_next,div.light_square .pp_gallery a.pp_arrow_previous,div.light_square .pp_gallery a.pp_arrow_next{margin-top:12px!important}div.light_rounded .pp_arrow_previous.disabled,div.dark_rounded .pp_arrow_previous.disabled,div.dark_square .pp_arrow_previous.disabled,div.light_square .pp_arrow_previous.disabled{background-position:0 -87px;cursor:default}div.light_rounded .pp_arrow_next.disabled,div.dark_rounded .pp_arrow_next.disabled,div.dark_square .pp_arrow_next.disabled,div.light_square .pp_arrow_next.disabled{background-position:-22px -87px;cursor:default}div.light_rounded .pp_loaderIcon,div.light_square .pp_loaderIcon{background:url(../images/prettyPhoto/light_rounded/loader.gif) center center no-repeat}div.dark_rounded .pp_top .pp_middle,div.dark_rounded .pp_content,div.dark_rounded .pp_bottom .pp_middle{background:url(../images/prettyPhoto/dark_rounded/contentPattern.png) top left repeat}div.dark_rounded .currentTextHolder,div.dark_square .currentTextHolder{color:#c4c4c4}div.dark_rounded #pp_full_res .pp_inline,div.dark_square #pp_full_res .pp_inline{color:#fff}.pp_top,.pp_bottom{height:20px;position:relative}* html .pp_top,* html .pp_bottom{padding:0 20px}.pp_top .pp_left,.pp_bottom .pp_left{height:20px;left:0;position:absolute;width:20px}.pp_top .pp_middle,.pp_bottom .pp_middle{height:20px;left:20px;position:absolute;right:20px}* html .pp_top .pp_middle,* html .pp_bottom .pp_middle{left:0;position:static}.pp_top .pp_right,.pp_bottom .pp_right{height:20px;left:auto;position:absolute;right:0;top:0;width:20px}.pp_fade,.pp_gallery li.default a img{display:none}
+
+/*==============================================================  EOF prettyPhoto styles   ==============================================================*/
+/********************************************************************************************************************************************************/
+/********************************************************************************************************************************************************/
+/*==============================================================  BOF Shortcodes styles   ==============================================================*/
+
+/* -------------
+ * Buttons
+ * ------------- */
+a.cosmolink { text-decoration: none; display: inline-block;}
+.cosmobutton { margin: 0 10px 0 0; padding: 0px; border: none; background-color: transparent; cursor: pointer; overflow: hidden; font-family: Arial; outline: none; }
+*:first-child+html .cosmobutton[type]{width: 1;} /* IE7 */
+
+/* -------------
+ * Normal
+ * ------------- */
+.cosmobutton span {background: transparent url(../../lib/images/shortcodes/btn.right.gray.png) no-repeat right top; display: inline-block; float: left; padding: 0px 4px 0px 0px; margin: 0px; height: 33px; }
+.cosmobutton span span { background: transparent url(../../lib/images/shortcodes/btn.left.gray.png) no-repeat top left; color: #000; font-weight: bold; padding: 8px 16px 0px 20px; font-size: 12px; line-height: 19px; display: inline-block; float: left; text-decoration: none; height: 33px; *min-width: 82px; text-align: center; text-shadow: none;}
+.cosmobutton span span span{ *min-width: 16px;}
+/*Gray*/
+.cosmobutton.gray span { background: transparent url(../../lib/images/shortcodes/btn.right.gray.png) no-repeat right top; }
+.cosmobutton.gray span span { background: transparent url(../../lib/images/shortcodes/btn.left.gray.png) no-repeat top left; }
+/*Blue*/
+.cosmobutton.blue span { background: transparent url(../../lib/images/shortcodes/btn.right.blue.png) no-repeat right top; }
+.cosmobutton.blue span span { background: transparent url(../../lib/images/shortcodes/btn.left.blue.png) no-repeat top left; color: #fff; }
+/*Red*/
+.cosmobutton.red span { background: transparent url(../../lib/images/shortcodes/btn.right.red.png) no-repeat right top; }
+.cosmobutton.red span span { background: transparent url(../../lib/images/shortcodes/btn.left.red.png) no-repeat top left; color: #fff;}
+/*Green*/
+.cosmobutton.green span {background: transparent url(../../lib/images/shortcodes/btn.right.green.png) no-repeat right top;}
+.cosmobutton.green span span {background: transparent url(../../lib/images/shortcodes/btn.left.green.png) no-repeat top left; color: #fff;}
+/*Orange*/
+.cosmobutton.orange span {background: transparent url(../../lib/images/shortcodes/btn.right.orange.png) no-repeat right top;}
+.cosmobutton.orange span span {background: transparent url(../../lib/images/shortcodes/btn.left.orange.png) no-repeat top left; color: #fff;}
+/*Black*/
+.cosmobutton.black span {background: transparent url(../../lib/images/shortcodes/btn.right.black.png) no-repeat right top;}
+.cosmobutton.black span span {background: transparent url(../../lib/images/shortcodes/btn.left.black.png) no-repeat top left; color: #fff;}
+/*Brown*/
+.cosmobutton.brown span {background: transparent url(../../lib/images/shortcodes/btn.right.brown.png) no-repeat right top;}
+.cosmobutton.brown span span { background: transparent url(../../lib/images/shortcodes/btn.left.brown.png) no-repeat top left; color: #fff;}
+/*Pink*/
+.cosmobutton.pink span { background: transparent url(../../lib/images/shortcodes/btn.right.pink.png) no-repeat right top; }
+.cosmobutton.pink span span {   background: transparent url(../../lib/images/shortcodes/btn.left.pink.png) no-repeat top left; color: #fff;}
+
+/* -------------
+ * Small
+ * ------------- */
+.cosmobutton.small span { background: transparent url(../../lib/images/shortcodes/btn.right.blue.small.png) no-repeat right top; height: 22px; }
+.cosmobutton.small span span { background: transparent url(../../lib/images/shortcodes/btn.left.blue.small.png) no-repeat top left; padding: 0px 10px 0px 14px; font-size: 11px; line-height: 22px; height: 22px;}
+/*Gray*/
+.cosmobutton.gray.small span { background: transparent url(../../lib/images/shortcodes/btn.right.gray.small.png) no-repeat right top; }
+.cosmobutton.gray.small span span { background: transparent url(../../lib/images/shortcodes/btn.left.gray.small.png) no-repeat top left; }
+/*Blue*/
+.cosmobutton.blue.small span { background: transparent url(../../lib/images/shortcodes/btn.right.blue.small.png) no-repeat right top; }
+.cosmobutton.blue.small span span { background: transparent url(../../lib/images/shortcodes/btn.left.blue.small.png) no-repeat top left; color: #fff; }
+/*Red*/
+.cosmobutton.red.small span { background: transparent url(../../lib/images/shortcodes/btn.right.red.small.png) no-repeat right top; }
+.cosmobutton.red.small span span { background: transparent url(../../lib/images/shortcodes/btn.left.red.small.png) no-repeat top left; color: #fff;}
+/*Green*/
+.cosmobutton.green.small span {background: transparent url(../../lib/images/shortcodes/btn.right.green.small.png) no-repeat right top;}
+.cosmobutton.green.small span span {background: transparent url(../../lib/images/shortcodes/btn.left.green.small.png) no-repeat top left; color: #fff;}
+/*Orange*/
+.cosmobutton.orange.small span {background: transparent url(../../lib/images/shortcodes/btn.right.orange.small.png) no-repeat right top;}
+.cosmobutton.orange.small span span {background: transparent url(../../lib/images/shortcodes/btn.left.orange.small.png) no-repeat top left; color: #fff;}
+/*Black*/
+.cosmobutton.black.small span {background: transparent url(../../lib/images/shortcodes/btn.right.black.small.png) no-repeat right top;}
+.cosmobutton.black.small span span {background: transparent url(../../lib/images/shortcodes/btn.left.black.small.png) no-repeat top left; color: #fff;}
+/*Brown*/
+.cosmobutton.brown.small span {background: transparent url(../../lib/images/shortcodes/btn.right.brown.small.png) no-repeat right top;}
+.cosmobutton.brown.small span span { background: transparent url(../../lib/images/shortcodes/btn.left.brown.small.png) no-repeat top left; color: #fff;}
+/*Pink*/
+.cosmobutton.pink.small span { background: transparent url(../../lib/images/shortcodes/btn.right.pink.small.png) no-repeat right top; }
+.cosmobutton.pink.small span span { background: transparent url(../../lib/images/shortcodes/btn.left.pink.small.png) no-repeat top left; color: #fff;}
+
+/* -------------
+ * Large
+ * ------------- */
+.cosmobutton.large span { background: transparent url(../../lib/images/shortcodes/btn.right.blue.large.png) no-repeat right top; height: 44px; }
+.cosmobutton.large span span { background: transparent url(../../lib/images/shortcodes/btn.left.blue.large.png) no-repeat top left; padding: 0px 20px 0px 24px; font-size: 14px; line-height: 44px; height: 44px; }
+/*Gray*/
+.cosmobutton.gray.large span { background: transparent url(../../lib/images/shortcodes/btn.right.gray.large.png) no-repeat right top; }
+.cosmobutton.gray.large span span { background: transparent url(../../lib/images/shortcodes/btn.left.gray.large.png) no-repeat top left; }
+/*Blue*/
+.cosmobutton.blue.large span { background: transparent url(../../lib/images/shortcodes/btn.right.blue.large.png) no-repeat right top; }
+.cosmobutton.blue.large span span { background: transparent url(../../lib/images/shortcodes/btn.left.blue.large.png) no-repeat top left; color: #fff; }
+/*Red*/
+.cosmobutton.red.large span { background: transparent url(../../lib/images/shortcodes/btn.right.red.large.png) no-repeat right top; }
+.cosmobutton.red.large span span { background: transparent url(../../lib/images/shortcodes/btn.left.red.large.png) no-repeat top left; color: #fff;}
+/*Green*/
+.cosmobutton.green.large span {background: transparent url(../../lib/images/shortcodes/btn.right.green.large.png) no-repeat right top;}
+.cosmobutton.green.large span span {background: transparent url(../../lib/images/shortcodes/btn.left.green.large.png) no-repeat top left; color: #fff;}
+/*Orange*/
+.cosmobutton.orange.large span {background: transparent url(../../lib/images/shortcodes/btn.right.orange.large.png) no-repeat right top;}
+.cosmobutton.orange.large span span {background: transparent url(../../lib/images/shortcodes/btn.left.orange.large.png) no-repeat top left; color: #fff;}
+/*Black*/
+.cosmobutton.black.large span {background: transparent url(../../lib/images/shortcodes/btn.right.black.large.png) no-repeat right top;}
+.cosmobutton.black.large span span {background: transparent url(../../lib/images/shortcodes/btn.left.black.large.png) no-repeat top left; color: #fff;}
+/*Brown*/
+.cosmobutton.brown.large span {background: transparent url(../../lib/images/shortcodes/btn.right.brown.large.png) no-repeat right top;}
+.cosmobutton.brown.large span span { background: transparent url(../../lib/images/shortcodes/btn.left.brown.large.png) no-repeat top left; color: #fff;}
+/*Pink*/
+.cosmobutton.pink.large span { background: transparent url(../../lib/images/shortcodes/btn.right.pink.large.png) no-repeat right top; }
+.cosmobutton.pink.large span span { background: transparent url(../../lib/images/shortcodes/btn.left.pink.large.png) no-repeat top left; color: #fff;}
+
+/* -------------
+ * Icons
+ * ------------- */
+.cosmo-ico { position: relative; top: 2px; width: 16px!important; height: 16px!important; margin-right: 10px!important; margin-top: 1px!important; padding: 0!important; float: left!important;}
+.cosmobutton .cosmo-ico {top: 0; }
+.cosmobutton.comment .cosmo-ico{ background: url(../../lib/images/shortcodes/icons.png) 0px 0 no-repeat!important; }
+.cosmobutton.download .cosmo-ico{ background: url(../../lib/images/shortcodes/icons.png) -16px 0 no-repeat!important;}
+.cosmobutton.print .cosmo-ico{ background: url(../../lib/images/shortcodes/icons.png) -32px 0 no-repeat!important;}
+.cosmobutton.delete .cosmo-ico{ background: url(../../lib/images/shortcodes/icons.png) -48px 0 no-repeat!important;}
+.cosmobutton.tick .cosmo-ico{ background: url(../../lib/images/shortcodes/icons.png) -64px 0 no-repeat!important;}
+.cosmobutton.info .cosmo-ico{ background: url(../../lib/images/shortcodes/icons.png) -80px 0 no-repeat!important;}
+.cosmobutton.demo .cosmo-ico{ background: url(../../lib/images/shortcodes/icons.png) -96px 0 no-repeat!important;}
+.cosmobutton.warning .cosmo-ico{ background: url(../../lib/images/shortcodes/icons.png) -112px 0 no-repeat!important;}
+.cosmobutton.error .cosmo-ico{ background: url(../../lib/images/shortcodes/icons.png) -128px 0 no-repeat!important;}
+
+/*hover Normal*/
+.cosmobutton:hover span span { background-position: left -33px ; }
+.cosmobutton:hover span { background-position: right -33px ; }
+
+/*clicked Normal*/
+.cosmobutton:active span span { background-position: left -66px ; }
+.cosmobutton:active span { background-position: right -66px ; }
+
+/*hover Large*/
+.cosmobutton.large:hover span span { background-position: left -44px ; }
+.cosmobutton.large:hover span { background-position: right -44px ; }
+
+/*clicked Large*/
+.cosmobutton.large:active span span { background-position: left -88px ; }
+.cosmobutton.large:active span { background-position: right -88px ; }
+
+/*hover Small*/
+.cosmobutton.small:hover span span { background-position: left -22px ; }
+.cosmobutton.small:hover span { background-position: right -22px ; }
+
+/*clicked Small*/
+.cosmobutton.small:active span span { background-position: left -44px ; }
+.cosmobutton.small:active span { background-position: right -44px ; }
+
+/* IE 6 */
+* html .cosmobutton { height:33px; }
+* .cosmobutton span span { height: 33px; }
+/* IE 7 */
+*+ html .cosmobutton { height:33px; }
+*+ .cosmobutton span span { height: 25px; }
+/* IE 6 Large */
+* html .cosmobutton.large { height:44px; }
+* .cosmobutton.large span span { height: 44px; }
+/* IE 7 Large */
+*+ html .cosmobutton.large { height:44px; }
+*+ .cosmobutton.large span span { height: 44px; }
+/* IE 6 Small */
+* html .cosmobutton.small { height:22px; }
+* .cosmobutton.small span span { height: 22px; }
+/* IE 7 Small */
+*+ html .cosmobutton.small { height:22px; }
+*+ .cosmobutton.small span span { height: 22px; }
+
+/* -------------
+ * Dividers
+ * ------------- */
+.cosmo-hr, .cosmo-divider { clear: both; display: inline-block; width: 100%; margin: 15px 0 30px 0;}
+.cosmo-hr { border-top: 1px dotted #c5c8cc; }
+
+/* -------------
+ * Blockquote
+ * ------------- */
+.cosmo-blockquote { display: block; *display: inline-block;}
+.cosmo-blockquote p { margin: 1em 20px 1.5em 20px; padding: 0 0 0 40px; background: url(../../lib/images/shortcodes/quote.png) no-repeat 0 3px; font-style: italic; color:gray; min-height: 25px; }
+.cosmo-blockquote.left { float:left; width:40%;}
+.cosmo-blockquote.right { float:right; width:40%;}
+.cosmo-blockquote.boxed { background: white; border: 1px solid #ccc; border-radius:6px;-moz-border-radius:6px;-webkit-border-radius:6px; -khtml-border-radius: 6px;}
+.cosmo-blockquote.boxed.left { margin: 0 1.5em 1em 0;}
+.cosmo-blockquote.boxed.right { margin: 0 0 1em 1.5em;}
+
+.night .cosmo-blockquote.boxed {background: #333; border: 1px solid #272727;}
+
+/* -------------
+ * Boxes
+ * ------------- */
+.cosmo-box { float: left; width: 100%; position: relative; clear: both; margin: 1em 0 1.5em 0; padding:0; color: #555; -moz-border-radius: 0px; -khtml-border-radius: 0px; -webkit-border-radius: 0px; border-radius: 0px;}
+.cosmo-box div.fl, .cosmo-box div.fr{padding: 10px;min-width: 20%;}
+.cosmo-box div.fl {max-width: 70%;}
+.cosmo-box div.fl span, .cosmo-box div.fr span{
+	position: absolute;
+}
+
+.cosmo-box div.fl span, .cosmo-box div.fr span{
+	left:0px;
+}
+
+.cosmo-box div.fl p.box-content, .cosmo-box div.fr p.box-content{
+	padding-left: 35px;
+}
+
+.cosmo-box.large div.fl, .cosmo-box.large div.fr {padding:25px; }
+
+.cosmo-box h5 {font: italic normal 18px Georgia, "Times New Roman", Times, serif; margin-bottom: 15px; display: block; padding-left: 35px; position: relative;}
+.cosmo-box.large h5 {font: 20px"Helvetica", Arial, serif;margin-top: 0;}
+
+.cosmo-box .fr { 
+	padding: 20px 10px; 
+	text-align: right; 
+	position: absolute;
+	height: 100%;
+	right: 0;
+	max-width: 30%;
+}
+
+.cosmo-box.large .fr { padding: 40px 25px 40px 60px;}
+.cosmo-box.large .fr { padding: 40px 25px; }
+
+.cosmo-box .fr a{background: none; color: white; text-transform: none; }
+.cosmo-box .fr a span.desc { display: block; font: normal 11px Helvetica, Arial, sans-serif; color: #FFF;opacity: 0.8;display: block;margin-top: 15px;line-height: 1.4;}
+
+.cosmo-box .fr {background-color: rgba(0,0,0,0.2);}
+
+.cosmo-box.default{ background: #f7f7f7; color: #414141;} 
+.cosmo-box.search{  background: #f7f7f7; color: #414141;}
+.cosmo-box.comments  {  background: #f7f7f7; color: #414141;}
+.cosmo-box.tick {background: #78AD0F; color: #FFF;}
+.cosmo-box.info {  background: #386ebd; color: #fff;}
+.cosmo-box.full-box .fl {  max-width: 100%; }
+.cosmo-box.download { background: #3E9388; color: #FFF;}
+.cosmo-box.warning { background: #FFD800; color: #414141;}
+.cosmo-box.error { background: #FC1200; color: #FFF;}
+
+.cosmo-box .fl h5 span{ top: -2px;font-size: 18px;}
+/* -------------
+ * List Styles - Unordered List
+ * ------------- */
+.cosmo-unorderedlist ul, .cosmo-orderedlist ol { margin:0 0 1.5em 0; padding: 0; font-weight: normal; line-height: 2em;}
+.cosmo-unorderedlist ul li i{ padding-right: 5px; font-size: 16px; }
+.cosmo-unorderedlist ul li, .cosmo-unorderedlist ul li ul { list-style-type: none!important; font-size: 16px; }
+.cosmo-unorderedlist.tick ul li i { color: #55d747; }
+.cosmo-unorderedlist.cancel ul li i { color: #f55225; }
+.cosmo-unorderedlist.bullet ul li i { color: #c9c9c9; }
+.cosmo-unorderedlist.arrow ul li i { color: #7cae63; }
+.cosmo-unorderedlist.star ul li i { color: #ffb300; }
+
+/* -------------
+ * List Styles - Ordered List
+ * ------------- */
+.cosmo-orderedlist ol li, .cosmo-orderedlist ol li ol, .cosmo-orderedlist ol li { list-style-type: none; margin-left: 0; font-size: 12px; }
+.cosmo-orderedlist.armenian ol li, .cosmo-orderedlist.armenian ol li { list-style-type: armenian; }
+.cosmo-orderedlist.decimal ol li, .cosmo-orderedlist.decimal ol li { list-style-type: decimal; }
+.cosmo-orderedlist.decimal-leading-zero ol li, .cosmo-orderedlist.decimal-leading-zero ol li { list-style-type: decimal-leading-zero; }
+.cosmo-orderedlist.georgian ol li, .cosmo-orderedlist.georgian ol li { list-style-type: georgian; }
+.cosmo-orderedlist.lower-alpha ol li, .cosmo-orderedlist.lower-alpha ol li { list-style-type: lower-alpha; }
+.cosmo-orderedlist.lower-greek ol li, .cosmo-orderedlist.lower-greek ol li { list-style-type: lower-greek; }
+.cosmo-orderedlist.lower-latin ol li, .cosmo-orderedlist.lower-latin ol li { list-style-type: lower-latin; }
+.cosmo-orderedlist.lower-roman ol li, .cosmo-orderedlist.lower-roman ol li { list-style-type: lower-roman; }
+.cosmo-orderedlist.upper-alpha ol li, .cosmo-orderedlist.upper-alpha ol li { list-style-type: upper-alpha; }
+.cosmo-orderedlist.upper-latin ol li, .cosmo-orderedlist.upper-latin ol li { list-style-type: upper-latin; }
+.cosmo-orderedlist.upper-roman ol li, .cosmo-orderedlist.upper-roman ol li { list-style-type: upper-roman; }
+
+/* -------------
+ * Highlight and Abbreviation
+ * ------------- */
+span.cosmo-highlight { background: #FFFFAA; padding: 3px 3px 1px;  color:#000;}
+abbr { border-bottom: 1px dashed #999999; cursor: help; }
+
+/* -------------
+ * Dropcap
+ * ------------- */
+span.dropcap { font-size: 330%; font-weight: bold; float: left; position: relative; margin:5px 7px 0 0; line-height: 0.7em; }
+
+/* -------------
+ * Tabs - Horizontal
+ * ------------- */
+.cosmo-tabs {clear: both; display: inline-block; background: white; margin: 20px 0; width: 100%; border: 1px solid #efefef; float: none; border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px;}
+@media projection, screen { .cosmo-tabs .tabs-hide { display: none; } }
+@media print {.cosmo-tabs .tabs-nav { display: none;} }
+.cosmo-tabs ul.tabs-nav{ -moz-border-radius-topleft: 3px; -webkit-border-top-left-radius: 3px; border-top-left-radius: 3px 3px; -moz-border-radius-topright: 3px; -webkit-border-top-right-radius: 3px; border-top-right-radius: 3px 3px; list-style: none; margin: 0; padding: 0; height: 39px; border-bottom: 1px solid #efefef; background: #fafafa; float: none!important;}
+.cosmo-tabs .tabs-nav li { float: left; margin: 0; min-width: 68px; width: auto!important; border-right: 1px solid #efefef; height: 40px; padding: 0!important; background: none!important; list-style-type: none!important;}
+.cosmo-tabs .tabs-nav li.first{ -moz-border-radius-topleft: 4px; -webkit-border-top-left-radius: 4px; border-top-left-radius: 4px 4px; }
+.cosmo-tabs .tabs-nav a, .cosmo-tabs .tabs-nav a span { display: block; padding: 0 10px; cursor: pointer;}
+.cosmo-tabs .tabs-nav a { position: relative; top: 1px; z-index: 2; padding-left: 0; color: #444; text-shadow: 0 1px 0 #fff; font-weight: bold; line-height: 14px;  text-align: center; text-decoration: none;}
+.cosmo-tabs .tabs-nav .tabs-selected a { color: #000; }
+.cosmo-tabs .tabs-nav .tabs-selected a, .cosmo-tabs .tabs-nav a:hover, .cosmo-tabs .tabs-nav a:focus, .cosmo-tabs .tabs-nav a:active { outline: 0;}
+.cosmo-tabs .tabs-nav a span { width: 46px; min-width: 46px; height: 28px; min-height: 28px; padding-top: 12px; padding-right: 0; }
+*>.cosmo-tabs .tabs-nav a span { width: auto; height: auto;}
+.cosmo-tabs .tabs-nav .tabs-selected {  background: #fff!important; border-bottom: none;}
+.cosmo-tabs .tabs-container { clear: both; padding: 15px; background: white; -moz-border-radius-topleft: 3px; -webkit-border-bottom-left-radius: 3px; border-bottom-left-radius: 3px 3px; -moz-border-radius-bottomright: 3px; -webkit-border-bottom-right-radius: 3px; border-bottom-right-radius: 3px 3px; }
+ 
+/* -------------
+ * Tabs - Vertical
+ * ------------- */
+.cosmo-tabs.vertical {position: relative;}
+.cosmo-tabs.vertical ul.tabs-nav{ float: left!important; height: auto; width: 20%; border-bottom: none; *background: none; }
+.cosmo-tabs.vertical .tabs-nav li {float: none; border-right: 1px solid #efefef; border-bottom: 1px solid #efefef; height: 38px;}
+.cosmo-tabs.vertical .tabs-nav li.last { -moz-border-radius-bottomleft: 4px; -webkit-border-bottom-left-radius: 4px; border-bottom-left-radius: 4px 4px; border-bottom: none;}
+.cosmo-tabs.vertical .tabs-nav .tabs-selected { border-right: 1px solid #fff; }
+.cosmo-tabs.vertical .tabs-nav li.first.tabs-selected {border-top: none;}
+.cosmo-tabs.vertical .tabs-nav a span { }
+.cosmo-tabs.vertical .tabs-container { margin-left: 20%; padding: 10px 20px; clear: none;}
+.cosmo-tabs.vertical .tabs-container p{ margin: 0; padding: 0; }
+
+.night .cosmo-tabs.vertical .tabs-nav .tabs-selected {border-right: 1px solid #383838;}
+.night .cosmo-tabs.vertical .tabs-nav li { border-right: 1px solid #272727; border-bottom: 1px solid #272727;}
+.night .cosmo-tabs.vertical .tabs-nav li.last {border-bottom: none;}
+
+/* -------------
+ * Accordion
+ * ------------- */
+h2.cosmo-acc-trigger { font-family: Arial!important;padding: 0;  margin: 2px 0 0 0; background: #fafafa; height: 39px ; line-height: 39px !important; font-size: 14px !important; border: 1px solid #efefef; text-shadow: 0 1px 0 #fff; -webkit-border-radius: 4px 4px 0 0; -moz-border-radius: 4px 4px 0 0; border-radius: 4px 4px 0 0;}
+h2.cosmo-acc-trigger a { color: #444; text-decoration: none; display: block; padding: 0 0 0 20px; margin: 0 0 0 20px; outline: none; background: url(../../lib/images/shortcodes/accordion.arrows.png) left 15px no-repeat; height: 30px;}
+h2.cosmo-acc-trigger.active a{background-position: left -10px;}
+.cosmo-acc-container { line-height: 1.8em; margin: 0; padding:0px; border: 1px solid #efefef; border-top: none; overflow: hidden; -webkit-border-radius: 0 0 4px 4px; -moz-border-radius: 0 0 4px 4px; border-radius: 0 0 4px 4px;}
+.cosmo-acc-container-margin{margin: 20px; font-size: 12px;}
+.cosmo-accordion h2{margin-top:0px !important;}
+
+/* -------------
+ * text color for Accordion, Tabs - Vertical & toggle
+ * ------------- */
+ .tabs-container, .tabs-container, .cosmo-toggle-container, .cosmo-acc-container{ color: inherit; }
+
+/* -------------
+ * Columns
+ * ------------- */
+.twocol_one{width:48%;}
+.threecol_one{width:30.66%;}
+.threecol_two{width:65.33%;}
+.fourcol_one{width:22%;}
+.fourcol_two{width:48%;}
+.fourcol_three{width:74%;}
+.fivecol_one{width:16.8%;}
+.fivecol_two{width:37.6%;}
+.fivecol_three{width:58.4%;}
+.fivecol_four{width:67.2%;}
+.twocol_one,.threecol_one,.threecol_two,.fourcol_one,.fourcol_two,.fourcol_three,.fivecol_one,.fivecol_two,.fivecol_three,.fivecol_four{float:left;margin-right:4%;position:relative;}
+.last{clear:right;margin-right:0 !important;}
+
+@media only screen and (max-width: 767px) {
+	.twocol_one,.threecol_one,.threecol_two,.fourcol_one,.fourcol_two,.fourcol_three,.fivecol_one,.fivecol_two,.fivecol_three,.fivecol_four {float: none; margin: 0 0 30px 0; width: 100%; }
+}
+
+/* -------------
+ * Toggle
+ * ------------- */
+.cosmo-toggle {clear: both; display: inline-block; margin: 20px 0; width: 100%;}
+.cosmo-toggle h2.cosmo-toggle-h2 {font-family: Arial; font-size: 14px!important;float: none;width:auto;padding: 0; margin: 0; background: #fafafa; height: 39px; line-height: 39px; font-size: 14px; border: 1px solid #efefef; text-shadow: 0 1px 0 #fff; cursor: pointer; -webkit-border-radius: 4px 4px 0 0; -moz-border-radius: 4px 4px 0 0; border-radius: 4px 4px 0 0;}
+.cosmo-toggle h2 a.show, .cosmo-toggle h2 a.toggle_close  { color: #444; text-decoration: none; display: block; margin: 0 0 0 20px; padding: 0 0 0 20px; outline: none; background: url(../../lib/images/shortcodes/toggle.arrows.png) left 15px no-repeat; height: 30px;}
+.cosmo-toggle h2 a.toggle_close  { background-position: left -11px;}
+.cosmo-toggle .cosmo-toggle-container { line-height: 1.8em; border: 1px solid #efefef; border-top: none; overflow: hidden; -webkit-border-radius: 0 0 4px 4px; -moz-border-radius: 0 0 4px 4px; border-radius: 0 0 4px 4px;}
+.cosmo-toggle h2 a span{line-height: 39px;}
+.cosmo-toggle-container-margin{margin: 20px; font-size: 12px;}
+div.hidden, span.hidden { display:none }
+
+/*--------------
+* Admin Cosmo Ico
+*-------------*/
+img.cosmo-icon { float: left; margin: 0 10px 0 0; }
+
+/*Pricing box*/
+.cols-2, .cols-3, .cols-4, .cols-5 { float: left; width: 100%; display: block; margin-top: 20px; }
+
+.pricing_box  { border: 1px solid rgba(0,0,0,0.1); float: left; text-align: center; padding: 0 0 20px 0; margin-left:-1px; box-shadow: 0 2px 10px -4px rgba(0, 0, 0, 0.25); -moz-box-shadow: 0 2px 10px -4px rgba(0, 0, 0, 0.25); background: #fff;}
+.pricing_box.radius-left { -webkit-border-top-left-radius: 5px; border-top-left-radius: 5px; -moz-border-top-left-radius: 5px; -webkit-border-bottom-left-radius: 5px; border-bottom-left-radius: 5px; -moz-border-bottom-left-radius: 5px;}
+.pricing_box.radius-right { -webkit-border-top-right-radius: 5px; border-top-right-radius: 5px; -moz-border-top-right-radius: 5px; -webkit-border-bottom-right-radius: 5px; border-bottom-right-radius: 5px; -moz-border-bottom-right-radius: 5px;}
+.pricing_box .header  {
+	text-shadow: 0 1px 1px #fff;
+	border-bottom: 1px solid rgba(0,0,0,0.1); 
+	-webkit-border-top-right-radius: 5px;
+	border-top-right-radius: 5px;
+	-moz-border-top-right-radius: 5px;
+	-webkit-border-top-left-radius: 5px;
+	border-top-left-radius: 5px;
+	-moz-border-top-left-radius: 5px;
+	background: rgb(255,255,255); /* Old browsers */
+	background: rgb(255,255,255); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(255,255,255,1) 0%, rgba(244,244,244,1) 30%, rgba(255,255,255,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(30%,rgba(244,244,244,1)), color-stop(100%,rgba(255,255,255,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(244,244,244,1) 30%,rgba(255,255,255,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(244,244,244,1) 30%,rgba(255,255,255,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(244,244,244,1) 30%,rgba(255,255,255,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(255,255,255,1) 0%,rgba(244,244,244,1) 30%,rgba(255,255,255,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+
+
+}
+.pricing_box .header { width: 100%; height: 68px; }
+.pricing_box .header span { position: relative; top: 20px; font-size: 16px; font-weight: bold; line-height: 28px;color:#767C7F;}
+.pricing_box .header span.info { position: relative; font-size: 12px; font-weight: normal; top: 2px; display: block; color: gray; } 
+.pricing_box p { line-height: 28px;}
+.pricing_box ul { list-style: none; margin: 0 0 15px 0!important; text-align: left;}
+
+.cols-2 .pricing_box { width: 49.8%; }
+.cols-3 .pricing_box  { width: 33%; }
+.cols-4 .pricing_box { width: 24.8%; font-size: 1em; }
+.cols-5 .pricing_box { width: 19.5%; font-size: 0.9em;}
+
+.pricing_box ul li { line-height: 4em!important; margin: 0; padding-left: 20px!important; list-style-type: none!important;}
+.pricing_box ul li.odd { background: #F9F9F9;border-top: 1px solid rgba(0,0,0,0.04);border-bottom: 1px solid rgba(255,255,255,0.25);}
+.pricing_box ul li.even { background: #fff;border-top: 1px solid rgba(0,0,0,0.08);border-bottom: 1px solid rgba(255,255,255,0.25);}
+.pricing_box ul li:first-child { border-top: 0 none;}
+.pricing_box ul li:last-child { border-bottom: 1px solid rgba(0,0,0,0.08);}
+.pricing_box strong {  height: 12px; font-style: normal; color: #767C7F; float: none !important; font-weight: normal;}
+.pricing_box strong.icon-close:before {color: #D3D3D3;width: 1.8em;font-size: 130%;}
+.pricing_box strong.icon-tick:before {color: #0BBC40;width: 1.8em;font-size: 130%;}
+.pricing_box strong.single {  }
+.pricing_box strong.unlim {  }
+.pricing_box strong.more{  height: 20px; width: 20px; cursor: pointer; float: right; padding: 0; margin: 14px 14px 0 0;}
+.pricing_box strong.nopad { padding: 0;}
+.pricing_box h3{ margin: 20px 0; font-size: 32px; display: block;color: #646464;}
+.pricing_box h3 em{ font-size: 12px; font-weight: normal;}
+
+.pricing_box p.button {
+	float: none;
+	*float: left;
+	background: none;
+	padding: 0;
+	border: none; 
+}
+.pricing_box p.button a {
+	height: 32px;
+	line-height: 30px;
+	padding:0 30px;
+	background-color: #F5F5F5;
+	border: 1px solid rgba(0, 0, 0, 0.05);
+	border-radius: 3px 3px 3px 3px;
+	display: inline-block;
+	margin: 0;
+	-webkit-transition: background-color 0.2s ease-in 0s;
+	-moz-transition: background-color 0.2s ease-in 0s;
+	-o-transition: background-color 0.2s ease-in 0s;
+	-ms-transition: background-color 0.2s ease-in 0s;
+	transition: background-color 0.2s ease-in 0s;
+	width: auto;
+	font-weight: 400;
+}
+
+.pricing_box p.button a:hover{background-color: #f1f1f1;}
+
+.pricing_box.large { position: relative; z-index: 9; margin-top: -20px; -moz-box-shadow: 0 1px 10px #cbcbcb; -webkit-box-shadow: 0 1px 10px #cbcbcb; box-shadow: 0px 1px 10px #cbcbcb; padding: 0 0 40px 0; border-radius: 5px;}
+
+.pricing_box.large .header {
+	color: #fff;
+	text-shadow:0 -1px 0 rgba(0,0,0,.6);
+	height: 88px;
+	background: #2d94d7; /* Old browsers */
+	border: 1px solid rgba(0,0,0,0.1);
+}
+.pricing_box.large .header  span{ top: 30px;font-size: 22px;color: #FFF;}
+.pricing_box.large .header  span.info{ top: 14px; color: #576e1f; text-shadow:none; }
+
+
+.pricing_box.large p.button a{ background: #2d94d7;	color: #FFF;}
+.pricing_box.large p.button a:hover{ border: 1px solid rgba(0,0,0,0.15); }
+
+/*Tables*/
+.cosmotable { border-radius: 5px 5px 0 0; margin: 0 -1px 24px 0; text-align: left; width: 100%; border: 1px solid #e7e7e7; border-collapse: separate; border-spacing: 0; box-shadow: 0 2px 10px -4px rgba(0, 0, 0, 0.5)}
+
+.cosmotable tr th { border-radius: 5px 5px 0 0; padding: 10px; font-weight: bold; color: black; background: #F9F9F9; border-bottom: 1px solid #e7e7e7; }
+.cosmotable tr td { font-size: 12px; padding: 10px; text-align: left; background: #F9F9F9; vertical-align:middle;}
+
+.cosmotable tr:nth-child(even) td, #content .cosmotable tr:nth-child(even) th { background-color: #ffffff; }
+
+.cosmotable.blue tr th { background: #47aec8; color: white; }
+.cosmotable.green tr th { background: #94c847; color: white;}
+
+/*================= Skills shortcode ==================*/
+.cosmo-skill span {
+    padding-bottom: 5px;
+    margin-bottom: 0;
+    color: inherit;
+    font-size: 18px;
+    display: inline-block;
+}
+.cosmo-skill {
+    margin-bottom: 20px;
+}
+.cosmo-skill em {
+    color: inherit;
+	padding-left: 8px;
+	font-style: normal;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+	opacity: 0.6;
+}
+.cosmo-skill em:before {
+    content: "-";
+    display: inline-block;
+    padding-right: 10px;
+}
+.meter {
+    background: none repeat scroll 0 0 #F6F6F6;
+    height: 10px;
+    position: relative;
+    width: 100%;
+}
+.meter > span {
+    background-color: #ed5a48;
+    display: block;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+/*================= Contact shortcode ==================*/
+.contact-form form.contactform input, .widget form.b_contact input{
+	height: 30px;
+	background: #FFF;
+}
+.contact-form form.contactform textarea{
+	min-height: 130px;
+	background: #FFF;
+}
+.contact-form form.contactform label{
+	font-size: 12px;
+	color: #888;
+}
+.post .excerpt .contact-form p {
+	margin-bottom: 10px;
+}
+.contact-form form.contactform input {
+	margin-bottom: 0;
+}
+.contact-form form.contactform label {
+	margin-bottom: 0;
+}
+.contact-form form.contactform .textarea {
+	margin-top: 20px;
+}
+/*==============================================================  EOF Shortcodes styles   ==============================================================*/
+/********************************************************************************************************************************************************/
+/********************************************************************************************************************************************************/
+/*==============================================================  BOF Flexslider styles   ==============================================================*/
+/*
+ * jQuery FlexSlider v2.0
+ * http://www.woothemes.com/flexslider/
+ *
+ * Copyright 2012 WooThemes
+ * Free to use under the GPLv2 license.
+ * http://www.gnu.org/licenses/gpl-2.0.html
+ *
+ * Contributing author: Tyler Smith (@mbmufffin)
+ */
+
+ 
+/* Browser Resets */
+.flex-container a:active,
+.flexslider a:active,
+.flex-container a:focus,
+.flexslider a:focus  {outline: none;}
+.slides,
+.flex-control-nav,
+.flex-direction-nav {margin: 0; padding: 0; list-style: none;} 
+
+/* FlexSlider Necessary Styles
+*********************************/ 
+.flexslider {margin: 0; padding: 0;}
+.flexslider .slides > li {display: none; -webkit-backface-visibility: hidden;} /* Hide the slides before the JS is loaded. Avoids image jumping */
+.flexslider .slides img {width: 100%; display: block;}
+.flex-pauseplay span {text-transform: capitalize;}
+
+/* Clearfix for the .slides element */
+.slides:after {content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;} 
+html[xmlns] .slides {display: block;} 
+* html .slides {height: 1%;}
+
+/* No JavaScript Fallback */
+/* If you are not using another script, such as Modernizr, make sure you
+ * include js that eliminates this class on page load */
+.no-js .slides > li:first-child {display: block;}
+
+
+/* FlexSlider Default Theme
+*********************************/
+.flexslider {margin: 0 0 60px; background: #fff; zoom: 1;position: relative;}
+.flex-viewport {max-height: 2000px; -webkit-transition: all 1s ease; -moz-transition: all 1s ease; transition: all 1s ease;}
+.loading .flex-viewport {max-height: 300px;}
+.flexslider .slides {zoom: 1;}
+
+.carousel li {margin-right: 5px}
+
+
+/* Direction Nav */
+.flex-direction-nav {*height: 0;}
+.flex-direction-nav a {width: 30px; height: 30px; margin: -20px 0 0; display: block; position: absolute; top: 50%; z-index: 10; cursor: pointer; text-indent: -9999px; opacity: 1; -webkit-transition: all .3s ease;background: #FFF;box-shadow: 0 1px 1px 0px rgba(0,0,0,0.05);}
+.flex-direction-nav .flex-next {background-position: 100% 0; right: 15px; }
+.flex-direction-nav .flex-prev {left: 15px;}
+.flexslider:hover .flex-next {opacity: 0.8;}
+.flexslider:hover .flex-prev {opacity: 0.8;}
+.flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover {opacity: 1;}
+.flex-direction-nav .flex-disabled {cursor: default;}
+.flex-direction-nav a { font-family: 'fontello'; text-indent: 0; font-size: 40px; width: 24px;height: 40px; line-height: 40px; overflow: hidden; letter-spacing:20px; color: #dfdfdf; color: rgba(0,0,0,0.3); box-shadow: none; background: none; }
+.flex-direction-nav .flex-prev { left: 10px;  opacity: 0.8; }
+.flex-direction-nav .flex-next { right: 10px;  opacity: 0.8; }
+.flex-prev:before { content: '\e75d'; } /* '' */
+.flex-next:before { content: '\e75e'; } /* '' */
+
+/* Control Nav */
+.flex-control-nav {width: 100%; position: absolute; bottom: 15px; text-align: center;z-index: 9;}
+.flex-control-nav li {margin: 0 3px; display: inline-block; zoom: 1; *display: inline;}
+.flex-control-paging li a {
+	background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 50% 50% 50% 50%;
+    box-shadow: 0 1px 1px 1px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    display: inline-block;
+    height: 15px;
+    transition: background-color 0.2s ease 0s;
+    width: 15px;
+    text-indent: -99999px;
+}
+.flex-control-paging li a:hover { background: #FFF;}
+.flex-control-paging li a.flex-active { background: #ed5a48; cursor: default; }
+
+.flex-control-thumbs {margin: 5px 0 0; position: static; overflow: hidden;}
+.flex-control-thumbs li {width: 25%; float: left; margin: 0;}
+.flex-control-thumbs img {width: 100%; display: block; opacity: .7; cursor: pointer;}
+.flex-control-thumbs img:hover {opacity: 1;}
+.flex-control-thumbs .flex-active {opacity: 1; cursor: default;}
+
+@media screen and (max-width: 860px) {
+  .flex-direction-nav .flex-prev {opacity: 1; left: 0;}
+  .flex-direction-nav .flex-next {opacity: 1; right: 0;}
+}
+/*==============================================================  EOF Flexslider styles   ==============================================================*/

@@ -1,0 +1,18 @@
+@media only screen and (min-width: 480px) and (max-width: 767px){
+
+
+	#header-container > .row{
+		display: block !important;
+	}
+	#header-container > .row > .columns{
+		display: block !important;
+		vertical-align: middle;
+		float: left !important;
+	}
+	#page{
+		border: 0 none !important;
+	}
+	.widget .tabs-controller li{
+		font-size: 12px;
+	}
+}

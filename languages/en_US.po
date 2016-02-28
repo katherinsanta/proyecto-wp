@@ -1,0 +1,6721 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tripod v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-07-04 12:44:53+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: lib/php/fields.class.php:672
+#@ cosmotheme
+msgid " Attached "
+msgstr ""
+
+#: lib/php/widget/custom_post.php:5
+#: lib/php/widget/custom_post.php:6
+#@ cosmotheme
+msgid " Latest custom posts"
+msgstr ""
+
+#: comments.php:25
+#, php-format
+#@ cosmotheme
+msgid "%1$s&nbsp;&nbsp;%2$s"
+msgstr ""
+
+#: entry-meta.php:2
+#, php-format
+#@ cosmotheme
+msgid "%s"
+msgstr ""
+
+#: lib/php/login.class.php:94
+#, php-format
+#@ cosmotheme
+msgid "%s - Your user name and password"
+msgstr ""
+
+#: lib/templates/our_themes.php:26
+#, php-format
+#@ cosmotheme
+msgid "%s All Cosmothemes items %s"
+msgstr ""
+
+#: lib/php/widget/instagram.php:114
+#, php-format
+#@ cosmotheme
+msgid "%s Please set the Number of images to show within the widget %s"
+msgstr ""
+
+#: archive.php:25
+#, php-format
+#@ cosmotheme
+msgid "%s archives"
+msgstr ""
+
+#: pagination.php:24
+#@ cosmotheme
+msgid "&laquo; Previous"
+msgstr ""
+
+#: lib/templates/layouttemplate.php:33
+#@ cosmotheme
+msgid "( Slideshow settings )"
+msgstr ""
+
+#: lib/php/options.register.php:528
+#@ cosmotheme
+msgid "(i.e. cosmo.theme)"
+msgstr ""
+
+#: lib/php/options.register.php:529
+#@ cosmotheme
+msgid "(i.e. cosmothemes)"
+msgstr ""
+
+#: lib/php/options.register.php:533
+#@ cosmotheme
+msgid "(i.e. http://dribbble.com/cosmothemes)"
+msgstr ""
+
+#: lib/php/options.register.php:541
+#@ cosmotheme
+msgid "(i.e. http://instagram.com/yourname)"
+msgstr ""
+
+#: lib/php/options.register.php:542
+#@ cosmotheme
+msgid "(i.e. http://pinterest.com/cosmothemes)"
+msgstr ""
+
+#: lib/php/options.register.php:532
+#@ cosmotheme
+msgid "(i.e. http://profile.yahoo.com/56W6RBFOFVLLSUQBHREPTDQW4U/)"
+msgstr ""
+
+#: lib/php/options.register.php:536
+#@ cosmotheme
+msgid "(i.e. http://vimeo.com/user10929709)"
+msgstr ""
+
+#: lib/php/options.register.php:538
+#@ cosmotheme
+msgid "(i.e. http://virusnac.tumblr.com/)"
+msgstr ""
+
+#: lib/php/options.register.php:540
+#@ cosmotheme
+msgid "(i.e. http://www.flickr.com/photos/cosmothemes/)"
+msgstr ""
+
+#: lib/php/options.register.php:534
+#@ cosmotheme
+msgid "(i.e. http://www.linkedin.com/company/cosmothemes)"
+msgstr ""
+
+#: lib/php/options.register.php:537
+#@ cosmotheme
+msgid "(i.e. http://www.youtube.com/user/vasilerusnac)"
+msgstr ""
+
+#: lib/php/options.register.php:539
+#@ cosmotheme
+msgid "(i.e. https://delicious.com/cosmothemes)"
+msgstr ""
+
+#: lib/php/options.register.php:531
+#@ cosmotheme
+msgid "(i.e. https://plus.google.com/u/0/b/103218861385999897717/)"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBElement.php:735
+#: lib/php/LayoutBuilder/LBElement.php:822
+#: lib/php/LayoutBuilder/LBElement.php:922
+#: lib/php/LayoutBuilder/LBElement.php:995
+#@ cosmotheme
+msgid "..."
+msgstr ""
+
+#: lib/templates/additional_templates.php:152
+#@ cosmotheme
+msgid "12 posts with no pagination"
+msgstr ""
+
+#: lib/templates/footerelement.php:172
+#: lib/templates/headerelement.php:294
+#: lib/templates/layoutelement.php:300
+#@ cosmotheme
+msgid "15px"
+msgstr ""
+
+#: lib/templates/additional_templates.php:468
+#@ cosmotheme
+msgid "3 columns sorted by date"
+msgstr ""
+
+#: lib/php/widget/featured_posts.php:177
+#: lib/php/widget/featured_posts.php:179
+#: lib/php/widget/tabber.php:362
+#: lib/php/widget/tabber.php:364
+#@ cosmotheme
+msgid "30 days"
+msgstr ""
+
+#: lib/templates/footerelement.php:176
+#: lib/templates/headerelement.php:298
+#: lib/templates/layoutelement.php:304
+#@ cosmotheme
+msgid "30px"
+msgstr ""
+
+#: lib/templates/additional_templates.php:575
+#@ cosmotheme
+msgid "4 columns ordered by date"
+msgstr ""
+
+#: lib/php/options.register.php:26
+#: lib/php/options.register.php:33
+#@ cosmotheme
+msgid "404"
+msgstr ""
+
+#: lib/templates/additional_templates.php:257
+#@ cosmotheme
+msgid "5 posts with load more"
+msgstr ""
+
+#: lib/templates/additional_templates.php:362
+#@ cosmotheme
+msgid "5 posts with pagination"
+msgstr ""
+
+#: lib/templates/footerelement.php:180
+#: lib/templates/headerelement.php:302
+#: lib/templates/layoutelement.php:308
+#@ cosmotheme
+msgid "60px"
+msgstr ""
+
+#: lib/php/widget/featured_posts.php:171
+#: lib/php/widget/featured_posts.php:173
+#: lib/php/widget/tabber.php:356
+#: lib/php/widget/tabber.php:358
+#@ cosmotheme
+msgid "7 days"
+msgstr ""
+
+#: lib/templates/layoutelement.php:690
+#@ cosmotheme
+msgid "ASC"
+msgstr ""
+
+#: lib/php/widget/instagram.php:232
+#@ cosmotheme
+msgid "Access Token"
+msgstr ""
+
+#: lib/php/widget/instagram.php:260
+#@ cosmotheme
+msgid "Access Token:"
+msgstr ""
+
+#: lib/php/resources.register.php:93
+#@ cosmotheme
+msgid "Add New Banner"
+msgstr ""
+
+#: lib/php/main.php:85
+#@ cosmotheme
+msgid "Add New Box Set"
+msgstr ""
+
+#: lib/php/main.php:37
+#@ cosmotheme
+msgid "Add New Category"
+msgstr ""
+
+#: lib/php/resources.register.php:20
+#@ cosmotheme
+msgid "Add New Gallery"
+msgstr ""
+
+#: lib/php/main.php:58
+#@ cosmotheme
+msgid "Add New Tag"
+msgstr ""
+
+#: lib/php/resources.register.php:134
+#: lib/php/resources.register.php:135
+#@ cosmotheme
+msgid "Add New Team"
+msgstr ""
+
+#: lib/php/resources.register.php:58
+#@ cosmotheme
+msgid "Add New Testimonial"
+msgstr ""
+
+#: lib/php/shcode/table.php:51
+#@ cosmotheme
+msgid "Add Table"
+msgstr ""
+
+#: lib/php/CosmoUploader.class.php:151
+#: lib/php/CosmoUploader.class.php:157
+#: lib/php/CosmoUploader.class.php:225
+#: lib/php/CosmoUploader.class.php:231
+#@ cosmotheme
+msgid "Add URL"
+msgstr ""
+
+#: lib/templates/tooltipbuilder.php:32
+#@ cosmotheme
+msgid "Add a tooltip on a page"
+msgstr ""
+
+#: lib/templates/tooltipbuilder.php:26
+#@ cosmotheme
+msgid "Add a tooltip on a post"
+msgstr ""
+
+#: lib/templates/tooltipbuilder.php:20
+#@ cosmotheme
+msgid "Add a tooltip on frontpage"
+msgstr ""
+
+#: lib/templates/layoutrow.php:168
+#@ cosmotheme
+msgid "Add column"
+msgstr ""
+
+#: comments.php:151
+#@ cosmotheme
+msgid "Add comment"
+msgstr ""
+
+#: lib/templates/footerelement.php:22
+#: lib/templates/headerelement.php:24
+#: lib/templates/layoutelement.php:22
+#@ cosmotheme
+msgid "Add content"
+msgstr ""
+
+#: lib/php/resources.register.php:117
+#@ cosmotheme
+msgid "Add custom css class if you need it."
+msgstr ""
+
+#: lib/php/fields.class.php:532
+#@ cosmotheme
+msgid "Add custom field"
+msgstr ""
+
+#: lib/templates/layoutbuilder.php:284
+#@ cosmotheme
+msgid "Add new"
+msgstr ""
+
+#: lib/php/main.php:112
+#@ cosmotheme
+msgid "Add new group"
+msgstr ""
+
+#: lib/php/TooltipBuilder.class.php:9
+#: lib/templates/tooltipplace.php:20
+#@ cosmotheme
+msgid "Add new tooltip to"
+msgstr ""
+
+#: lib/php/main.php:61
+#@ cosmotheme
+msgid "Add or remove tags"
+msgstr ""
+
+#: lib/templates/layouttemplate.php:187
+#@ cosmotheme
+msgid "Add row to content"
+msgstr ""
+
+#: lib/templates/layouttemplate.php:209
+#@ cosmotheme
+msgid "Add row to footer"
+msgstr ""
+
+#: lib/templates/layouttemplate.php:165
+#@ cosmotheme
+msgid "Add row to header"
+msgstr ""
+
+#: lib/php/resources.register.php:80
+#@ cosmotheme
+msgid "Add testimoniall additional info"
+msgstr ""
+
+#: lib/php/options.register.php:660
+#@ cosmotheme
+msgid "Add your custom CSS"
+msgstr ""
+
+#: lib/php/shcode/table.php:20
+#@ cosmotheme
+msgid "Additional class:"
+msgstr ""
+
+#: lib/php/contact_builder.class.php:222
+#@ cosmotheme
+msgid "Aditional Info"
+msgstr ""
+
+#: lib/php/resources.register.php:12
+#@ cosmotheme
+msgid "Align Left"
+msgstr ""
+
+#: lib/php/resources.register.php:12
+#@ cosmotheme
+msgid "Align Right"
+msgstr ""
+
+#: lib/php/main.php:684
+#@ cosmotheme
+msgid "All"
+msgstr ""
+
+#: lib/php/main.php:80
+#@ cosmotheme
+msgid "All Box Sets"
+msgstr ""
+
+#: lib/php/main.php:32
+#@ cosmotheme
+msgid "All Categories"
+msgstr ""
+
+#: lib/php/main.php:53
+#@ cosmotheme
+msgid "All Tags"
+msgstr ""
+
+#: lib/php/main.php:107
+#@ cosmotheme
+msgid "All group"
+msgstr ""
+
+#: lib/php/widget/tweets.php:71
+#@ cosmotheme
+msgid "Animated"
+msgstr ""
+
+#: lib/php/options.register.php:326
+#@ cosmotheme
+msgid "Appearence - Background"
+msgstr ""
+
+#: lib/php/options.register.php:641
+#@ cosmotheme
+msgid "Appearence - Widgets"
+msgstr ""
+
+#: lib/php/fields.class.php:938
+#@ cosmotheme
+msgid "April"
+msgstr ""
+
+#: lib/php/options.register.php:21
+#: lib/php/options.register.php:34
+#@ cosmotheme
+msgid "Archive"
+msgstr ""
+
+#: lib/php/main.php:441
+#@ cosmotheme
+msgid "Archive by category"
+msgstr ""
+
+#: lib/php/options.register.php:34
+#@ cosmotheme
+msgid "Archives by date"
+msgstr ""
+
+#: lib/php/options.register.php:595
+#@ cosmotheme
+msgid "Archives images height for grid, thumb and mosaic-view (the big square image). 720px by default."
+msgstr ""
+
+#: lib/php/options.register.php:574
+#@ cosmotheme
+msgid "Archives images height for list-view. 340px by default."
+msgstr ""
+
+#: lib/php/options.register.php:581
+#@ cosmotheme
+msgid "Archives images height for mosaic-view (the long image). 720px by default."
+msgstr ""
+
+#: lib/php/options.register.php:588
+#@ cosmotheme
+msgid "Archives images height for mosaic-view (the small square image). 340px by default."
+msgstr ""
+
+#: lib/php/options.register.php:592
+#@ cosmotheme
+msgid "Archives images width for grid, thumb and mosaic-view (the big square image). 720px by default."
+msgstr ""
+
+#: lib/php/options.register.php:571
+#@ cosmotheme
+msgid "Archives images width for list-view. 640px by default."
+msgstr ""
+
+#: lib/php/options.register.php:578
+#@ cosmotheme
+msgid "Archives images width for mosaic-view (the long image). 340px by default."
+msgstr ""
+
+#: lib/php/options.register.php:585
+#@ cosmotheme
+msgid "Archives images width for mosaic-view (the small square image). 340px by default."
+msgstr ""
+
+#: lib/php/main.php:506
+#@ cosmotheme
+msgid "Articles posted by "
+msgstr ""
+
+#: lib/php/options.register.php:37
+#: lib/php/resources.register.php:212
+#@ cosmotheme
+msgid "Attachment"
+msgstr ""
+
+#: lib/php/resources.register.php:212
+#@ cosmotheme
+msgid "Audio"
+msgstr ""
+
+#: lib/php/fields.class.php:942
+#@ cosmotheme
+msgid "August"
+msgstr ""
+
+#: lib/php/options.register.php:38
+#@ cosmotheme
+msgid "Author archives"
+msgstr ""
+
+#: author.php:22
+#@ cosmotheme
+msgid "Author archives: "
+msgstr ""
+
+#: lib/php/resources.register.php:77
+#@ cosmotheme
+msgid "Author name"
+msgstr ""
+
+#: lib/php/options.register.php:25
+#@ cosmotheme
+msgid "Author posts"
+msgstr ""
+
+#: lib/php/resources.register.php:78
+#@ cosmotheme
+msgid "Author title"
+msgstr ""
+
+#: lib/php/resources.register.php:340
+#@ cosmotheme
+msgid "Background attachment type"
+msgstr ""
+
+#: lib/php/resources.register.php:338
+#@ cosmotheme
+msgid "Background position"
+msgstr ""
+
+#: lib/php/resources.register.php:339
+#@ cosmotheme
+msgid "Background repeat"
+msgstr ""
+
+#: lib/php/options.register.php:328
+#@ cosmotheme
+msgid "Background size 100%"
+msgstr ""
+
+#: lib/php/resources.register.php:117
+#@ cosmotheme
+msgid "Banner class"
+msgstr ""
+
+#: lib/php/resources.register.php:113
+#@ cosmotheme
+msgid "Banner code"
+msgstr ""
+
+#: lib/php/resources.register.php:119
+#@ cosmotheme
+msgid "Banner content"
+msgstr ""
+
+#: lib/php/resources.register.php:115
+#@ cosmotheme
+msgid "Banner image"
+msgstr ""
+
+#: lib/php/resources.register.php:116
+#@ cosmotheme
+msgid "Banner image link"
+msgstr ""
+
+#: lib/templates/footerelement.php:107
+#: lib/templates/headerelement.php:140
+#: lib/templates/layoutelement.php:165
+#@ cosmotheme
+msgid "Banners"
+msgstr ""
+
+#: lib/php/main.php:519
+#@ cosmotheme
+msgid "Blog"
+msgstr ""
+
+#: archive.php:27
+#@ cosmotheme
+msgid "Blog archives"
+msgstr ""
+
+#: lib/templates/additional_templates.php:641
+#@ cosmotheme
+msgid "Blog full thumb"
+msgstr ""
+
+#: lib/templates/additional_templates.php:428
+#@ cosmotheme
+msgid "Blog grid-view"
+msgstr ""
+
+#: lib/templates/additional_templates.php:217
+#@ cosmotheme
+msgid "Blog large list view"
+msgstr ""
+
+#: lib/templates/additional_templates.php:322
+#@ cosmotheme
+msgid "Blog medium list view"
+msgstr ""
+
+#: index.php:14
+#: lib/php/options.register.php:20
+#@ cosmotheme
+msgid "Blog page"
+msgstr ""
+
+#: lib/php/options.register.php:560
+#@ cosmotheme
+msgid "Blog posts images height for gallery post-format. 400px by default."
+msgstr ""
+
+#: lib/php/options.register.php:567
+#@ cosmotheme
+msgid "Blog posts images height for image post format. 165px by default."
+msgstr ""
+
+#: lib/php/options.register.php:557
+#@ cosmotheme
+msgid "Blog posts images width for gallery post-format. 9999 means it will be resized proportionaly by height. We strongly recommend not to change this size."
+msgstr ""
+
+#: lib/php/options.register.php:564
+#@ cosmotheme
+msgid "Blog posts images width for image post-format. 265px by default."
+msgstr ""
+
+#: lib/templates/additional_templates.php:535
+#@ cosmotheme
+msgid "Blog thumb-view"
+msgstr ""
+
+#: lib/templates/headerelement.php:373
+#@ cosmotheme
+msgid "Bottom"
+msgstr ""
+
+#: lib/php/main.php:87
+#@ cosmotheme
+msgid "Box Sets"
+msgstr ""
+
+#: lib/php/shcode/box.php:61
+#@ cosmotheme
+msgid "Box url"
+msgstr ""
+
+#: lib/templates/headerelement.php:115
+#@ cosmotheme
+msgid "Breadcrumbs"
+msgstr ""
+
+#: lib/php/shcode/main.php:10
+#@ cosmotheme
+msgid "Button"
+msgstr ""
+
+#: author-box.php:15
+#@ cosmotheme
+msgid "By"
+msgstr ""
+
+#: lib/php/options.register.php:414
+#@ cosmotheme
+msgid "By default a cropped image of size 1900x525 px is used. By disabling this option a proportionaly resized image will be used instead. Please regenerate thumbnails after selecting option using Regenerate Thumbnails plugin. "
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBPageResizer.php:41
+#: lib/php/LayoutBuilder/LBSidebarResizer.php:50
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:10
+#@ cosmotheme
+msgid "Cannot add more columns"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:207
+#: lib/templates/layoutelement.php:553
+#@ cosmotheme
+msgid "Carousel slider"
+msgstr ""
+
+#: lib/php/options.register.php:48
+#: lib/templates/layoutelement.php:149
+#@ cosmotheme
+msgid "Categories"
+msgstr ""
+
+#: lib/php/main.php:39
+#: lib/php/options.register.php:22
+#: lib/php/widget/custom_post.php:267
+#: lib/php/widget/custom_post.php:455
+#@ cosmotheme
+msgid "Category"
+msgstr ""
+
+#: category.php:14
+#@ cosmotheme
+msgid "Category archives: "
+msgstr ""
+
+#: lib/php/widget/category_icons.php:7
+#@ cosmotheme
+msgid "Category icons"
+msgstr ""
+
+#: lib/php/widget/category_icons.php:6
+#@ cosmotheme
+msgid "Category with representative icons"
+msgstr ""
+
+#: lib/php/resources.register.php:201
+#: lib/php/resources.register.php:338
+#: lib/templates/footerelement.php:243
+#: lib/templates/headerelement.php:347
+#: lib/templates/layoutelement.php:360
+#@ cosmotheme
+msgid "Center"
+msgstr ""
+
+#: lib/php/fields.class.php:686
+#: lib/php/fields.class.php:701
+#: lib/php/fields.class.php:794
+#: lib/php/fields.class.php:804
+#: lib/php/meta.class.php:188
+#: lib/php/meta.class.php:721
+#: lib/php/meta.class.php:730
+#@ cosmotheme
+msgid "Choose File"
+msgstr ""
+
+#: lib/templates/layouttemplate.php:133
+#: lib/templates/layouttemplate.php:145
+#@ cosmotheme
+msgid "Choose a number between 1 and 9"
+msgstr ""
+
+#: lib/templates/footerelement.php:90
+#: lib/templates/headerelement.php:94
+#: lib/templates/layoutelement.php:144
+#@ cosmotheme
+msgid "Choose element type"
+msgstr ""
+
+#: lib/php/main.php:62
+#@ cosmotheme
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: lib/php/options.register.php:315
+#@ cosmotheme
+msgid "Choose viewport width"
+msgstr ""
+
+#: lib/templates/layoutbuilder.php:6
+#: lib/templates/layoutbuilder.php:18
+#: lib/templates/layoutbuilder.php:30
+#: lib/templates/layoutbuilder.php:42
+#: lib/templates/layoutbuilder.php:58
+#: lib/templates/layoutbuilder.php:70
+#: lib/templates/layoutbuilder.php:82
+#: lib/templates/layoutbuilder.php:94
+#: lib/templates/layoutbuilder.php:106
+#: lib/templates/layoutbuilder.php:118
+#: lib/templates/tooltipbuilder.php:47
+#: lib/templates/tooltipbuilder.php:59
+#@ cosmotheme
+msgid "Clear input"
+msgstr ""
+
+#: lib/php/TooltipElement.class.php:10
+#@ cosmotheme
+msgid "Click 'Edit' to place this tooltip"
+msgstr ""
+
+#: lib/php/CosmoUploader.class.php:120
+#: lib/php/CosmoUploader.class.php:125
+#: lib/php/CosmoUploader.class.php:130
+#@ cosmotheme
+msgid "Click on a thumbnail to make it featured. "
+msgstr ""
+
+#: lib/php/TooltipElement.class.php:11
+#@ cosmotheme
+msgid "Click on the arrow to change it"
+msgstr ""
+
+#: lib/php/tools.class.php:22
+#: lib/templates/tooltipelement.php:28
+#@ cosmotheme
+msgid "Click on this arrow to change the possition"
+msgstr ""
+
+#: lib/templates/footerelement.php:49
+#: lib/templates/headerelement.php:43
+#: lib/templates/layoutelement.php:49
+#@ cosmotheme
+msgid "Click the <b>edit elements</b> icon to add content"
+msgstr ""
+
+#: single-gallery-content.php:86
+#@ cosmotheme
+msgid "Click to collapse"
+msgstr ""
+
+#: lib/templates/layouttemplate.php:29
+#@ cosmotheme
+msgid "Click to select the slideshow"
+msgstr ""
+
+#: lib/php/options.class.php:467
+#: lib/php/tools.class.php:45
+#@ cosmotheme
+msgid "Close"
+msgstr ""
+
+#: lib/php/shcode/main.php:9
+#@ cosmotheme
+msgid "Columns"
+msgstr ""
+
+#: comments.php:84
+#@ cosmotheme
+msgid "Comment"
+msgstr ""
+
+#: comments.php:84
+#: entry-meta.php:15
+#: entry-meta.php:30
+#: lib/php/post.class.php:1767
+#: lib/php/post.class.php:1781
+#: lib/php/widget/comments.php:5
+#: lib/php/widget/comments.php:6
+#@ cosmotheme
+msgid "Comments"
+msgstr ""
+
+#: lib/php/contact_builder.class.php:216
+#: lib/php/options.register.php:544
+#@ cosmotheme
+msgid "Contact email"
+msgstr ""
+
+#: lib/php/contact.class.php:32
+#@ cosmotheme
+msgid "Contact email: "
+msgstr ""
+
+#: lib/php/shcode/main.php:14
+#@ cosmotheme
+msgid "Contact form"
+msgstr ""
+
+#: lib/php/contact.class.php:29
+#@ cosmotheme
+msgid "Contact name: "
+msgstr ""
+
+#: lib/php/contact_builder.class.php:198
+#@ cosmotheme
+msgid "Contact phone 1"
+msgstr ""
+
+#: lib/php/contact_builder.class.php:204
+#@ cosmotheme
+msgid "Contact phone 2"
+msgstr ""
+
+#: lib/php/contact.class.php:35
+#@ cosmotheme
+msgid "Contact phone: "
+msgstr ""
+
+#: lib/php/widget/contact.php:13
+#@ cosmotheme
+msgid "Contact us"
+msgstr ""
+
+#: lib/php/shcode/box.php:43
+#: lib/templates/layouttemplate.php:175
+#@ cosmotheme
+msgid "Content"
+msgstr ""
+
+#: lib/templates/footerelement.php:95
+#@ cosmotheme
+msgid "Copyright"
+msgstr ""
+
+#: lib/php/options.register.php:122
+#@ cosmotheme
+msgid "Copyright text"
+msgstr ""
+
+#: lib/templates/layouttemplate.php:96
+#@ cosmotheme
+msgid "Cropped"
+msgstr ""
+
+#: lib/templates/layouttemplate.php:104
+#@ cosmotheme
+msgid "Cropped version will resize uploaded images to 1300x775 , Fullwidth option will add \"fixed\" attribute."
+msgstr ""
+
+#: lib/php/options.register.php:61
+#@ cosmotheme
+msgid "Custom CSS"
+msgstr ""
+
+#: lib/php/shcode/table.php:27
+#@ cosmotheme
+msgid "Custom CSS styles:"
+msgstr ""
+
+#: lib/php/options.register.php:345
+#@ cosmotheme
+msgid "Custom favicon"
+msgstr ""
+
+#: lib/php/options.register.php:356
+#@ cosmotheme
+msgid "Custom logo URL"
+msgstr ""
+
+#: lib/php/options.register.php:393
+#@ cosmotheme
+msgid "Custom menu"
+msgstr ""
+
+#: lib/templates/layouttemplate.php:23
+#@ cosmotheme
+msgid "Customize the header"
+msgstr ""
+
+#: lib/templates/layoutrow.php:155
+#@ cosmotheme
+msgid "Customize the row"
+msgstr ""
+
+#: lib/templates/layoutelement.php:686
+#@ cosmotheme
+msgid "DESC"
+msgstr ""
+
+#: archive.php:17
+#@ cosmotheme
+msgid "Daily archives"
+msgstr ""
+
+#: lib/templates/layoutelement.php:620
+#: woocommerce/myaccount/my-orders.php:33
+#@ cosmotheme
+#@ woocommerce
+msgid "Date"
+msgstr ""
+
+#: lib/php/widget/instagram.php:293
+#@ cosmotheme
+msgid "Debug Mode:"
+msgstr ""
+
+#: lib/php/fields.class.php:946
+#@ cosmotheme
+msgid "December"
+msgstr ""
+
+#: lib/templates/footerelement.php:30
+#: lib/templates/headerelement.php:32
+#: lib/templates/headerelement.php:181
+#: lib/templates/init_templates.php:102
+#: lib/templates/layoutadditionalelement.php:14
+#: lib/templates/layoutelement.php:30
+#@ cosmotheme
+msgid "Default"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:40
+#@ cosmotheme
+msgid "Default content"
+msgstr ""
+
+#: lib/php/fields.class.php:112
+#: lib/templates/sidebarresizer.php:66
+#: lib/templates/tooltipelement.php:19
+#@ cosmotheme
+msgid "Delete"
+msgstr ""
+
+#: lib/templates/layoutrow.php:174
+#@ cosmotheme
+msgid "Delete row"
+msgstr ""
+
+#: lib/templates/footerelement.php:16
+#: lib/templates/headerelement.php:18
+#: lib/templates/layoutelement.php:16
+#@ cosmotheme
+msgid "Delete these columns"
+msgstr ""
+
+#: lib/templates/layoutbuilder.php:139
+#: lib/templates/layoutbuilder.php:274
+#@ cosmotheme
+msgid "Delete this template"
+msgstr ""
+
+#: lib/php/options.register.php:539
+#@ cosmotheme
+msgid "Delicious public profile URL"
+msgstr ""
+
+#: lib/templates/footerelement.php:123
+#: lib/templates/headerelement.php:160
+#: lib/templates/layoutelement.php:249
+#@ cosmotheme
+msgid "Delimiter"
+msgstr ""
+
+#: lib/php/contact_builder.class.php:191
+#@ cosmotheme
+msgid "Description Info "
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:222
+#: lib/templates/layoutadditionalelement.php:233
+#: lib/templates/layoutadditionalelement.php:244
+#: lib/templates/layoutelement.php:568
+#: lib/templates/layoutelement.php:579
+#: lib/templates/layoutelement.php:590
+#@ cosmotheme
+msgid "Disable 'Gallery view type' to use this option"
+msgstr ""
+
+#: lib/templates/footerelement.php:74
+#: lib/templates/headerelement.php:78
+#: lib/templates/layoutadditionalelement.php:47
+#: lib/templates/layoutelement.php:87
+#: lib/templates/layoutrow.php:11
+#: lib/templates/layoutrow.php:61
+#: lib/templates/layouttemplate.php:48
+#@ cosmotheme
+msgid "Discard"
+msgstr ""
+
+#: lib/php/widget/contact.php:4
+#@ cosmotheme
+msgid "Display Contact form"
+msgstr ""
+
+#: lib/php/options.register.php:419
+#@ cosmotheme
+msgid "Display Next/Prev buttons on single page"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:117
+#: lib/templates/layoutelement.php:446
+#@ cosmotheme
+msgid "Display excerpt"
+msgstr ""
+
+#: lib/php/options.register.php:415
+#: lib/php/resources.register.php:177
+#@ cosmotheme
+msgid "Display featured image inside the post"
+msgstr ""
+
+#: lib/php/options.register.php:418
+#: lib/php/resources.register.php:197
+#@ cosmotheme
+msgid "Display featured image on archive pages"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:121
+#: lib/templates/layoutelement.php:450
+#@ cosmotheme
+msgid "Display full content"
+msgstr ""
+
+#: lib/php/widget/testimonials.php:4
+#@ cosmotheme
+msgid "Display latest Testimonials"
+msgstr ""
+
+#: lib/templates/footerelement.php:258
+#: lib/templates/headerelement.php:429
+#: lib/templates/layoutelement.php:700
+#@ cosmotheme
+msgid "Display testimonial as:"
+msgstr ""
+
+#: lib/templates/layoutelement.php:126
+#@ cosmotheme
+msgid "Display this label in front-end"
+msgstr ""
+
+#: lib/php/tools.class.php:32
+#@ cosmotheme
+msgid "Do not show hints anymore"
+msgstr ""
+
+#: lib/php/options.register.php:769
+#@ cosmotheme
+msgid "Double check everything!"
+msgstr ""
+
+#: lib/php/TooltipElement.class.php:10
+#: lib/php/TooltipElement.class.php:11
+#@ cosmotheme
+msgid "Double click this description for quick edit"
+msgstr ""
+
+#: lib/php/TooltipElement.class.php:9
+#@ cosmotheme
+msgid "Double click this title"
+msgstr ""
+
+#: lib/templates/tooltipelement.php:45
+#@ cosmotheme
+msgid "Double click to edit."
+msgstr ""
+
+#: lib/templates/layoutbuilder.php:133
+#: lib/templates/layouttemplate.php:5
+#@ cosmotheme
+msgid "Double-click this text to edit the title"
+msgstr ""
+
+#: lib/templates/footerelement.php:159
+#: lib/templates/headerelement.php:281
+#: lib/templates/layoutelement.php:287
+#@ cosmotheme
+msgid "Doubleline delimiter"
+msgstr ""
+
+#: lib/templates/footerelement.php:151
+#: lib/templates/headerelement.php:273
+#: lib/templates/layoutelement.php:279
+#@ cosmotheme
+msgid "Doublepointed delimiter"
+msgstr ""
+
+#: lib/templates/footerelement.php:43
+#: lib/templates/headerelement.php:48
+#: lib/templates/layoutadditionalelement.php:26
+#: lib/templates/layoutelement.php:43
+#: lib/templates/sidebarresizer.php:75
+#@ cosmotheme
+msgid "Drag left and right to resize the neighbours"
+msgstr ""
+
+#: lib/php/TooltipElement.class.php:11
+#@ cosmotheme
+msgid "Drag the tooltip to place it"
+msgstr ""
+
+#: lib/php/TooltipElement.class.php:10
+#@ cosmotheme
+msgid "Drag the tooltip to sort it"
+msgstr ""
+
+#: lib/php/fields.class.php:107
+#@ cosmotheme
+msgid "Drag this row to sort the fields"
+msgstr ""
+
+#: lib/templates/layoutrow.php:161
+#@ cosmotheme
+msgid "Drag up and down to sort"
+msgstr ""
+
+#: lib/php/options.register.php:533
+#@ cosmotheme
+msgid "Dribbble public profile URL"
+msgstr ""
+
+#: comments.php:50
+#: woocommerce/myaccount/my-address.php:46
+#@ cosmotheme
+#@ woocommerce
+msgid "Edit"
+msgstr ""
+
+#: lib/php/resources.register.php:94
+#@ cosmotheme
+msgid "Edit Banner"
+msgstr ""
+
+#: lib/php/main.php:83
+#@ cosmotheme
+msgid "Edit Box Set"
+msgstr ""
+
+#: lib/php/main.php:35
+#@ cosmotheme
+msgid "Edit Category"
+msgstr ""
+
+#: lib/php/resources.register.php:21
+#@ cosmotheme
+msgid "Edit Gallery"
+msgstr ""
+
+#: lib/php/main.php:56
+#@ cosmotheme
+msgid "Edit Tag"
+msgstr ""
+
+#: lib/php/resources.register.php:136
+#@ cosmotheme
+msgid "Edit Team"
+msgstr ""
+
+#: lib/php/resources.register.php:59
+#@ cosmotheme
+msgid "Edit Testimonial"
+msgstr ""
+
+#: lib/templates/footerelement.php:8
+#: lib/templates/headerelement.php:9
+#: lib/templates/layoutadditionalelement.php:8
+#: lib/templates/layoutelement.php:8
+#@ cosmotheme
+msgid "Edit content"
+msgstr ""
+
+#: lib/php/main.php:110
+#@ cosmotheme
+msgid "Edit group"
+msgstr ""
+
+#: lib/templates/tooltipelement.php:18
+#@ cosmotheme
+msgid "Edit position"
+msgstr ""
+
+#: lib/php/meta.class.php:703
+#: lib/php/meta.class.php:704
+#: lib/php/meta.class.php:737
+#: lib/php/meta.class.php:738
+#: lib/php/meta.class.php:795
+#: lib/php/meta.class.php:796
+#@ cosmotheme
+msgid "Edit post"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:201
+#: lib/templates/layoutelement.php:547
+#@ cosmotheme
+msgid "Element behaviour"
+msgstr ""
+
+#: lib/templates/layoutelement.php:102
+#@ cosmotheme
+msgid "Element label"
+msgstr ""
+
+#: lib/php/shcode.class.php:19
+#: lib/php/shcode.class.php:24
+#: woocommerce/myaccount/form-login.php:88
+#: woocommerce/single-product-reviews.php:86
+#@ cosmotheme
+#@ woocommerce
+msgid "Email"
+msgstr ""
+
+#: lib/php/contact_builder.class.php:25
+#@ cosmotheme
+msgid "Email "
+msgstr ""
+
+#: lib/php/shcode.class.php:63
+#@ cosmotheme
+msgid "Email (required)"
+msgstr ""
+
+#: lib/php/contact.class.php:51
+#@ cosmotheme
+msgid "Email was sent successfully "
+msgstr ""
+
+#: lib/templates/footerelement.php:127
+#: lib/templates/headerelement.php:164
+#: lib/templates/layoutelement.php:253
+#@ cosmotheme
+msgid "Empty"
+msgstr ""
+
+#: lib/php/options.register.php:668
+#@ cosmotheme
+msgid "Enable Cosmothemes news notification"
+msgstr ""
+
+#: lib/php/options.register.php:129
+#@ cosmotheme
+msgid "Enable Likes for posts"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:93
+#: lib/templates/layoutelement.php:404
+#@ cosmotheme
+msgid "Enable masonry"
+msgstr ""
+
+#: lib/php/options.register.php:667
+#@ cosmotheme
+msgid "Enable notification about new theme version"
+msgstr ""
+
+#: lib/php/options.register.php:416
+#@ cosmotheme
+msgid "Enable pretty-photo ligthbox"
+msgstr ""
+
+#: lib/php/options.register.php:400
+#@ cosmotheme
+msgid "Enable similar posts"
+msgstr ""
+
+#: lib/php/options.register.php:349
+#@ cosmotheme
+msgid "Enable site description"
+msgstr ""
+
+#: lib/templates/layouttemplate.php:64
+#@ cosmotheme
+msgid "Enable slideshow"
+msgstr ""
+
+#: lib/templates/layouttemplate.php:109
+#@ cosmotheme
+msgid "Enable slideshow autoplay"
+msgstr ""
+
+#: lib/php/options.register.php:446
+#@ cosmotheme
+msgid "Enable social sharing for page"
+msgstr ""
+
+#: lib/php/options.register.php:411
+#@ cosmotheme
+msgid "Enable social sharing for posts"
+msgstr ""
+
+#: lib/php/options.register.php:333
+#@ cosmotheme
+msgid "Enable sticky menu"
+msgstr ""
+
+#: lib/php/options.register.php:346
+#@ cosmotheme
+msgid "Enable stripes effect for post images"
+msgstr ""
+
+#: lib/php/options.register.php:347
+#@ cosmotheme
+msgid "Enable text-based site title and tagline."
+msgstr ""
+
+#: lib/templates/footerelement.php:222
+#: lib/templates/headerelement.php:237
+#: lib/templates/layoutelement.php:338
+#@ cosmotheme
+msgid "Enter text you wish to display."
+msgstr ""
+
+#: lib/php/main.php:509
+#: woocommerce/shop/breadcrumb.php:146
+#@ cosmotheme
+#@ woocommerce
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:6
+#@ cosmotheme
+msgid "Error 404, page, post or resource can not be found"
+msgstr ""
+
+#: lib/php/options.register.php:340
+#@ cosmotheme
+msgid "Error, please select \"ico\" type media file"
+msgstr ""
+
+#: lib/php/options.register.php:460
+#@ cosmotheme
+msgid "Excerpt length (grid view)"
+msgstr ""
+
+#: lib/php/options.register.php:461
+#@ cosmotheme
+msgid "Excerpt length (list view)"
+msgstr ""
+
+#: lib/templates/layoutrow.php:98
+#@ cosmotheme
+msgid "Extend the content of this row on full width"
+msgstr ""
+
+#: lib/php/options.register.php:59
+#@ cosmotheme
+msgid "Extra"
+msgstr ""
+
+#: lib/php/options.register.php:59
+#@ cosmotheme
+msgid "Extra settings"
+msgstr ""
+
+#: lib/php/facebook.class.php:37
+#: lib/php/resources.register.php:154
+#@ cosmotheme
+msgid "Facebook"
+msgstr ""
+
+#: lib/php/options.register.php:521
+#@ cosmotheme
+msgid "Facebook Application ID"
+msgstr ""
+
+#: lib/php/options.register.php:522
+#@ cosmotheme
+msgid "Facebook Secret key"
+msgstr ""
+
+#: lib/php/options.register.php:528
+#@ cosmotheme
+msgid "Facebook profile ID"
+msgstr ""
+
+#: lib/php/contact_builder.class.php:210
+#: lib/php/shcode.class.php:14
+#@ cosmotheme
+msgid "Fax"
+msgstr ""
+
+#: lib/php/contact_builder.class.php:24
+#@ cosmotheme
+msgid "Fax "
+msgstr ""
+
+#: lib/php/options.register.php:603
+#@ cosmotheme
+msgid "Featured image height for single blog post when using cropped-version (settable in general options). 525px by default."
+msgstr ""
+
+#: lib/php/options.register.php:611
+#@ cosmotheme
+msgid "Featured image height for single blog post when using resized-version (settable in general options). 9999 means  it will be resized proportionaly by width. We strongly recommend not to change this size."
+msgstr ""
+
+#: lib/php/options.register.php:600
+#@ cosmotheme
+msgid "Featured image width for single blog post when using cropped-version (settable in general options). 1905px by default."
+msgstr ""
+
+#: lib/php/options.register.php:608
+#@ cosmotheme
+msgid "Featured image width for single blog post when using resized-version (settable in general options). 1170px by default."
+msgstr ""
+
+#: lib/php/widget/featured_posts.php:5
+#: lib/php/widget/featured_posts.php:6
+#: lib/templates/layoutelement.php:181
+#@ cosmotheme
+msgid "Featured posts"
+msgstr ""
+
+#: lib/php/fields.class.php:936
+#@ cosmotheme
+msgid "February"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:251
+#: lib/templates/layoutelement.php:597
+#@ cosmotheme
+msgid "Filter( by categories, tags etc. )"
+msgstr ""
+
+#: lib/php/actions.register.php:229
+#@ cosmotheme
+msgid "First"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBPageResizer.php:13
+#: lib/php/LayoutBuilder/LBSidebarResizer.php:11
+#@ cosmotheme
+msgid "First sidebar"
+msgstr ""
+
+#: lib/templates/layouttemplate.php:11
+#@ cosmotheme
+msgid "First, create and customize your template, save settings, then finally go to"
+msgstr ""
+
+#: lib/php/resources.register.php:203
+#: lib/php/resources.register.php:340
+#@ cosmotheme
+msgid "Fixed"
+msgstr ""
+
+#: lib/php/widget/flickr.php:6
+#: lib/php/widget/flickr.php:7
+#@ cosmotheme
+msgid "Flickr Photos"
+msgstr ""
+
+#: lib/php/options.register.php:540
+#@ cosmotheme
+msgid "Flickr public profile URL"
+msgstr ""
+
+#: lib/php/text.class.php:66
+#@ cosmotheme
+msgid "Font Family"
+msgstr ""
+
+#: lib/php/text.class.php:67
+#@ cosmotheme
+msgid "Font Size"
+msgstr ""
+
+#: lib/php/text.class.php:68
+#@ cosmotheme
+msgid "Font Weight"
+msgstr ""
+
+#: lib/templates/layouttemplate.php:197
+#@ cosmotheme
+msgid "Footer"
+msgstr ""
+
+#: lib/templates/headerelement.php:216
+#: lib/templates/layoutadditionalelement.php:187
+#: lib/templates/layoutelement.php:534
+#@ cosmotheme
+msgid "Four"
+msgstr ""
+
+#: lib/php/options.register.php:199
+#@ cosmotheme
+msgid "Four columns"
+msgstr ""
+
+#: lib/php/options.register.php:49
+#@ cosmotheme
+msgid "Front page"
+msgstr ""
+
+#: lib/php/TooltipBuilder.class.php:10
+#@ cosmotheme
+msgid "Frontpage"
+msgstr ""
+
+#: lib/php/options.register.php:179
+#: lib/templates/sidebarresizer.php:7
+#@ cosmotheme
+msgid "Full width"
+msgstr ""
+
+#: lib/php/options.register.php:208
+#@ cosmotheme
+msgid "Full-width thumbnail"
+msgstr ""
+
+#: lib/templates/layouttemplate.php:100
+#@ cosmotheme
+msgid "Fullwidth"
+msgstr ""
+
+#: lib/php/options.register.php:531
+#@ cosmotheme
+msgid "G+ public profile URL"
+msgstr ""
+
+#: lib/templates/additional_templates.php:112
+#: lib/templates/gallery_template_patch.php:3
+#@ cosmotheme
+msgid "Galleries"
+msgstr ""
+
+#: lib/templates/additional_templates.php:4
+#@ cosmotheme
+msgid "Galleries list"
+msgstr ""
+
+#: lib/php/resources.register.php:18
+#: lib/php/resources.register.php:212
+#: lib/templates/layoutelement.php:237
+#@ cosmotheme
+msgid "Gallery"
+msgstr ""
+
+#: lib/php/options.register.php:553
+#@ cosmotheme
+msgid "Gallery - image height"
+msgstr ""
+
+#: lib/php/options.register.php:550
+#@ cosmotheme
+msgid "Gallery - image width"
+msgstr ""
+
+#: lib/templates/layoutelement.php:157
+#@ cosmotheme
+msgid "Gallery Categories"
+msgstr ""
+
+#: lib/php/widget/custom_post.php:271
+#: lib/php/widget/custom_post.php:459
+#@ cosmotheme
+msgid "Gallery Category"
+msgstr ""
+
+#: archive.php:15
+#@ cosmotheme
+msgid "Gallery archives"
+msgstr ""
+
+#: lib/php/options.register.php:27
+#: lib/php/options.register.php:51
+#@ cosmotheme
+msgid "Gallery categories"
+msgstr ""
+
+#: taxonomy-gallery-category.php:14
+#@ cosmotheme
+msgid "Gallery category archives: "
+msgstr ""
+
+#: lib/php/options.register.php:553
+#@ cosmotheme
+msgid "Gallery images height. 900px by default."
+msgstr ""
+
+#: lib/php/options.register.php:550
+#@ cosmotheme
+msgid "Gallery images width. 9999 means it will be resized proportionaly by height. We strongly recommend not to change this size."
+msgstr ""
+
+#: lib/php/options.register.php:57
+#@ cosmotheme
+msgid "Gallery posts"
+msgstr ""
+
+#: lib/php/widget/custom_post.php:272
+#: lib/php/widget/custom_post.php:460
+#@ cosmotheme
+msgid "Gallery tag"
+msgstr ""
+
+#: lib/php/options.register.php:28
+#: lib/php/options.register.php:52
+#@ cosmotheme
+msgid "Gallery tags"
+msgstr ""
+
+#: lib/php/options.register.php:7
+#: lib/php/options.register.php:10
+#@ cosmotheme
+msgid "General"
+msgstr ""
+
+#: lib/php/options.register.php:459
+#@ cosmotheme
+msgid "General Archive Settings"
+msgstr ""
+
+#: lib/php/options.register.php:445
+#@ cosmotheme
+msgid "General Page Settings"
+msgstr ""
+
+#: lib/php/options.register.php:398
+#@ cosmotheme
+msgid "General Posts Settings"
+msgstr ""
+
+#: lib/php/options.register.php:7
+#: lib/php/options.register.php:10
+#@ cosmotheme
+msgid "General page description."
+msgstr ""
+
+#: lib/php/options.register.php:7
+#: lib/php/options.register.php:10
+#@ cosmotheme
+msgid "General settings"
+msgstr ""
+
+#: lib/php/options.register.php:8
+#@ cosmotheme
+msgid "General theme settings"
+msgstr ""
+
+#: lib/php/options.register.php:131
+#@ cosmotheme
+msgid "Generate"
+msgstr ""
+
+#: lib/php/fields.class.php:691
+#@ cosmotheme
+msgid "Generate Key"
+msgstr ""
+
+#: lib/php/options.register.php:131
+#@ cosmotheme
+msgid "Generate random number of Likes for posts"
+msgstr ""
+
+#: lib/php/options.register.php:180
+#: lib/php/options.register.php:405
+#: lib/templates/layoutadditionalelement.php:72
+#: lib/templates/layoutelement.php:383
+#@ cosmotheme
+msgid "Grid view"
+msgstr ""
+
+#: lib/templates/additional_templates.php:467
+#@ cosmotheme
+msgid "Grid-view"
+msgstr ""
+
+#: lib/php/options.register.php:595
+#@ cosmotheme
+msgid "Grid/thumb-view, mosaic-view large image - image height"
+msgstr ""
+
+#: lib/php/options.register.php:592
+#@ cosmotheme
+msgid "Grid/thumb-view, mosaic-view large image - image width"
+msgstr ""
+
+#: lib/php/main.php:114
+#@ cosmotheme
+msgid "Groups"
+msgstr ""
+
+#: lib/templates/layouttemplate.php:20
+#@ cosmotheme
+msgid "Header"
+msgstr ""
+
+#: lib/php/options.register.php:377
+#@ cosmotheme
+msgid "Headings "
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:187
+#, php-format
+#@ cosmotheme
+msgid "Here are the latest %s."
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:91
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:120
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:148
+#, php-format
+#@ cosmotheme
+msgid "Here are the latest %s. Pick one or use the searchbar above."
+msgstr ""
+
+#: lib/php/TooltipBuilder.class.php:67
+#@ cosmotheme
+msgid "Here are the latest posts. Pick one or use the searchbar above"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:152
+#: lib/templates/layoutelement.php:499
+#@ cosmotheme
+msgid "Hide Excerpt"
+msgstr ""
+
+#: lib/php/options.register.php:426
+#@ cosmotheme
+msgid "Hide left sidebar on gallery page"
+msgstr ""
+
+#: lib/templates/layoutrow.php:28
+#: lib/templates/layoutrow.php:148
+#@ cosmotheme
+msgid "Hide this row"
+msgstr ""
+
+#: lib/php/main.php:418
+#: lib/php/menu.class.php:237
+#: lib/php/menu.class.php:241
+#@ cosmotheme
+msgid "Home"
+msgstr ""
+
+#: lib/php/resources.register.php:182
+#: lib/php/resources.register.php:286
+#@ cosmotheme
+msgid "Horizontal"
+msgstr ""
+
+#: lib/templates/layoutelement.php:667
+#@ cosmotheme
+msgid "Hot date"
+msgstr ""
+
+#: lib/php/options.register.php:415
+#: lib/php/resources.register.php:177
+#@ cosmotheme
+msgid "If enabled featured images will be displayed on post page"
+msgstr ""
+
+#: lib/php/options.register.php:426
+#@ cosmotheme
+msgid "If enabled, gallery info will be hidden "
+msgstr ""
+
+#: lib/php/options.register.php:99
+#@ cosmotheme
+msgid "If set No will use WordPress time format"
+msgstr ""
+
+#: lib/templates/layoutelement.php:236
+#@ cosmotheme
+msgid "If this option is selected all other rows and footer content will not work. Only the gallery will show up on the screen."
+msgstr ""
+
+#: lib/templates/tooltipelement.php:23
+#@ cosmotheme
+msgid "If you change your mind, you have"
+msgstr ""
+
+#: lib/php/widget/instagram.php:298
+#, php-format
+#@ cosmotheme
+msgid "If you do not have an ID or access token, please visit %s Get Access token %s to receive a valid token"
+msgstr ""
+
+#: lib/php/resources.register.php:212
+#@ cosmotheme
+msgid "Image"
+msgstr ""
+
+#: lib/php/resources.register.php:203
+#@ cosmotheme
+msgid "Image background attachment type"
+msgstr ""
+
+#: lib/php/resources.register.php:201
+#@ cosmotheme
+msgid "Image background position"
+msgstr ""
+
+#: lib/php/resources.register.php:202
+#@ cosmotheme
+msgid "Image background repeat"
+msgstr ""
+
+#: lib/php/options.register.php:16
+#@ cosmotheme
+msgid "Image sizes"
+msgstr ""
+
+#: lib/php/options.register.php:416
+#@ cosmotheme
+msgid "Images inside posts will open inside a fancy lightbox"
+msgstr ""
+
+#: lib/php/options.register.php:63
+#@ cosmotheme
+msgid "Import / Export"
+msgstr ""
+
+#: lib/php/options.register.php:63
+#@ cosmotheme
+msgid "Import/Export"
+msgstr ""
+
+#: lib/php/options.register.php:50
+#@ cosmotheme
+msgid "Index"
+msgstr ""
+
+#: lib/php/shcode/main.php:12
+#@ cosmotheme
+msgid "Info Box"
+msgstr ""
+
+#: lib/php/shcode/contact.php:46
+#@ cosmotheme
+msgid "Insert Contact Form"
+msgstr ""
+
+#: lib/php/widget/instagram.php:12
+#: lib/php/widget/instagram.php:13
+#@ cosmotheme
+msgid "Instagram Widget"
+msgstr ""
+
+#: lib/php/options.register.php:541
+#@ cosmotheme
+msgid "Instagram public profile URL"
+msgstr ""
+
+#: lib/php/CosmoUploader.class.php:215
+#@ cosmotheme
+msgid "JPEG, GIF or PNG."
+msgstr ""
+
+#: lib/php/CosmoUploader.class.php:118
+#: lib/php/CosmoUploader.class.php:123
+#@ cosmotheme
+msgid "JPEG, GIF or PNG. "
+msgstr ""
+
+#: lib/php/fields.class.php:935
+#@ cosmotheme
+msgid "January"
+msgstr ""
+
+#: lib/php/fields.class.php:941
+#@ cosmotheme
+msgid "July"
+msgstr ""
+
+#: lib/php/fields.class.php:940
+#@ cosmotheme
+msgid "June"
+msgstr ""
+
+#: lib/php/options.register.php:774
+#@ cosmotheme
+msgid "Just copy-paste it"
+msgstr ""
+
+#: lib/templates/layoutelement.php:114
+#@ cosmotheme
+msgid "Label description"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:143
+#: lib/templates/layoutelement.php:484
+#@ cosmotheme
+msgid "Large thumb"
+msgstr ""
+
+#: lib/templates/layoutelement.php:489
+#@ cosmotheme
+msgid "Large thumb 2"
+msgstr ""
+
+#: lib/php/options.register.php:207
+#@ cosmotheme
+msgid "Large thumbnail"
+msgstr ""
+
+#: lib/php/widget/flickr.php:75
+#@ cosmotheme
+msgid "Latest Photo"
+msgstr ""
+
+#: lib/php/widget/latest_posts.php:6
+#: lib/php/widget/latest_posts.php:7
+#: lib/php/widget/latest_posts.php:16
+#@ cosmotheme
+msgid "Latest Posts"
+msgstr ""
+
+#: lib/php/widget/testimonials.php:5
+#@ cosmotheme
+msgid "Latest Testimonials"
+msgstr ""
+
+#: lib/templates/layoutelement.php:195
+#@ cosmotheme
+msgid "Latest galeries"
+msgstr ""
+
+#: lib/templates/layoutelement.php:191
+#@ cosmotheme
+msgid "Latest posts"
+msgstr ""
+
+#: lib/php/widget/tweets.php:5
+#@ cosmotheme
+msgid "Latest tweets"
+msgstr ""
+
+#: lib/php/options.register.php:32
+#: lib/php/options.register.php:643
+#: lib/templates/layouttemplate.php:12
+#@ cosmotheme
+msgid "Layouts"
+msgstr ""
+
+#: single-content.php:194
+#@ cosmotheme
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:144
+#@ cosmotheme
+msgid "Leave a reply"
+msgstr ""
+
+#: lib/php/widget/tabber.php:383
+#: lib/php/widget/tags.php:81
+#@ cosmotheme
+msgid "Leave blank to show all tags"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:280
+#, php-format
+#@ cosmotheme
+msgid "Leave blank to use the default values set in %s Settings - Reading %s"
+msgstr ""
+
+#: lib/php/options.register.php:671
+#: lib/php/resources.register.php:201
+#: lib/php/resources.register.php:338
+#: lib/templates/footerelement.php:239
+#: lib/templates/headerelement.php:343
+#: lib/templates/layoutelement.php:356
+#@ cosmotheme
+msgid "Left"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBPageResizer.php:26
+#: lib/php/LayoutBuilder/LBSidebarResizer.php:24
+#: lib/php/options.register.php:179
+#@ cosmotheme
+msgid "Left sidebar"
+msgstr ""
+
+#: lib/php/options.register.php:13
+#@ cosmotheme
+msgid "Likes"
+msgstr ""
+
+#: lib/php/options.register.php:13
+#@ cosmotheme
+msgid "Likes settings"
+msgstr ""
+
+#: lib/php/widget/instagram.php:128
+#@ cosmotheme
+msgid "Likes:"
+msgstr ""
+
+#: lib/templates/footerelement.php:155
+#: lib/templates/headerelement.php:277
+#: lib/templates/layoutelement.php:283
+#@ cosmotheme
+msgid "Line delimiter"
+msgstr ""
+
+#: lib/php/widget/instagram.php:281
+#@ cosmotheme
+msgid "Link images to full image:"
+msgstr ""
+
+#: lib/php/resources.register.php:156
+#@ cosmotheme
+msgid "LinkedIn"
+msgstr ""
+
+#: lib/php/options.register.php:534
+#@ cosmotheme
+msgid "LinkedIn public profile URL"
+msgstr ""
+
+#: lib/templates/footerelement.php:264
+#: lib/templates/headerelement.php:435
+#: lib/templates/layoutelement.php:706
+#@ cosmotheme
+msgid "List"
+msgstr ""
+
+#: lib/php/options.register.php:655
+#@ cosmotheme
+msgid "List of generic dynamic sidebars<br />Drag and drop blocks to rearrange position"
+msgstr ""
+
+#: lib/php/options.register.php:180
+#: lib/templates/additional_templates.php:43
+#: lib/templates/additional_templates.php:256
+#: lib/templates/layoutadditionalelement.php:68
+#: lib/templates/layoutelement.php:379
+#@ cosmotheme
+msgid "List view"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:111
+#: lib/templates/layoutelement.php:440
+#@ cosmotheme
+msgid "List view excerpt"
+msgstr ""
+
+#: lib/templates/additional_templates.php:361
+#@ cosmotheme
+msgid "List-view"
+msgstr ""
+
+#: lib/php/options.register.php:574
+#@ cosmotheme
+msgid "List-view - image height"
+msgstr ""
+
+#: lib/php/options.register.php:571
+#@ cosmotheme
+msgid "List-view - image width"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:229
+#: lib/templates/layoutadditionalelement.php:240
+#: lib/templates/layoutelement.php:575
+#@ cosmotheme
+msgid "Load more( AJAX )"
+msgstr ""
+
+#: comments.php:148
+#@ cosmotheme
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:148
+#@ cosmotheme
+msgid "Log out?"
+msgstr ""
+
+#: comments.php:148
+#@ cosmotheme
+msgid "Logged in as"
+msgstr ""
+
+#: lib/php/login.class.php:9
+#: lib/php/login.class.php:55
+#@ cosmotheme
+msgid "Login successful"
+msgstr ""
+
+#: lib/templates/headerelement.php:99
+#@ cosmotheme
+msgid "Logo"
+msgstr ""
+
+#: lib/php/options.register.php:351
+#@ cosmotheme
+msgid "Logo text color"
+msgstr ""
+
+#: lib/php/options.register.php:347
+#@ cosmotheme
+msgid "Logo type "
+msgstr ""
+
+#: lib/php/login.class.php:42
+#@ cosmotheme
+msgid "Lost your password"
+msgstr ""
+
+#: lib/php/CosmoUploader.class.php:133
+#@ cosmotheme
+msgid "MP3 only. "
+msgstr ""
+
+#: lib/php/CosmoUploader.class.php:128
+#@ cosmotheme
+msgid "MP4 only. "
+msgstr ""
+
+#: lib/php/actions.register.php:210
+#@ cosmotheme
+msgid "Main Sidebar"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBPageResizer.php:20
+#: lib/php/LayoutBuilder/LBSidebarResizer.php:18
+#@ cosmotheme
+msgid "Main content"
+msgstr ""
+
+#: lib/templates/headerelement.php:103
+#@ cosmotheme
+msgid "Main menu"
+msgstr ""
+
+#: lib/php/options.register.php:19
+#@ cosmotheme
+msgid "Main page"
+msgstr ""
+
+#: lib/php/fields.class.php:937
+#@ cosmotheme
+msgid "March"
+msgstr ""
+
+#: lib/php/fields.class.php:939
+#@ cosmotheme
+msgid "May"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:139
+#: lib/templates/layoutelement.php:480
+#@ cosmotheme
+msgid "Medium thumb"
+msgstr ""
+
+#: lib/templates/headerelement.php:107
+#@ cosmotheme
+msgid "Menu with centered logo"
+msgstr ""
+
+#: lib/php/contact.class.php:26
+#: lib/php/contact.class.php:72
+#@ cosmotheme
+msgid "Message"
+msgstr ""
+
+#: lib/templates/headerelement.php:369
+#@ cosmotheme
+msgid "Middle"
+msgstr ""
+
+#: lib/php/options.register.php:130
+#@ cosmotheme
+msgid "Minimum number of Likes to set Featured"
+msgstr ""
+
+#: archive.php:19
+#@ cosmotheme
+msgid "Monthly archives"
+msgstr ""
+
+#: related-posts.php:138
+#, php-format
+#@ cosmotheme
+msgid "More by %s"
+msgstr ""
+
+#: related-posts.php:137
+#, php-format
+#@ cosmotheme
+msgid "More from %s"
+msgstr ""
+
+#: related-posts.php:70
+#, php-format
+#@ cosmotheme
+msgid "More projects by %s"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:80
+#: lib/templates/layoutelement.php:391
+#@ cosmotheme
+msgid "Mosaic"
+msgstr ""
+
+#: lib/templates/additional_templates.php:151
+#@ cosmotheme
+msgid "Mosaic-view"
+msgstr ""
+
+#: lib/php/options.register.php:581
+#@ cosmotheme
+msgid "Mosaic-view long image - image height"
+msgstr ""
+
+#: lib/php/options.register.php:578
+#@ cosmotheme
+msgid "Mosaic-view long image - image width"
+msgstr ""
+
+#: lib/php/options.register.php:588
+#@ cosmotheme
+msgid "Mosaic-view small image - image height"
+msgstr ""
+
+#: lib/php/options.register.php:585
+#@ cosmotheme
+msgid "Mosaic-view small image - image width"
+msgstr ""
+
+#: lib/php/shcode.class.php:55
+#@ cosmotheme
+msgid "Name (required)"
+msgstr ""
+
+#: lib/php/options.register.php:522
+#@ cosmotheme
+msgid "Needed for Facebook Connect"
+msgstr ""
+
+#: lib/php/resources.register.php:95
+#@ cosmotheme
+msgid "New Banner"
+msgstr ""
+
+#: lib/php/main.php:86
+#@ cosmotheme
+msgid "New Box Set Name"
+msgstr ""
+
+#: lib/php/main.php:38
+#@ cosmotheme
+msgid "New Category Name"
+msgstr ""
+
+#: lib/php/resources.register.php:22
+#@ cosmotheme
+msgid "New Gallery"
+msgstr ""
+
+#: lib/php/main.php:59
+#@ cosmotheme
+msgid "New Tag Name"
+msgstr ""
+
+#: lib/php/resources.register.php:137
+#@ cosmotheme
+msgid "New Team"
+msgstr ""
+
+#: lib/php/resources.register.php:60
+#@ cosmotheme
+msgid "New Testimonial"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBElement.php:12
+#: lib/php/LayoutBuilder/LBFooterElement.php:12
+#: lib/php/LayoutBuilder/LBHeaderElement.php:12
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:12
+#: lib/templates/layoutrow.php:54
+#: lib/templates/layouttemplate.php:41
+#@ cosmotheme
+msgid "New element"
+msgstr ""
+
+#: lib/php/contact.class.php:49
+#@ cosmotheme
+msgid "New email from"
+msgstr ""
+
+#: lib/php/main.php:113
+#@ cosmotheme
+msgid "New new Name"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplate.php:23
+#@ cosmotheme
+msgid "New template"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:84
+#: lib/templates/layoutelement.php:395
+#@ cosmotheme
+msgid "News view"
+msgstr ""
+
+#: pagination.php:25
+#@ cosmotheme
+msgid "Next &raquo;"
+msgstr ""
+
+#: lib/php/tools.class.php:41
+#@ cosmotheme
+msgid "Next feature"
+msgstr ""
+
+#: lib/php/options.register.php:193
+#@ cosmotheme
+msgid "Nine columns"
+msgstr ""
+
+#: lib/php/fields.class.php:481
+#: lib/templates/layoutadditionalelement.php:102
+#: lib/templates/layoutadditionalelement.php:161
+#: lib/templates/layoutelement.php:135
+#: lib/templates/layoutelement.php:413
+#: lib/templates/layoutelement.php:431
+#: lib/templates/layoutelement.php:508
+#: lib/templates/layoutrow.php:38
+#: lib/templates/layoutrow.php:88
+#: lib/templates/layoutrow.php:108
+#: lib/templates/layoutrow.php:128
+#: lib/templates/layouttemplate.php:73
+#: lib/templates/layouttemplate.php:118
+#@ cosmotheme
+msgid "No"
+msgstr ""
+
+#: lib/php/resources.register.php:202
+#: lib/php/resources.register.php:339
+#@ cosmotheme
+msgid "No Repeat"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBElement.php:1034
+#@ cosmotheme
+msgid "No posts found"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:135
+#: lib/templates/layoutelement.php:476
+#@ cosmotheme
+msgid "No thumb"
+msgstr ""
+
+#: lib/php/options.register.php:205
+#@ cosmotheme
+msgid "No thumbnail"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:260
+#: lib/templates/layoutelement.php:606
+#@ cosmotheme
+msgid "None of those"
+msgstr ""
+
+#: lib/php/shcode/list.php:85
+#@ cosmotheme
+msgid "Note! After inserting the shortcode, a list will be made available for entering list items. Press \"ENTER\" to create a new item."
+msgstr ""
+
+#: lib/php/resources.register.php:25
+#: lib/php/resources.register.php:63
+#: lib/php/resources.register.php:98
+#: lib/php/resources.register.php:140
+#@ cosmotheme
+msgid "Nothing found"
+msgstr ""
+
+#: lib/php/resources.register.php:26
+#: lib/php/resources.register.php:64
+#: lib/php/resources.register.php:99
+#: lib/php/resources.register.php:141
+#@ cosmotheme
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:21
+#@ cosmotheme
+msgid "Nothing to show. Please select some"
+msgstr ""
+
+#: lib/php/options.register.php:62
+#@ cosmotheme
+msgid "Notifications"
+msgstr ""
+
+#: lib/php/fields.class.php:945
+#@ cosmotheme
+msgid "November"
+msgstr ""
+
+#: lib/php/shcode/table.php:13
+#@ cosmotheme
+msgid "Number of Columns:"
+msgstr ""
+
+#: lib/php/widget/instagram.php:264
+#@ cosmotheme
+msgid "Number of Images:"
+msgstr ""
+
+#: lib/php/shcode/table.php:8
+#@ cosmotheme
+msgid "Number of Rows:"
+msgstr ""
+
+#: lib/templates/headerelement.php:199
+#: lib/templates/layoutadditionalelement.php:170
+#: lib/templates/layoutelement.php:517
+#@ cosmotheme
+msgid "Number of columns"
+msgstr ""
+
+#: lib/php/widget/comments.php:164
+#: lib/php/widget/tabber.php:376
+#: lib/templates/layoutelement.php:641
+#@ cosmotheme
+msgid "Number of comments"
+msgstr ""
+
+#: lib/php/widget/featured_posts.php:156
+#@ cosmotheme
+msgid "Number of featured posts"
+msgstr ""
+
+#: lib/php/widget/tabber.php:341
+#@ cosmotheme
+msgid "Number of hot posts"
+msgstr ""
+
+#: lib/php/widget/tweets.php:67
+#@ cosmotheme
+msgid "Number of latest tweets to show"
+msgstr ""
+
+#: lib/templates/layoutelement.php:657
+#@ cosmotheme
+msgid "Number of loves"
+msgstr ""
+
+#: lib/php/widget/tabber.php:371
+#@ cosmotheme
+msgid "Number of new posts"
+msgstr ""
+
+#: lib/php/widget/flickr.php:66
+#@ cosmotheme
+msgid "Number of photos"
+msgstr ""
+
+#: lib/php/widget/custom_post.php:367
+#: lib/php/widget/latest_posts.php:133
+#: lib/templates/layoutadditionalelement.php:269
+#: lib/templates/layoutelement.php:459
+#@ cosmotheme
+msgid "Number of posts"
+msgstr ""
+
+#: lib/php/widget/tabber.php:381
+#: lib/php/widget/tags.php:79
+#@ cosmotheme
+msgid "Number of tags"
+msgstr ""
+
+#: lib/templates/footerelement.php:211
+#: lib/templates/headerelement.php:225
+#@ cosmotheme
+msgid "Number of visible menus items"
+msgstr ""
+
+#: lib/php/fields.class.php:944
+#@ cosmotheme
+msgid "October"
+msgstr ""
+
+#: lib/php/options.register.php:672
+#@ cosmotheme
+msgid "On front page"
+msgstr ""
+
+#: lib/php/options.register.php:672
+#@ cosmotheme
+msgid "On simple page"
+msgstr ""
+
+#: lib/php/options.register.php:672
+#@ cosmotheme
+msgid "On single post"
+msgstr ""
+
+#: lib/templates/headerelement.php:204
+#: lib/templates/layoutadditionalelement.php:175
+#: lib/templates/layoutelement.php:522
+#@ cosmotheme
+msgid "One"
+msgstr ""
+
+#: lib/templates/sidebarresizer.php:15
+#@ cosmotheme
+msgid "One left sidebar"
+msgstr ""
+
+#: lib/templates/sidebarresizer.php:31
+#@ cosmotheme
+msgid "One left sidebar, one right sidebars"
+msgstr ""
+
+#: lib/templates/sidebarresizer.php:39
+#@ cosmotheme
+msgid "One right sidebar"
+msgstr ""
+
+#: lib/php/TooltipElement.class.php:11
+#@ cosmotheme
+msgid "Or use the input below to position"
+msgstr ""
+
+#: lib/templates/layoutelement.php:681
+#: woocommerce/myaccount/my-orders.php:32
+#@ cosmotheme
+#@ woocommerce
+msgid "Order"
+msgstr ""
+
+#: lib/templates/layoutelement.php:615
+#@ cosmotheme
+msgid "Order by"
+msgstr ""
+
+#: lib/php/main.php:514
+#: lib/php/options.register.php:30
+#: lib/templates/layoutelement.php:229
+#: woocommerce/shop/breadcrumb.php:202
+#@ cosmotheme
+#@ woocommerce
+msgid "Page"
+msgstr ""
+
+#: lib/php/resources.register.php:259
+#: lib/php/resources.register.php:346
+#@ cosmotheme
+msgid "Page Builder"
+msgstr ""
+
+#: lib/php/resources.register.php:344
+#@ cosmotheme
+msgid "Page Settings"
+msgstr ""
+
+#: lib/php/options.register.php:55
+#@ cosmotheme
+msgid "Pages"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:218
+#: lib/templates/layoutelement.php:564
+#@ cosmotheme
+msgid "Pagination"
+msgstr ""
+
+#: lib/php/main.php:81
+#@ cosmotheme
+msgid "Parent Box Set"
+msgstr ""
+
+#: lib/php/main.php:82
+#@ cosmotheme
+msgid "Parent Box Set:"
+msgstr ""
+
+#: lib/php/main.php:33
+#@ cosmotheme
+msgid "Parent Category"
+msgstr ""
+
+#: lib/php/main.php:34
+#@ cosmotheme
+msgid "Parent Category:"
+msgstr ""
+
+#: lib/php/main.php:108
+#@ cosmotheme
+msgid "Parent group"
+msgstr ""
+
+#: lib/php/main.php:109
+#@ cosmotheme
+msgid "Parent group:"
+msgstr ""
+
+#: lib/php/options.register.php:781
+#@ cosmotheme
+msgid "Paste the import data here"
+msgstr ""
+
+#: lib/php/options.register.php:121
+#@ cosmotheme
+msgid "Paste your Google Analytics or other tracking code here.<br />It will be added into the footer of this theme"
+msgstr ""
+
+#: lib/php/widget/featured_posts.php:161
+#@ cosmotheme
+msgid "Period of featured posts"
+msgstr ""
+
+#: lib/php/widget/tabber.php:346
+#@ cosmotheme
+msgid "Period of hot posts"
+msgstr ""
+
+#: lib/php/post.class.php:345
+#: lib/php/post.class.php:460
+#: lib/php/post.class.php:615
+#@ cosmotheme
+msgid "Permalink to"
+msgstr ""
+
+#: lib/php/shcode.class.php:9
+#: lib/php/shcode.class.php:72
+#@ cosmotheme
+msgid "Phone"
+msgstr ""
+
+#: lib/php/shcode.class.php:7
+#@ cosmotheme
+msgid "Phone 1"
+msgstr ""
+
+#: lib/php/contact_builder.class.php:22
+#@ cosmotheme
+msgid "Phone 1 "
+msgstr ""
+
+#: lib/php/shcode.class.php:13
+#@ cosmotheme
+msgid "Phone 2"
+msgstr ""
+
+#: lib/php/contact_builder.class.php:23
+#@ cosmotheme
+msgid "Phone 2 "
+msgstr ""
+
+#: lib/php/widget/flickr.php:16
+#@ cosmotheme
+msgid "Photo Gallery"
+msgstr ""
+
+#: lib/php/widget/instagram.php:273
+#@ cosmotheme
+msgid "Picture Size:"
+msgstr ""
+
+#: comments.php:50
+#@ cosmotheme
+msgid "Pingback"
+msgstr ""
+
+#: lib/php/options.register.php:542
+#@ cosmotheme
+msgid "Pinterest public profile URL"
+msgstr ""
+
+#: lib/php/options.register.php:769
+#@ cosmotheme
+msgid "Please check settings where pages are assigned. If there is something wrong set them manually."
+msgstr ""
+
+#: lib/php/localize-js.php:6
+#@ cosmotheme
+msgid "Please check your email"
+msgstr ""
+
+#: lib/php/widget/featured_posts.php:119
+#@ cosmotheme
+msgid "Please enable posts voting"
+msgstr ""
+
+#: lib/php/login.class.php:30
+#@ cosmotheme
+msgid "Please enter a password"
+msgstr ""
+
+#: lib/php/login.class.php:20
+#: lib/php/login.class.php:76
+#@ cosmotheme
+msgid "Please enter a username"
+msgstr ""
+
+#: lib/php/login.class.php:85
+#@ cosmotheme
+msgid "Please enter a valid e-mail"
+msgstr ""
+
+#: lib/php/options.register.php:342
+#@ cosmotheme
+msgid "Please select 'ico' type media file. Make sure you allow uploading 'ico' type in General Settings -> Upload file types"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:275
+#: lib/templates/layoutelement.php:465
+#@ cosmotheme
+msgid "Please select a number that is divisible by the number of columns"
+msgstr ""
+
+#: lib/templates/layoutrow.php:132
+#@ cosmotheme
+msgid "Please use full width row only if the template is used without left or right sidebar"
+msgstr ""
+
+#: lib/php/options.register.php:220
+#@ cosmotheme
+msgid "Please, select from the list the custom template you have created. To create a new template visit "
+msgstr ""
+
+#: lib/templates/footerelement.php:147
+#: lib/templates/headerelement.php:269
+#: lib/templates/layoutelement.php:275
+#@ cosmotheme
+msgid "Pointed delimiter"
+msgstr ""
+
+#: lib/php/main.php:52
+#@ cosmotheme
+msgid "Popular Tags"
+msgstr ""
+
+#: lib/templates/layoutelement.php:233
+#@ cosmotheme
+msgid "Post"
+msgstr ""
+
+#: lib/php/resources.register.php:254
+#@ cosmotheme
+msgid "Post Format"
+msgstr ""
+
+#: lib/php/resources.register.php:253
+#@ cosmotheme
+msgid "Post Settings"
+msgstr ""
+
+#: lib/php/options.register.php:35
+#@ cosmotheme
+msgid "Post format archive"
+msgstr ""
+
+#: archive.php:23
+#@ cosmotheme
+msgid "Post format archives"
+msgstr ""
+
+#: lib/php/options.register.php:14
+#@ cosmotheme
+msgid "Post settings"
+msgstr ""
+
+#: lib/php/widget/custom_post.php:268
+#: lib/php/widget/custom_post.php:456
+#@ cosmotheme
+msgid "Post tag"
+msgstr ""
+
+#: lib/php/options.register.php:36
+#@ cosmotheme
+msgid "Post type archive"
+msgstr ""
+
+#: lib/php/options.register.php:557
+#@ cosmotheme
+msgid "Post-format Gallery  - image width "
+msgstr ""
+
+#: lib/php/options.register.php:560
+#@ cosmotheme
+msgid "Post-format Gallery - image height"
+msgstr ""
+
+#: lib/php/options.register.php:567
+#@ cosmotheme
+msgid "Post-format Image - image height"
+msgstr ""
+
+#: lib/php/options.register.php:564
+#@ cosmotheme
+msgid "Post-format Image - image width"
+msgstr ""
+
+#: lib/php/options.register.php:56
+#: lib/templates/init_templates.php:182
+#@ cosmotheme
+msgid "Posts"
+msgstr ""
+
+#: lib/php/main.php:501
+#@ cosmotheme
+msgid "Posts tagged"
+msgstr ""
+
+#: lib/php/fields.class.php:325
+#@ cosmotheme
+msgid "Preview"
+msgstr ""
+
+#: lib/php/text.class.php:71
+#: lib/php/text.class.php:73
+#@ cosmotheme
+msgid "Preview Text"
+msgstr ""
+
+#: lib/php/options.register.php:380
+#@ cosmotheme
+msgid "Primary text "
+msgstr ""
+
+#: lib/php/widget/contact.php:5
+#@ cosmotheme
+msgid "Quick Contact form"
+msgstr ""
+
+#: lib/php/resources.register.php:212
+#@ cosmotheme
+msgid "Quote"
+msgstr ""
+
+#: lib/templates/layoutelement.php:645
+#@ cosmotheme
+msgid "Random"
+msgstr ""
+
+#: lib/php/widget/flickr.php:74
+#@ cosmotheme
+msgid "Random Photo"
+msgstr ""
+
+#: lib/php/login.class.php:112
+#@ cosmotheme
+msgid "Registration successful. Your password will be emailed to you"
+msgstr ""
+
+#: related-posts.php:79
+#@ cosmotheme
+msgid "Related Posts"
+msgstr ""
+
+#: related-posts.php:140
+#@ cosmotheme
+msgid "Related posts"
+msgstr ""
+
+#: lib/php/meta.class.php:715
+#@ cosmotheme
+msgid "Remove"
+msgstr ""
+
+#: lib/templates/layoutrow.php:78
+#@ cosmotheme
+msgid "Remove bottom margin distance for this row"
+msgstr ""
+
+#: lib/templates/layoutelement.php:422
+#@ cosmotheme
+msgid "Remove gutter"
+msgstr ""
+
+#: lib/php/options.register.php:132
+#@ cosmotheme
+msgid "Reset"
+msgstr ""
+
+#: lib/php/options.register.php:132
+#@ cosmotheme
+msgid "Reset Likes"
+msgstr ""
+
+#: lib/php/fields.class.php:548
+#@ cosmotheme
+msgid "Reset Value"
+msgstr ""
+
+#: lib/php/options.register.php:671
+#: lib/php/resources.register.php:201
+#: lib/php/resources.register.php:338
+#: lib/templates/footerelement.php:247
+#: lib/templates/headerelement.php:351
+#: lib/templates/layoutelement.php:364
+#@ cosmotheme
+msgid "Right"
+msgstr ""
+
+#: lib/php/shcode/box.php:55
+#@ cosmotheme
+msgid "Right Description"
+msgstr ""
+
+#: lib/php/shcode/box.php:49
+#@ cosmotheme
+msgid "Right Title"
+msgstr ""
+
+#: lib/php/options.register.php:179
+#@ cosmotheme
+msgid "Right sidebar"
+msgstr ""
+
+#: lib/templates/layoutrow.php:137
+#@ cosmotheme
+msgid "Row background color"
+msgstr ""
+
+#: lib/php/options.register.php:402
+#@ cosmotheme
+msgid "Same category"
+msgstr ""
+
+#: lib/php/options.register.php:402
+#@ cosmotheme
+msgid "Same tags"
+msgstr ""
+
+#: lib/php/options.register.php:402
+#@ cosmotheme
+msgid "Same user"
+msgstr ""
+
+#: lib/templates/footerelement.php:80
+#: lib/templates/headerelement.php:84
+#: lib/templates/layoutadditionalelement.php:53
+#: lib/templates/layoutelement.php:93
+#: lib/templates/layoutrow.php:17
+#: lib/templates/layoutrow.php:67
+#: lib/templates/layouttemplate.php:54
+#: lib/templates/tooltipelement.php:49
+#: woocommerce/myaccount/form-change-password.php:31
+#: woocommerce/myaccount/form-lost-password.php:50
+#@ cosmotheme
+#@ woocommerce
+msgid "Save"
+msgstr ""
+
+#: lib/php/resources.register.php:203
+#: lib/php/resources.register.php:340
+#@ cosmotheme
+msgid "Scroll"
+msgstr ""
+
+#: lib/php/options.register.php:54
+#: searchform.php:12
+#@ cosmotheme
+msgid "Search"
+msgstr ""
+
+#: lib/php/resources.register.php:97
+#@ cosmotheme
+msgid "Search Banner"
+msgstr ""
+
+#: lib/php/main.php:79
+#@ cosmotheme
+msgid "Search Box Set"
+msgstr ""
+
+#: lib/php/main.php:31
+#@ cosmotheme
+msgid "Search Categories"
+msgstr ""
+
+#: lib/php/resources.register.php:24
+#@ cosmotheme
+msgid "Search Gallery"
+msgstr ""
+
+#: lib/php/main.php:51
+#@ cosmotheme
+msgid "Search Tags"
+msgstr ""
+
+#: lib/php/resources.register.php:139
+#@ cosmotheme
+msgid "Search Team"
+msgstr ""
+
+#: lib/php/resources.register.php:62
+#@ cosmotheme
+msgid "Search Testimonial"
+msgstr ""
+
+#: lib/php/main.php:106
+#@ cosmotheme
+msgid "Search group"
+msgstr ""
+
+#: lib/php/options.register.php:23
+#@ cosmotheme
+msgid "Search results"
+msgstr ""
+
+#: lib/php/main.php:498
+#@ cosmotheme
+msgid "Search results for"
+msgstr ""
+
+#: search.php:15
+#@ cosmotheme
+msgid "Search results: "
+msgstr ""
+
+#: lib/templates/headerelement.php:119
+#@ cosmotheme
+msgid "Searchbar"
+msgstr ""
+
+#: lib/php/actions.register.php:239
+#@ cosmotheme
+msgid "Second"
+msgstr ""
+
+#: lib/php/actions.register.php:219
+#@ cosmotheme
+msgid "Second Sidebar"
+msgstr ""
+
+#: lib/templates/footerelement.php:99
+#@ cosmotheme
+msgid "Secondary navigation"
+msgstr ""
+
+#: lib/templates/layouttemplate.php:131
+#: lib/templates/layouttemplate.php:143
+#@ cosmotheme
+msgid "Seconds"
+msgstr ""
+
+#: lib/php/widget/instagram.php:266
+#@ cosmotheme
+msgid "Select Number"
+msgstr ""
+
+#: lib/php/options.register.php:673
+#@ cosmotheme
+msgid "Select Page"
+msgstr ""
+
+#: lib/templates/sidebarresizer.php:85
+#@ cosmotheme
+msgid "Select a sidebar"
+msgstr ""
+
+#: lib/templates/sidebarresizer.php:103
+#@ cosmotheme
+msgid "Select a template"
+msgstr ""
+
+#: lib/php/options.register.php:380
+#@ cosmotheme
+msgid "Select and style the standard font used in your site (body)"
+msgstr ""
+
+#: lib/php/options.register.php:323
+#@ cosmotheme
+msgid "Select body background"
+msgstr ""
+
+#: lib/templates/footerelement.php:190
+#: lib/templates/headerelement.php:312
+#: lib/templates/layoutelement.php:317
+#@ cosmotheme
+msgid "Select color for this delimiter"
+msgstr ""
+
+#: lib/php/widget/custom_post.php:253
+#: lib/php/widget/custom_post.php:346
+#@ cosmotheme
+msgid "Select item"
+msgstr ""
+
+#: lib/templates/footerelement.php:166
+#: lib/templates/headerelement.php:288
+#: lib/templates/layoutelement.php:294
+#@ cosmotheme
+msgid "Select margin distance for this delimiter"
+msgstr ""
+
+#: lib/php/resources.register.php:212
+#@ cosmotheme
+msgid "Select post format"
+msgstr ""
+
+#: lib/php/widget/custom_post.php:282
+#: lib/php/widget/custom_post.php:293
+#: lib/php/widget/custom_post.php:467
+#: lib/php/widget/custom_post.php:487
+#@ cosmotheme
+msgid "Select post taxonomy"
+msgstr ""
+
+#: lib/php/widget/custom_post.php:323
+#: lib/php/widget/custom_post.php:434
+#@ cosmotheme
+msgid "Select post terms"
+msgstr ""
+
+#: lib/php/widget/custom_post.php:250
+#: lib/php/widget/custom_post.php:343
+#@ cosmotheme
+msgid "Select post type"
+msgstr ""
+
+#: lib/templates/layouttemplate.php:81
+#@ cosmotheme
+msgid "Select slideshow"
+msgstr ""
+
+#: lib/php/shcode/table.php:34
+#@ cosmotheme
+msgid "Select table style:"
+msgstr ""
+
+#: lib/php/widget/custom_post.php:284
+#: lib/php/widget/custom_post.php:295
+#: lib/php/widget/custom_post.php:469
+#: lib/php/widget/custom_post.php:489
+#@ cosmotheme
+msgid "Select taxonomy"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:63
+#: lib/templates/layoutelement.php:374
+#@ cosmotheme
+msgid "Select view type"
+msgstr ""
+
+#: lib/php/shcode.class.php:82
+#@ cosmotheme
+msgid "Send Message"
+msgstr ""
+
+#: lib/php/contact.class.php:49
+#@ cosmotheme
+msgid "Sent via contact form."
+msgstr ""
+
+#: lib/php/main.php:60
+#@ cosmotheme
+msgid "Separate tags with commas"
+msgstr ""
+
+#: lib/php/fields.class.php:943
+#@ cosmotheme
+msgid "September"
+msgstr ""
+
+#: lib/templates/headerelement.php:249
+#, php-format
+#@ cosmotheme
+msgid "Set %s here %s the social profiles you wish to display"
+msgstr ""
+
+#: lib/php/resources.register.php:204
+#: lib/php/resources.register.php:341
+#@ cosmotheme
+msgid "Set background color for this post"
+msgstr ""
+
+#: lib/php/options.register.php:395
+#@ cosmotheme
+msgid "Set limit for footer menu"
+msgstr ""
+
+#: lib/php/options.register.php:394
+#@ cosmotheme
+msgid "Set limit for main menu"
+msgstr ""
+
+#: lib/php/options.register.php:130
+#@ cosmotheme
+msgid "Set minimum number of post likes to change it into a featured post"
+msgstr ""
+
+#: lib/php/options.register.php:460
+#: lib/php/options.register.php:461
+#@ cosmotheme
+msgid "Set number of characters that will be displayed on archive pages for each post"
+msgstr ""
+
+#: lib/php/options.register.php:432
+#@ cosmotheme
+msgid "Set the gallery slider speed"
+msgstr ""
+
+#: lib/php/options.register.php:395
+#@ cosmotheme
+msgid "Set the number of visible menu items"
+msgstr ""
+
+#: lib/templates/footerelement.php:217
+#: lib/templates/headerelement.php:231
+#@ cosmotheme
+msgid "Set the number of visible menu items. Remaining menu items will be shown in the drop down menu item \"More\""
+msgstr ""
+
+#: lib/php/options.register.php:394
+#@ cosmotheme
+msgid "Set the number of visible menu items. Remaining menu items<br />will be shown in the drop down menu item \"More\""
+msgstr ""
+
+#: lib/php/options.register.php:651
+#@ cosmotheme
+msgid "Set title for new sidebar"
+msgstr ""
+
+#: lib/php/options.register.php:8
+#@ cosmotheme
+msgid "Settings"
+msgstr ""
+
+#: lib/php/options.class.php:198
+#: lib/templates/layoutbuilder.php:290
+#@ cosmotheme
+msgid "Settings saved."
+msgstr ""
+
+#: lib/php/options.register.php:8
+#@ cosmotheme
+msgid "Setttings"
+msgstr ""
+
+#: lib/php/resources.register.php:81
+#: lib/php/resources.register.php:252
+#: lib/php/resources.register.php:343
+#@ cosmotheme
+msgid "Shortcodes"
+msgstr ""
+
+#: lib/php/widget/instagram.php:289
+#@ cosmotheme
+msgid "Show Caption:"
+msgstr ""
+
+#: lib/php/widget/instagram.php:285
+#@ cosmotheme
+msgid "Show Likes:"
+msgstr ""
+
+#: lib/php/options.register.php:527
+#@ cosmotheme
+msgid "Show RSS icon"
+msgstr ""
+
+#: lib/php/options.register.php:102
+#@ cosmotheme
+msgid "Show WordPress admin bar"
+msgstr ""
+
+#: lib/php/options.register.php:427
+#@ cosmotheme
+msgid "Show collapse button on gallery page"
+msgstr ""
+
+#: lib/php/options.register.php:412
+#@ cosmotheme
+msgid "Show entry meta"
+msgstr ""
+
+#: lib/php/options.register.php:447
+#@ cosmotheme
+msgid "Show entry meta for pages"
+msgstr ""
+
+#: lib/php/resources.register.php:301
+#@ cosmotheme
+msgid "Show page meta"
+msgstr ""
+
+#: lib/php/resources.register.php:187
+#: lib/php/resources.register.php:189
+#: lib/php/resources.register.php:192
+#: lib/php/resources.register.php:291
+#: lib/php/resources.register.php:293
+#: lib/php/resources.register.php:296
+#: lib/php/resources.register.php:309
+#: lib/php/resources.register.php:317
+#: lib/php/resources.register.php:326
+#@ cosmotheme
+msgid "Show post like"
+msgstr ""
+
+#: lib/php/resources.register.php:187
+#: lib/php/resources.register.php:189
+#: lib/php/resources.register.php:192
+#: lib/php/resources.register.php:291
+#: lib/php/resources.register.php:293
+#: lib/php/resources.register.php:296
+#: lib/php/resources.register.php:310
+#: lib/php/resources.register.php:318
+#: lib/php/resources.register.php:327
+#@ cosmotheme
+msgid "Show post like on this post"
+msgstr ""
+
+#: lib/php/resources.register.php:181
+#: lib/php/resources.register.php:285
+#@ cosmotheme
+msgid "Show post meta"
+msgstr ""
+
+#: lib/php/resources.register.php:181
+#: lib/php/resources.register.php:285
+#@ cosmotheme
+msgid "Show post meta on this post"
+msgstr ""
+
+#: lib/php/resources.register.php:178
+#@ cosmotheme
+msgid "Show related posts"
+msgstr ""
+
+#: lib/php/resources.register.php:178
+#@ cosmotheme
+msgid "Show related posts on this post"
+msgstr ""
+
+#: lib/php/resources.register.php:195
+#: lib/php/resources.register.php:334
+#@ cosmotheme
+msgid "Show social sharing"
+msgstr ""
+
+#: lib/php/resources.register.php:195
+#@ cosmotheme
+msgid "Show social sharing on this post"
+msgstr ""
+
+#: lib/php/options.register.php:133
+#@ cosmotheme
+msgid "Show votes count?"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:13
+#@ cosmotheme
+msgid "Showing"
+msgstr ""
+
+#: lib/php/widget/flickr.php:72
+#@ cosmotheme
+msgid "Showing Method"
+msgstr ""
+
+#: lib/php/options.register.php:60
+#@ cosmotheme
+msgid "Sidebar manager"
+msgstr ""
+
+#: lib/php/options.register.php:60
+#@ cosmotheme
+msgid "Sidebars"
+msgstr ""
+
+#: lib/php/options.register.php:404
+#@ cosmotheme
+msgid "Similar posts criteria"
+msgstr ""
+
+#: lib/php/options.register.php:406
+#@ cosmotheme
+msgid "Similar posts view type"
+msgstr ""
+
+#: lib/php/options.register.php:29
+#@ cosmotheme
+msgid "Single page"
+msgstr ""
+
+#: lib/php/options.register.php:603
+#@ cosmotheme
+msgid "Single page thumbnails, cropped version - image height"
+msgstr ""
+
+#: lib/php/options.register.php:600
+#@ cosmotheme
+msgid "Single page thumbnails, cropped version - image width"
+msgstr ""
+
+#: lib/php/options.register.php:611
+#@ cosmotheme
+msgid "Single page thumbnails, resized version - image height"
+msgstr ""
+
+#: lib/php/options.register.php:608
+#@ cosmotheme
+msgid "Single page thumbnails, resized version - image width"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:191
+#: lib/templates/layoutelement.php:538
+#@ cosmotheme
+msgid "Six"
+msgstr ""
+
+#: lib/php/options.register.php:200
+#@ cosmotheme
+msgid "Six columns"
+msgstr ""
+
+#: lib/php/shcode/box.php:23
+#@ cosmotheme
+msgid "Size"
+msgstr ""
+
+#: lib/php/tools.class.php:42
+#@ cosmotheme
+msgid "Skip"
+msgstr ""
+
+#: lib/php/options.register.php:545
+#@ cosmotheme
+msgid "Skype Name"
+msgstr ""
+
+#: lib/templates/footerelement.php:268
+#: lib/templates/headerelement.php:439
+#: lib/templates/layoutelement.php:710
+#@ cosmotheme
+msgid "Slide"
+msgstr ""
+
+#: lib/templates/layouttemplate.php:127
+#@ cosmotheme
+msgid "Slide speed"
+msgstr ""
+
+#: lib/templates/layouttemplate.php:91
+#@ cosmotheme
+msgid "Slideshow type"
+msgstr ""
+
+#: lib/php/options.register.php:206
+#@ cosmotheme
+msgid "Small thumbnail"
+msgstr ""
+
+#: lib/php/options.register.php:15
+#@ cosmotheme
+msgid "Social"
+msgstr ""
+
+#: lib/templates/footerelement.php:115
+#: lib/templates/headerelement.php:152
+#@ cosmotheme
+msgid "Social icons"
+msgstr ""
+
+#: lib/php/widget/featured_posts.php:109
+#: lib/php/widget/tabber.php:145
+#@ cosmotheme
+msgid "Sorry, no hot posts found."
+msgstr ""
+
+#: archive.php:33
+#: category.php:16
+#: index.php:16
+#: search.php:20
+#: tag.php:19
+#: taxonomy-gallery-category.php:16
+#: taxonomy-gallery-tag.php:19
+#@ cosmotheme
+msgid "Sorry, no posts found"
+msgstr ""
+
+#: lib/php/widget/tabber.php:174
+#@ cosmotheme
+msgid "Sorry, no posts found."
+msgstr ""
+
+#: lib/php/extra.class.php:231
+#@ cosmotheme
+msgid "Sorry, no results found."
+msgstr ""
+
+#: lib/php/resources.register.php:212
+#@ cosmotheme
+msgid "Standard"
+msgstr ""
+
+#: lib/php/extra.class.php:651
+#@ cosmotheme
+msgid "Start typing the post tile"
+msgstr ""
+
+#: lib/php/options.register.php:11
+#: lib/templates/headerelement.php:175
+#@ cosmotheme
+msgid "Styling"
+msgstr ""
+
+#: lib/php/options.register.php:11
+#@ cosmotheme
+msgid "Styling settings"
+msgstr ""
+
+#: lib/php/contact.class.php:75
+#@ cosmotheme
+msgid "Submit form"
+msgstr ""
+
+#: lib/php/widget/tabber.php:5
+#: lib/php/widget/tabber.php:6
+#: lib/templates/layoutelement.php:586
+#@ cosmotheme
+msgid "Tabber"
+msgstr ""
+
+#: lib/php/shcode/main.php:15
+#@ cosmotheme
+msgid "Table"
+msgstr ""
+
+#: lib/php/shcode/table.php:3
+#@ cosmotheme
+msgid "Table title:"
+msgstr ""
+
+#: lib/php/shcode/main.php:11
+#@ cosmotheme
+msgid "Tabs &amp; Toggles"
+msgstr ""
+
+#: lib/php/options.register.php:24
+#@ cosmotheme
+msgid "Tag listing"
+msgstr ""
+
+#: lib/php/main.php:63
+#: lib/php/options.register.php:53
+#: lib/php/widget/tags.php:5
+#: lib/php/widget/tags.php:6
+#: lib/templates/layoutelement.php:153
+#@ cosmotheme
+msgid "Tags"
+msgstr ""
+
+#: tag.php:14
+#: taxonomy-gallery-tag.php:14
+#@ cosmotheme
+msgid "Tags archives"
+msgstr ""
+
+#: lib/php/resources.register.php:133
+#@ cosmotheme
+msgid "Team"
+msgstr ""
+
+#: lib/templates/layoutelement.php:161
+#@ cosmotheme
+msgid "Team groups"
+msgstr ""
+
+#: lib/php/resources.register.php:157
+#@ cosmotheme
+msgid "Team settings"
+msgstr ""
+
+#: lib/php/resources.register.php:132
+#@ cosmotheme
+msgid "Teams"
+msgstr ""
+
+#: lib/php/options.register.php:18
+#: lib/php/options.register.php:221
+#@ cosmotheme
+msgid "Templates"
+msgstr ""
+
+#: lib/php/options.register.php:18
+#@ cosmotheme
+msgid "Templates settings"
+msgstr ""
+
+#: lib/php/widget/testimonials.php:14
+#: lib/templates/footerelement.php:111
+#: lib/templates/headerelement.php:144
+#: lib/templates/layoutelement.php:169
+#@ cosmotheme
+msgid "Testimonials"
+msgstr ""
+
+#: lib/templates/footerelement.php:119
+#: lib/templates/headerelement.php:148
+#: lib/templates/layoutelement.php:245
+#@ cosmotheme
+msgid "Text / Shortcodes"
+msgstr ""
+
+#: lib/templates/footerelement.php:233
+#: lib/templates/headerelement.php:337
+#: lib/templates/layoutelement.php:350
+#@ cosmotheme
+msgid "Text align"
+msgstr ""
+
+#: lib/php/options.register.php:11
+#@ cosmotheme
+msgid "The basic layout structure for color and background effects"
+msgstr ""
+
+#: lib/php/options.register.php:640
+#@ cosmotheme
+msgid "The newly created sidebar will be available at "
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:59
+#@ cosmotheme
+msgid "The settings below are only applicable for default content on archive pages (categories, tags, search results, etc.)"
+msgstr ""
+
+#: lib/php/widget/instagram.php:146
+#@ cosmotheme
+msgid "The user currently does not have any images..."
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:114
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:142
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:166
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:197
+#@ cosmotheme
+msgid "There are no"
+msgstr ""
+
+#: lib/php/widget/comments.php:130
+#: lib/php/widget/tabber.php:278
+#@ cosmotheme
+msgid "There are no comments"
+msgstr ""
+
+#: lib/php/post.class.php:1415
+#@ cosmotheme
+msgid "There are no images attached to this gallery"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:250
+#@ cosmotheme
+msgid "There are no non-empty"
+msgstr ""
+
+#: lib/php/TooltipBuilder.class.php:78
+#: lib/php/TooltipBuilder.class.php:95
+#@ cosmotheme
+msgid "There are no pages"
+msgstr ""
+
+#: lib/php/widget/tabber.php:300
+#: lib/php/widget/tags.php:47
+#@ cosmotheme
+msgid "There are no tags."
+msgstr ""
+
+#: lib/php/main.php:299
+#@ cosmotheme
+msgid "There are no testimonials"
+msgstr ""
+
+#: lib/php/actions.register.php:249
+#@ cosmotheme
+msgid "Third"
+msgstr ""
+
+#: lib/php/resources.register.php:116
+#@ cosmotheme
+msgid "This URL is used if the above image is uploaded, and if available, the image will link to it."
+msgstr ""
+
+#: lib/php/options.register.php:773
+#@ cosmotheme
+msgid "This is the export data"
+msgstr ""
+
+#: lib/php/options.register.php:780
+#@ cosmotheme
+msgid "This is the import zone"
+msgstr ""
+
+#: lib/templates/layoutelement.php:671
+#@ cosmotheme
+msgid "This option is available only for featured posts"
+msgstr ""
+
+#: lib/php/options.register.php:218
+#@ cosmotheme
+msgid "This page lets you assign custom templates for your site's sections."
+msgstr ""
+
+#: lib/templates/layouttemplate.php:10
+#@ cosmotheme
+msgid "This page lets you create custom templates and assign them for your site's sections (posts, categories, tags list, archive, etc)."
+msgstr ""
+
+#: lib/php/options.register.php:638
+#@ cosmotheme
+msgid "This page lets you create new sidebar areas and assign them for your templates or posts."
+msgstr ""
+
+#: comments.php:65
+#@ cosmotheme
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: lib/php/options.register.php:328
+#@ cosmotheme
+msgid "This setting will be applied when you upload a background image with \"no repeat\" and \"fixed\" options."
+msgstr ""
+
+#: lib/php/options.register.php:349
+#@ cosmotheme
+msgid "This will add the blog description bellow the logo."
+msgstr ""
+
+#: lib/php/resources.register.php:337
+#@ cosmotheme
+msgid "This will be the background image for this page"
+msgstr ""
+
+#: lib/php/resources.register.php:200
+#@ cosmotheme
+msgid "This will be the background image for this post"
+msgstr ""
+
+#: lib/templates/headerelement.php:212
+#: lib/templates/layoutadditionalelement.php:183
+#: lib/templates/layoutelement.php:530
+#@ cosmotheme
+msgid "Three"
+msgstr ""
+
+#: lib/php/options.register.php:192
+#: lib/php/options.register.php:198
+#@ cosmotheme
+msgid "Three columns"
+msgstr ""
+
+#: lib/templates/additional_templates.php:574
+#: lib/templates/additional_templates.php:680
+#@ cosmotheme
+msgid "Thumb-view"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:130
+#: lib/templates/layoutelement.php:471
+#@ cosmotheme
+msgid "Thumbnail size"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:76
+#: lib/templates/layoutelement.php:387
+#@ cosmotheme
+msgid "Thumbnail view"
+msgstr ""
+
+#: lib/php/options.register.php:180
+#: lib/php/options.register.php:405
+#@ cosmotheme
+msgid "Thumbnails view"
+msgstr ""
+
+#: lib/php/resources.register.php:202
+#: lib/php/resources.register.php:339
+#@ cosmotheme
+msgid "Tile"
+msgstr ""
+
+#: lib/php/resources.register.php:202
+#: lib/php/resources.register.php:339
+#@ cosmotheme
+msgid "Tile Horizontally"
+msgstr ""
+
+#: lib/php/resources.register.php:202
+#: lib/php/resources.register.php:339
+#@ cosmotheme
+msgid "Tile Vertically"
+msgstr ""
+
+#: lib/php/extra.class.php:179
+#: lib/php/shcode/box.php:37
+#: lib/php/widget/category_icons.php:83
+#: lib/php/widget/comments.php:159
+#: lib/php/widget/contact.php:23
+#: lib/php/widget/custom_post.php:238
+#: lib/php/widget/featured_posts.php:151
+#: lib/php/widget/flickr.php:55
+#: lib/php/widget/instagram.php:230
+#: lib/php/widget/latest_posts.php:128
+#: lib/php/widget/tabber.php:336
+#: lib/php/widget/tags.php:74
+#: lib/php/widget/testimonials.php:25
+#: lib/php/widget/tweets.php:59
+#@ cosmotheme
+msgid "Title"
+msgstr ""
+
+#: lib/php/contact_builder.class.php:184
+#@ cosmotheme
+msgid "Title Info"
+msgstr ""
+
+#: lib/php/options.register.php:212
+#@ cosmotheme
+msgid "Title above content"
+msgstr ""
+
+#: lib/php/options.register.php:213
+#@ cosmotheme
+msgid "Title above excerpt"
+msgstr ""
+
+#: lib/php/widget/instagram.php:252
+#@ cosmotheme
+msgid "Title:"
+msgstr ""
+
+#: lib/php/meta.class.php:269
+#@ cosmotheme
+msgid "To change attachment click on the icon"
+msgstr ""
+
+#: lib/php/options.register.php:373
+#@ cosmotheme
+msgid "To change blog title go to <a href=\"options-general.php\">General settings </a> "
+msgstr ""
+
+#: lib/php/options.register.php:366
+#@ cosmotheme
+msgid "To change blog title go to <a href=\"options-general.php\">General settings</a> "
+msgstr ""
+
+#: lib/php/options.register.php:326
+#@ cosmotheme
+msgid "To set a background image go to"
+msgstr ""
+
+#: lib/php/widget/featured_posts.php:165
+#: lib/php/widget/featured_posts.php:167
+#: lib/php/widget/tabber.php:350
+#: lib/php/widget/tabber.php:352
+#@ cosmotheme
+msgid "Today"
+msgstr ""
+
+#: lib/php/options.register.php:17
+#@ cosmotheme
+msgid "Tooltips"
+msgstr ""
+
+#: lib/php/options.register.php:17
+#@ cosmotheme
+msgid "Tooltips manager"
+msgstr ""
+
+#: lib/php/options.register.php:671
+#: lib/templates/headerelement.php:365
+#@ cosmotheme
+msgid "Top"
+msgstr ""
+
+#: lib/templates/headerelement.php:111
+#@ cosmotheme
+msgid "Top menu"
+msgstr ""
+
+#: lib/php/options.register.php:121
+#@ cosmotheme
+msgid "Tracking code"
+msgstr ""
+
+#: lib/templates/layouttemplate.php:139
+#@ cosmotheme
+msgid "Transition speed"
+msgstr ""
+
+#: lib/php/options.register.php:538
+#@ cosmotheme
+msgid "Tumblr public profile URL"
+msgstr ""
+
+#: lib/php/resources.register.php:155
+#@ cosmotheme
+msgid "Twitter"
+msgstr ""
+
+#: lib/php/options.register.php:529
+#@ cosmotheme
+msgid "Twitter ID"
+msgstr ""
+
+#: lib/php/widget/tweets.php:63
+#@ cosmotheme
+msgid "Twitter User Name"
+msgstr ""
+
+#: lib/templates/headerelement.php:208
+#: lib/templates/layoutadditionalelement.php:179
+#: lib/templates/layoutelement.php:526
+#@ cosmotheme
+msgid "Two"
+msgstr ""
+
+#: lib/php/options.register.php:197
+#@ cosmotheme
+msgid "Two columns"
+msgstr ""
+
+#: lib/templates/sidebarresizer.php:23
+#@ cosmotheme
+msgid "Two left sidebars"
+msgstr ""
+
+#: lib/templates/sidebarresizer.php:47
+#@ cosmotheme
+msgid "Two right sidebars"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1299
+#: lib/php/shcode/box.php:8
+#@ cosmotheme
+msgid "Type"
+msgstr ""
+
+#: lib/php/options.register.php:122
+#, php-format
+#@ cosmotheme
+msgid "Type here the Copyright text that will appear in the footer.<br />To display the current year use \"%year%\""
+msgstr ""
+
+#: lib/templates/layoutbuilder.php:144
+#@ cosmotheme
+msgid "Type the name here"
+msgstr ""
+
+#: lib/php/options.register.php:12
+#: lib/php/shcode/main.php:13
+#@ cosmotheme
+msgid "Typography"
+msgstr ""
+
+#: lib/php/options.register.php:12
+#@ cosmotheme
+msgid "Typography settings"
+msgstr ""
+
+#: lib/templates/tooltipelement.php:23
+#@ cosmotheme
+msgid "Undo"
+msgstr ""
+
+#: loop-404.php:6
+#@ cosmotheme
+msgid "Unfortunately we did not find any results for your request."
+msgstr ""
+
+#: lib/php/main.php:84
+#@ cosmotheme
+msgid "Update Box Set"
+msgstr ""
+
+#: lib/php/main.php:36
+#@ cosmotheme
+msgid "Update Category"
+msgstr ""
+
+#: lib/php/options.class.php:228
+#@ cosmotheme
+msgid "Update Settings"
+msgstr ""
+
+#: lib/php/main.php:57
+#@ cosmotheme
+msgid "Update Tag"
+msgstr ""
+
+#: lib/php/main.php:111
+#@ cosmotheme
+msgid "Update group"
+msgstr ""
+
+#: lib/php/CosmoUploader.class.php:112
+#: lib/php/CosmoUploader.class.php:215
+#@ cosmotheme
+msgid "Upload a file."
+msgstr ""
+
+#: lib/php/resources.register.php:337
+#@ cosmotheme
+msgid "Upload image, or choose from media library."
+msgstr ""
+
+#: lib/php/resources.register.php:200
+#@ cosmotheme
+msgid "Upload or choose image from media library"
+msgstr ""
+
+#: lib/php/resources.register.php:115
+#@ cosmotheme
+msgid "Upload or choose image from media library."
+msgstr ""
+
+#: lib/php/options.register.php:100
+#@ cosmotheme
+msgid "Use Facebook comments"
+msgstr ""
+
+#: lib/php/options.register.php:414
+#@ cosmotheme
+msgid "Use cropped thumbnail on single post page."
+msgstr ""
+
+#: lib/php/options.register.php:99
+#@ cosmotheme
+msgid "Use human time"
+msgstr ""
+
+#: lib/templates/footerelement.php:203
+#: lib/templates/headerelement.php:326
+#: lib/templates/layoutelement.php:330
+#@ cosmotheme
+msgid "Use this element if you need to have empty columns"
+msgstr ""
+
+#: lib/templates/layoutrow.php:118
+#@ cosmotheme
+msgid "Use this row on full width"
+msgstr ""
+
+#: lib/php/actions.register.php:231
+#: lib/php/actions.register.php:241
+#: lib/php/actions.register.php:251
+#@ cosmotheme
+msgid "Use this sidebar in templates to be able to view its content."
+msgstr ""
+
+#: lib/php/widget/instagram.php:233
+#@ cosmotheme
+msgid "User ID"
+msgstr ""
+
+#: lib/php/widget/instagram.php:256
+#@ cosmotheme
+msgid "User ID:"
+msgstr ""
+
+#: lib/php/widget/instagram.php:231
+#: woocommerce/myaccount/form-login.php:76
+#@ cosmotheme
+#@ woocommerce
+msgid "Username"
+msgstr ""
+
+#: lib/php/options.class.php:146
+#: lib/templates/layoutbuilder.php:258
+#@ cosmotheme
+msgid "Version"
+msgstr ""
+
+#: lib/php/resources.register.php:182
+#: lib/php/resources.register.php:286
+#: lib/templates/headerelement.php:189
+#@ cosmotheme
+msgid "Vertical"
+msgstr ""
+
+#: lib/templates/headerelement.php:359
+#@ cosmotheme
+msgid "Vertical align"
+msgstr ""
+
+#: lib/php/resources.register.php:212
+#@ cosmotheme
+msgid "Video"
+msgstr ""
+
+#: lib/php/resources.register.php:96
+#@ cosmotheme
+msgid "View Banner"
+msgstr ""
+
+#: lib/php/resources.register.php:23
+#@ cosmotheme
+msgid "View Gallery"
+msgstr ""
+
+#: lib/php/resources.register.php:138
+#@ cosmotheme
+msgid "View Team"
+msgstr ""
+
+#: lib/php/resources.register.php:61
+#@ cosmotheme
+msgid "View Testimonial"
+msgstr ""
+
+#: lib/php/widget/category_icons.php:38
+#, php-format
+#@ cosmotheme
+msgid "View all posts filed under %s"
+msgstr ""
+
+#: entry-meta.php:47
+#: lib/php/post.class.php:1798
+#: lib/templates/layoutelement.php:632
+#@ cosmotheme
+msgid "Views"
+msgstr ""
+
+#: lib/php/options.register.php:536
+#@ cosmotheme
+msgid "Vimeo public profile URL"
+msgstr ""
+
+#: lib/php/options.register.php:131
+#@ cosmotheme
+msgid "WARNING! This will reset all current Loves."
+msgstr ""
+
+#: lib/php/options.register.php:132
+#@ cosmotheme
+msgid "WARNING! This will reset all the likes for all the posts!"
+msgstr ""
+
+#: lib/php/options.register.php:767
+#@ cosmotheme
+msgid "Warning! You WILL lose all your current settings FOREVER"
+msgstr ""
+
+#: loop-404.php:8
+#@ cosmotheme
+msgid "We apologize but this page, post or resource does not exist or can not be found. Perhaps it is necessary to change the call method to this page, post or resource."
+msgstr ""
+
+#: lib/templates/footerelement.php:137
+#: lib/templates/headerelement.php:259
+#: lib/templates/layoutelement.php:265
+#@ cosmotheme
+msgid "We recommend to use this element only between rows"
+msgstr ""
+
+#: comments.php:133
+#@ cosmotheme
+msgid "Website"
+msgstr ""
+
+#: lib/templates/footerelement.php:143
+#: lib/templates/headerelement.php:265
+#: lib/templates/layoutelement.php:271
+#@ cosmotheme
+msgid "White space"
+msgstr ""
+
+#: lib/templates/footerelement.php:103
+#: lib/templates/headerelement.php:156
+#: lib/templates/layoutelement.php:241
+#@ cosmotheme
+msgid "Widgets"
+msgstr ""
+
+#: lib/templates/headerelement.php:185
+#@ cosmotheme
+msgid "With description"
+msgstr ""
+
+#: lib/php/login.class.php:43
+#@ cosmotheme
+msgid "Wrong password"
+msgstr ""
+
+#: lib/php/options.register.php:532
+#@ cosmotheme
+msgid "Yahoo public profile URL"
+msgstr ""
+
+#: archive.php:21
+#@ cosmotheme
+msgid "Yearly archives"
+msgstr ""
+
+#: lib/php/fields.class.php:480
+#: lib/templates/layoutadditionalelement.php:98
+#: lib/templates/layoutadditionalelement.php:157
+#: lib/templates/layoutelement.php:131
+#: lib/templates/layoutelement.php:409
+#: lib/templates/layoutelement.php:427
+#: lib/templates/layoutelement.php:504
+#: lib/templates/layoutrow.php:34
+#: lib/templates/layoutrow.php:84
+#: lib/templates/layoutrow.php:104
+#: lib/templates/layoutrow.php:124
+#: lib/templates/layouttemplate.php:69
+#: lib/templates/layouttemplate.php:114
+#@ cosmotheme
+msgid "Yes"
+msgstr ""
+
+#: lib/php/login.class.php:67
+#@ cosmotheme
+msgid "You are logged in"
+msgstr ""
+
+#: lib/php/options.register.php:521
+#@ cosmotheme
+msgid "You can create a fb application from <a href=\"https://developers.facebook.com/apps\">here</a>"
+msgstr ""
+
+#: lib/php/resources.register.php:113
+#@ cosmotheme
+msgid "You can insert your advertisement code here, or just any text or HTML code."
+msgstr ""
+
+#: lib/php/options.register.php:101
+#@ cosmotheme
+msgid "You can set Facebook application ID"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:211
+#: lib/templates/layoutelement.php:557
+#@ cosmotheme
+msgid "You need 'Thumbnail view' or 'Grid view' to use this option"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:255
+#: lib/templates/layoutelement.php:601
+#@ cosmotheme
+msgid "You need 'Thumbnail view' to use this option"
+msgstr ""
+
+#: lib/templates/layoutelement.php:636
+#@ cosmotheme
+msgid "You need JetPack to use this option"
+msgstr ""
+
+#: lib/templates/layoutelement.php:186
+#@ cosmotheme
+msgid "You need to enable loves to use this option"
+msgstr ""
+
+#: lib/templates/layoutelement.php:661
+#@ cosmotheme
+msgid "You to enable Loves to use this option"
+msgstr ""
+
+#: lib/php/shcode/contact.php:43
+#@ cosmotheme
+msgid "Your browser does not support iframes."
+msgstr ""
+
+#: comments.php:28
+#@ cosmotheme
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:131
+#: lib/php/contact.class.php:18
+#: lib/php/contact.class.php:69
+#: lib/php/widget/contact.php:27
+#@ cosmotheme
+msgid "Your email"
+msgstr ""
+
+#: comments.php:146
+#@ cosmotheme
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:129
+#: lib/php/contact.class.php:12
+#: lib/php/contact.class.php:66
+#@ cosmotheme
+msgid "Your name"
+msgstr ""
+
+#: lib/php/options.register.php:537
+#@ cosmotheme
+msgid "Youtube public profile URL"
+msgstr ""
+
+#: lib/php/CosmoUploader.class.php:135
+#@ cosmotheme
+msgid "ZIP, RAR, PDF or DOC. "
+msgstr ""
+
+#: lib/php/post.class.php:1180
+#: lib/php/widget/comments.php:112
+#: lib/php/widget/tabber.php:262
+#: woocommerce/order/tracking.php:18
+#@ cosmotheme
+#@ woocommerce
+msgid "ago"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:34
+#@ cosmotheme
+msgid "all"
+msgstr ""
+
+#: lib/php/options.register.php:642
+#@ cosmotheme
+msgid "and"
+msgstr ""
+
+#: lib/templates/layouttemplate.php:13
+#@ cosmotheme
+msgid "and select from the list the newly created template."
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:271
+#: lib/php/resources.register.php:104
+#: lib/php/resources.register.php:147
+#@ cosmotheme
+msgid "banner"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:271
+#@ cosmotheme
+msgid "banners"
+msgstr ""
+
+#: comments.php:24
+#@ cosmotheme
+msgid "by"
+msgstr ""
+
+#: lib/php/post.class.php:1747
+#, php-format
+#@ cosmotheme
+msgid "by %s"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:24
+#@ cosmotheme
+msgid "carousel"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:19
+#@ cosmotheme
+msgid "categories"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:20
+#@ cosmotheme
+msgid "category"
+msgstr ""
+
+#: lib/php/contact.class.php:22
+#@ cosmotheme
+msgid "error, email is required field."
+msgstr ""
+
+#: lib/php/contact.class.php:40
+#@ cosmotheme
+msgid "error, message content is required field."
+msgstr ""
+
+#: lib/php/contact.class.php:15
+#@ cosmotheme
+msgid "error, name is required field."
+msgstr ""
+
+#: lib/php/widget/tabber.php:61
+#@ cosmotheme
+msgid "feat"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:30
+#@ cosmotheme
+msgid "featured"
+msgstr ""
+
+#: lib/php/TooltipElement.class.php:9
+#@ cosmotheme
+msgid "for quick edit"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:18
+#@ cosmotheme
+msgid "from"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:32
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:261
+#@ cosmotheme
+msgid "galleries"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:29
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:31
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:182
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:261
+#: lib/php/resources.register.php:31
+#@ cosmotheme
+msgid "gallery"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:37
+#@ cosmotheme
+msgid "group"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:38
+#@ cosmotheme
+msgid "groups"
+msgstr ""
+
+#: lib/php/options.register.php:101
+#@ cosmotheme
+msgid "here"
+msgstr ""
+
+#: lib/php/options.register.php:768
+#@ cosmotheme
+msgid "if you paste the import data and click \"Update settings\"."
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:22
+#@ cosmotheme
+msgid "in"
+msgstr ""
+
+#: lib/php/options.class.php:544
+#@ cosmotheme
+msgid "is available, please update now."
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:33
+#@ cosmotheme
+msgid "latest"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:28
+#@ cosmotheme
+msgid "load more"
+msgstr ""
+
+#: lib/php/extra.class.php:130
+#@ cosmotheme
+msgid "main sidebar"
+msgstr ""
+
+#: lib/php/widget/tabber.php:62
+#: lib/php/widget/tabber.php:65
+#@ cosmotheme
+msgid "new"
+msgstr ""
+
+#: lib/templates/sidebarresizer.php:96
+#@ cosmotheme
+msgid "new sidebar"
+msgstr ""
+
+#: lib/templates/sidebarresizer.php:127
+#@ cosmotheme
+msgid "new template"
+msgstr ""
+
+#: lib/templates/additional_templates.php:44
+#@ cosmotheme
+msgid "no sidebars and load more option"
+msgstr ""
+
+#: comments.php:25
+#: lib/php/post.class.php:1182
+#@ cosmotheme
+msgid "on"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:15
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:177
+#@ cosmotheme
+msgid "page"
+msgstr ""
+
+#: lib/php/options.register.php:221
+#@ cosmotheme
+msgid "page."
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:27
+#@ cosmotheme
+msgid "pagination"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:16
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:172
+#@ cosmotheme
+msgid "post"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:17
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:172
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:177
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:182
+#@ cosmotheme
+msgid "posts"
+msgstr ""
+
+#: lib/php/widget/custom_post.php:251
+#: lib/php/widget/custom_post.php:344
+#@ cosmotheme
+msgid "remove"
+msgstr ""
+
+#: lib/php/post.class.php:1543
+#: lib/php/widget/tabber.php:70
+#@ cosmotheme
+msgid "replies"
+msgstr ""
+
+#: entry-meta.php:22
+#: lib/php/post.class.php:1558
+#: lib/php/post.class.php:1775
+#@ cosmotheme
+msgid "reply"
+msgstr ""
+
+#: lib/templates/tooltipelement.php:23
+#@ cosmotheme
+msgid "seconds to"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:203
+#@ cosmotheme
+msgid "slideshow"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:203
+#@ cosmotheme
+msgid "slideshows"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:25
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:256
+#@ cosmotheme
+msgid "tag"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:26
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:256
+#: lib/php/widget/tabber.php:74
+#@ cosmotheme
+msgid "tags"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:35
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:266
+#@ cosmotheme
+msgid "team"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:36
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:266
+#@ cosmotheme
+msgid "teams"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:276
+#: lib/php/resources.register.php:70
+#@ cosmotheme
+msgid "testimonial"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:276
+#@ cosmotheme
+msgid "testimonials"
+msgstr ""
+
+#: lib/templates/additional_templates.php:681
+#@ cosmotheme
+msgid "this is the ultimate label description"
+msgstr ""
+
+#: searchform.php:11
+#@ cosmotheme
+msgid "to search, type and hit enter"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBHeaderElement.php:422
+#@ cosmotheme
+msgid "type something and click enter"
+msgstr ""
+
+#: lib/php/options.class.php:544
+#@ cosmotheme
+msgid "version"
+msgstr ""
+
+#: lib/php/post.class.php:1590
+#@ cosmotheme
+msgid "view"
+msgstr ""
+
+#: lib/php/post.class.php:1592
+#@ cosmotheme
+msgid "views"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:14
+#@ cosmotheme
+msgid "widgets"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBTemplateBuilder.php:23
+#@ cosmotheme
+msgid "with"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBHeaderElement.php:366
+#: wishlist.php:24
+#@ cosmotheme
+msgid "My wishlist"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBHeaderElement.php:369
+#@ cosmotheme
+msgid "View Order"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBHeaderElement.php:372
+#@ cosmotheme
+msgid "My address"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBHeaderElement.php:375
+#@ cosmotheme
+msgid "Change password"
+msgstr ""
+
+#: lib/php/LayoutBuilder/LBHeaderElement.php:386
+#@ cosmotheme
+msgid "Log out"
+msgstr ""
+
+#: lib/php/attached_images_manager.php:8
+#@ cosmotheme
+msgid "Attached Images"
+msgstr ""
+
+#: lib/php/attached_images_manager.php:69
+#: lib/php/attached_images_manager.php:129
+#@ cosmotheme
+msgid "Delete image"
+msgstr ""
+
+#: lib/php/attached_images_manager.php:80
+#@ cosmotheme
+msgid "Add gallery images"
+msgstr ""
+
+#: lib/php/attached_images_manager.php:106
+#@ cosmotheme
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: lib/php/attached_images_manager.php:108
+#@ cosmotheme
+msgid "Add to gallery"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:164
+#: lib/php/plugin-recommendations.php:48
+#@ cosmotheme
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:165
+#: lib/php/plugin-recommendations.php:49
+#@ cosmotheme
+msgid "Install Plugins"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:166
+#: lib/php/plugin-recommendations.php:50
+#, php-format
+#@ cosmotheme
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:167
+#@ cosmotheme
+msgid "Something went wrong."
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:168
+#: lib/php/plugin-recommendations.php:52
+#, php-format
+#@ cosmotheme
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/php/class-tgm-plugin-activation.php:169
+#: lib/php/plugin-recommendations.php:53
+#, php-format
+#@ cosmotheme
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/php/class-tgm-plugin-activation.php:170
+#: lib/php/plugin-recommendations.php:54
+#, php-format
+#@ cosmotheme
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/php/class-tgm-plugin-activation.php:171
+#: lib/php/plugin-recommendations.php:55
+#, php-format
+#@ cosmotheme
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/php/class-tgm-plugin-activation.php:172
+#: lib/php/plugin-recommendations.php:56
+#, php-format
+#@ cosmotheme
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/php/class-tgm-plugin-activation.php:173
+#: lib/php/plugin-recommendations.php:57
+#, php-format
+#@ cosmotheme
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/php/class-tgm-plugin-activation.php:174
+#: lib/php/plugin-recommendations.php:58
+#, php-format
+#@ cosmotheme
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/php/class-tgm-plugin-activation.php:175
+#: lib/php/plugin-recommendations.php:59
+#, php-format
+#@ cosmotheme
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/php/class-tgm-plugin-activation.php:176
+#: lib/php/plugin-recommendations.php:60
+#@ cosmotheme
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/php/class-tgm-plugin-activation.php:177
+#: lib/php/plugin-recommendations.php:61
+#@ cosmotheme
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/php/class-tgm-plugin-activation.php:178
+#: lib/php/class-tgm-plugin-activation.php:490
+#: lib/php/plugin-recommendations.php:62
+#@ cosmotheme
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:179
+#: lib/php/class-tgm-plugin-activation.php:1846
+#: lib/php/plugin-recommendations.php:63
+#@ cosmotheme
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:180
+#, php-format
+#@ cosmotheme
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:517
+#: lib/php/class-tgm-plugin-activation.php:2058
+#@ cosmotheme
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:545
+#, php-format
+#@ cosmotheme
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:704
+#@ cosmotheme
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1091
+#@ cosmotheme
+msgid "External Link"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1096
+#@ cosmotheme
+msgid "Private Repository"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1099
+#@ cosmotheme
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1103
+#@ cosmotheme
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1106
+#@ cosmotheme
+msgid "Required"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1106
+#@ cosmotheme
+msgid "Recommended"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1109
+#@ cosmotheme
+msgid "Not Installed"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1111
+#@ cosmotheme
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1281
+#, php-format
+#@ cosmotheme
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1297
+#@ cosmotheme
+msgid "Plugin"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1298
+#@ cosmotheme
+msgid "Source"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1300
+#: woocommerce/myaccount/my-orders.php:34
+#@ cosmotheme
+#@ woocommerce
+msgid "Status"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1318
+#@ cosmotheme
+msgid "Install"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1319
+#@ cosmotheme
+msgid "Activate"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1544
+#@ cosmotheme
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/php/class-tgm-plugin-activation.php:1829
+#@ cosmotheme
+msgid "Install package not available."
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1830
+#, php-format
+#@ cosmotheme
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1831
+#@ cosmotheme
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1832
+#@ cosmotheme
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1833
+#@ cosmotheme
+msgid "Plugin install failed."
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1834
+#@ cosmotheme
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1845
+#@ cosmotheme
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1955
+#@ cosmotheme
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1956
+#, php-format
+#@ cosmotheme
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1956
+#: lib/php/class-tgm-plugin-activation.php:1965
+#@ cosmotheme
+msgid "Show Details"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1956
+#: lib/php/class-tgm-plugin-activation.php:1965
+#@ cosmotheme
+msgid "Hide Details"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1957
+#@ cosmotheme
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1958
+#, php-format
+#@ cosmotheme
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1962
+#@ cosmotheme
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1963
+#, php-format
+#@ cosmotheme
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1964
+#, php-format
+#@ cosmotheme
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1965
+#, php-format
+#@ cosmotheme
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1966
+#@ cosmotheme
+msgid "All installations have been completed."
+msgstr ""
+
+#: lib/php/class-tgm-plugin-activation.php:1967
+#, php-format
+#@ cosmotheme
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/php/fields.class.php:435
+#@ cosmotheme
+msgid "Update all posts"
+msgstr ""
+
+#: lib/php/fields.class.php:437
+#@ cosmotheme
+msgid "Warning!!! This will update all existing posts of this type with the layout settings defined above. Use this button only if you really need to bulk update the layout for all the existing posts. If you want to affect the future posts as well, use the \"Update settings\" button bellow."
+msgstr ""
+
+#: lib/php/login.class.php:96
+#, php-format
+#@ cosmotheme
+msgid ""
+"User name: %s \n"
+"Password: %s \n"
+"%s"
+msgstr ""
+
+#: lib/php/main.php:29
+#@ cosmotheme
+msgctxt "taxonomy general name"
+msgid "Gallery Category"
+msgstr ""
+
+#: lib/php/main.php:30
+#@ cosmotheme
+msgctxt "taxonomy singular name"
+msgid "Gallery Categories"
+msgstr ""
+
+#: lib/php/main.php:49
+#@ cosmotheme
+msgctxt "taxonomy general name"
+msgid "Gallery Tags"
+msgstr ""
+
+#: lib/php/main.php:50
+#@ cosmotheme
+msgctxt "taxonomy singular name"
+msgid "Gallery Tag"
+msgstr ""
+
+#: lib/php/main.php:77
+#@ cosmotheme
+msgctxt "taxonomy general name"
+msgid "Box Sets"
+msgstr ""
+
+#: lib/php/main.php:78
+#@ cosmotheme
+msgctxt "taxonomy singular name"
+msgid "Box Set"
+msgstr ""
+
+#: lib/php/main.php:104
+#@ cosmotheme
+msgctxt "taxonomy general name"
+msgid "Groups"
+msgstr ""
+
+#: lib/php/main.php:105
+#@ cosmotheme
+msgctxt "taxonomy singular name"
+msgid "Group"
+msgstr ""
+
+#: lib/php/options.register.php:41
+#@ cosmotheme
+msgid "Shop page"
+msgstr ""
+
+#: lib/php/options.register.php:43
+#@ cosmotheme
+msgid "Products"
+msgstr ""
+
+#: lib/php/options.register.php:44
+#@ cosmotheme
+msgid "Product categories"
+msgstr ""
+
+#: lib/php/options.register.php:45
+#@ cosmotheme
+msgid "Product tags"
+msgstr ""
+
+#: lib/php/options.register.php:113
+#@ cosmotheme
+msgid "I'm a new customer text"
+msgstr ""
+
+#: lib/php/options.register.php:113
+#@ cosmotheme
+msgid "Type here the text that will appear below <br />I'M A NEW CUSTOMER label"
+msgstr ""
+
+#: lib/php/options.register.php:114
+#@ cosmotheme
+msgid "I'm a returning customer text"
+msgstr ""
+
+#: lib/php/options.register.php:114
+#@ cosmotheme
+msgid "Type here the text that will appear below <br />I'M A RETURNING CUSTOMER label"
+msgstr ""
+
+#: lib/php/options.register.php:116
+#: lib/php/options.register.php:117
+#@ cosmotheme
+msgid "Praesent pellentesque sodales ante, et molestie nisi mattis non. Suspendisse ullamcorper aliquam pharetra. Maecenas interdum consequat feugiat. Aliquam erat volutpat."
+msgstr ""
+
+#: lib/php/options.register.php:357
+#@ cosmotheme
+msgid "Use retina logo"
+msgstr ""
+
+#: lib/php/options.register.php:377
+#@ cosmotheme
+msgid "Select and style your site's heading tags (H1, H2, H3...)"
+msgstr ""
+
+#: lib/php/options.register.php:420
+#@ cosmotheme
+msgid "Disable hover effect for posts thumbnail"
+msgstr ""
+
+#: lib/php/options.register.php:423
+#@ cosmotheme
+msgid "General Gallery Settings"
+msgstr ""
+
+#: lib/php/options.register.php:430
+#: lib/php/resources.register.php:40
+#@ cosmotheme
+msgid "Select gallery type"
+msgstr ""
+
+#: lib/php/options.register.php:453
+#@ cosmotheme
+msgid "General Products Settings"
+msgstr ""
+
+#: lib/php/options.register.php:454
+#@ cosmotheme
+msgid "Select New products page"
+msgstr ""
+
+#: lib/php/options.register.php:454
+#@ cosmotheme
+msgid "Make sure the selected page has \"New products\" template assigned. Choose \"Select item\" to disable this page."
+msgstr ""
+
+#: lib/php/options.register.php:455
+#@ cosmotheme
+msgid "Select Wishlist page"
+msgstr ""
+
+#: lib/php/options.register.php:455
+#@ cosmotheme
+msgid "Make sure the selected page has \"Wishlist\" template assigned. Choose \"Select item\" to disable this page."
+msgstr ""
+
+#: lib/php/options.register.php:456
+#@ cosmotheme
+msgid "Enable \"Add to wishlist\" button"
+msgstr ""
+
+#: lib/php/options.register.php:492
+#@ cosmotheme
+msgid "New products"
+msgstr ""
+
+#: lib/php/options.register.php:497
+#@ cosmotheme
+msgid "Wishlist"
+msgstr ""
+
+#: lib/php/plugin-recommendations.php:51
+#@ cosmotheme
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: lib/php/plugin-recommendations.php:64
+#, php-format
+#@ cosmotheme
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: lib/php/post.class.php:126
+#: lib/php/post.class.php:725
+#: woocommerce/loop/sale-flash.php:16
+#: woocommerce/single-product/sale-flash.php:16
+#@ woocommerce
+msgid "Sale!"
+msgstr ""
+
+#: lib/php/post.class.php:153
+#: woocommerce/single-product/title.php:24
+#: woocommerce/single-product-reviews.php:28
+#, php-format
+#@ woocommerce
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: lib/php/post.class.php:153
+#: woocommerce/single-product/review.php:27
+#: woocommerce/single-product/title.php:24
+#: woocommerce/single-product-reviews.php:28
+#@ woocommerce
+msgid "out of 5"
+msgstr ""
+
+#: lib/php/post.class.php:153
+#: woocommerce/single-product/title.php:24
+#, php-format
+#@ woocommerce
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/php/post.class.php:1928
+#: wishlist.php:98
+#: woocommerce/cart/cart.php:110
+#: woocustomtemplates/dynamic-shopping-bag.php:36
+#: woocustomtemplates/woo-commerce-custom-functions.php:85
+#@ cosmotheme
+#@ woocommerce
+msgid "Remove this item"
+msgstr ""
+
+#: lib/php/post.class.php:1995
+#: wishlist.php:105
+#: wishlist.php:117
+#@ cosmotheme
+msgid "Browse the "
+msgstr ""
+
+#: lib/php/post.class.php:1995
+#: wishlist.php:105
+#: wishlist.php:117
+#@ cosmotheme
+msgid "shop page"
+msgstr ""
+
+#: lib/php/post.class.php:2000
+#: wishlist.php:111
+#: wishlist.php:123
+#@ cosmotheme
+msgid "No products were added to wish list. "
+msgstr ""
+
+#: lib/php/resources.register.php:17
+#@ cosmotheme
+msgctxt "post type general name"
+msgid "Galleries"
+msgstr ""
+
+#: lib/php/resources.register.php:19
+#: lib/php/resources.register.php:57
+#: lib/php/resources.register.php:92
+#@ Gallery
+#@ Testimonial
+#@ Banner
+msgid "Add New"
+msgstr ""
+
+#: lib/php/resources.register.php:41
+#@ cosmotheme
+msgid "Gallery type"
+msgstr ""
+
+#: lib/php/resources.register.php:55
+#@ cosmotheme
+msgctxt "post type general name"
+msgid "Testimonials"
+msgstr ""
+
+#: lib/php/resources.register.php:56
+#@ cosmotheme
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: lib/php/resources.register.php:90
+#@ cosmotheme
+msgctxt "post type general name"
+msgid "Banners"
+msgstr ""
+
+#: lib/php/resources.register.php:91
+#@ cosmotheme
+msgctxt "post type singular name"
+msgid "Banner"
+msgstr ""
+
+#: lib/php/widget/tweets.php:76
+#, php-format
+#@ cosmotheme
+msgid "Now you need to do it to create an application in %s https://dev.twitter.com/apps %s and fill the requirements there. Once finished you will have your consumer key, consumer secret, access token and access token secret."
+msgstr ""
+
+#: lib/php/widget/tweets.php:81
+#@ cosmotheme
+msgid "Consumer key"
+msgstr ""
+
+#: lib/php/widget/tweets.php:86
+#@ cosmotheme
+msgid "Consumer secret"
+msgstr ""
+
+#: lib/php/widget/tweets.php:91
+#@ cosmotheme
+msgid "Access token"
+msgstr ""
+
+#: lib/php/widget/tweets.php:96
+#@ cosmotheme
+msgid "Access token secret"
+msgstr ""
+
+#: lib/php/widget/tweets.php:254
+#@ cosmotheme
+msgid "Please add the Twitter user name"
+msgstr ""
+
+#: lib/php/widget/tweets.php:256
+#@ cosmotheme
+msgid "Unable to read tweets !!!"
+msgstr ""
+
+#: lib/templates/headerelement.php:131
+#@ cosmotheme
+msgid "Login / My Account"
+msgstr ""
+
+#: lib/templates/headerelement.php:135
+#@ cosmotheme
+msgid "Dynamic shopping cart"
+msgstr ""
+
+#: lib/templates/headerelement.php:388
+#@ cosmotheme
+msgid "Sign In label"
+msgstr ""
+
+#: lib/templates/headerelement.php:394
+#@ cosmotheme
+msgid "Set the User \"Sign In\" menu label"
+msgstr ""
+
+#: lib/templates/headerelement.php:400
+#@ cosmotheme
+msgid "Register label"
+msgstr ""
+
+#: lib/templates/headerelement.php:406
+#@ cosmotheme
+msgid "Set the User \"Registration\" menu label"
+msgstr ""
+
+#: lib/templates/headerelement.php:412
+#@ cosmotheme
+msgid "My Account label"
+msgstr ""
+
+#: lib/templates/headerelement.php:418
+#@ cosmotheme
+msgid "Set \"My Account\" menu label"
+msgstr ""
+
+#: lib/templates/init_templates.php:8
+#@ cosmotheme
+msgid "Mainpage"
+msgstr ""
+
+#: lib/templates/init_templates.php:47
+#@ cosmotheme
+msgid "Thumbnails view sample"
+msgstr ""
+
+#: lib/templates/layoutadditionalelement.php:114
+#: lib/templates/layoutelement.php:443
+#@ cosmotheme
+msgid "You can set the excerpt lenght in <a href=\"?page=cosmothemes__settings&tab=blog_post\">Post settings"
+msgstr ""
+
+#: lib/templates/layoutelement.php:204
+#@ cosmotheme
+msgid "Latest products"
+msgstr ""
+
+#: lib/templates/layoutelement.php:208
+#@ cosmotheme
+msgid "Featured products"
+msgstr ""
+
+#: lib/templates/layoutelement.php:212
+#@ cosmotheme
+msgid "Products on sale"
+msgstr ""
+
+#: lib/templates/layoutelement.php:215
+#@ cosmotheme
+msgid "If this element will be used on the front page, make sure you select a Static page from Settings -> Reading, then assign 'Shop' page for front Page, otherwise it will display you the latest posts."
+msgstr ""
+
+#: lib/templates/layoutelement.php:216
+#@ cosmotheme
+msgid "Woo Shop"
+msgstr ""
+
+#: lib/templates/layoutelement.php:220
+#@ cosmotheme
+msgid "Best sellers (products)"
+msgstr ""
+
+#: lib/templates/our_themes.php:22
+#@ cosmotheme
+msgid "No result, try again later."
+msgstr ""
+
+#: lib/templates/woocommerce_template_patch.php:69
+#@ cosmotheme
+msgid "Woo shop"
+msgstr ""
+
+#: wishlist.php:28
+#@ cosmotheme
+msgid "Product Name"
+msgstr ""
+
+#: wishlist.php:30
+#@ cosmotheme
+msgid "Unit Price"
+msgstr ""
+
+#: wishlist.php:31
+#@ cosmotheme
+msgid "Stock Status"
+msgstr ""
+
+#: wishlist.php:32
+#@ cosmotheme
+msgid "Actions"
+msgstr ""
+
+#: wishlist.php:87
+#@ cosmotheme
+msgid "Out Of Stock"
+msgstr ""
+
+#: wishlist.php:90
+#@ cosmotheme
+msgid "In Stock"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:14
+#@ woocommerce
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:18
+#@ woocommerce
+msgid "&larr; Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart.php:26
+#: woocommerce/checkout/form-pay.php:19
+#: woocommerce/checkout/review-order.php:21
+#: woocommerce/emails/admin-new-order.php:22
+#: woocommerce/emails/customer-completed-order.php:23
+#: woocommerce/emails/customer-invoice.php:27
+#: woocommerce/emails/customer-note.php:27
+#: woocommerce/emails/customer-processing-order.php:23
+#: woocommerce/order/order-details.php:20
+#@ woocommerce
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+#: woocommerce/emails/admin-new-order.php:24
+#: woocommerce/emails/customer-completed-order.php:25
+#: woocommerce/emails/customer-invoice.php:29
+#: woocommerce/emails/customer-note.php:29
+#: woocommerce/emails/customer-processing-order.php:25
+#@ woocommerce
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+#: woocommerce/emails/admin-new-order.php:23
+#: woocommerce/emails/customer-completed-order.php:24
+#: woocommerce/emails/customer-invoice.php:28
+#: woocommerce/emails/customer-note.php:28
+#: woocommerce/emails/customer-processing-order.php:24
+#@ woocommerce
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30
+#: woocommerce/checkout/review-order.php:22
+#: woocommerce/myaccount/my-orders.php:35
+#: woocommerce/order/order-details.php:21
+#@ woocommerce
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:69
+#@ woocommerce
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:93
+#: woocommerce/single-product/add-to-cart/quantity.php:12
+#@ woocommerce
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/cart/cart.php:127
+#@ woocommerce
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:127
+#: woocommerce/checkout/form-coupon.php:29
+#@ woocommerce
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:134
+#@ woocommerce
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:154
+#@ woocommerce
+msgid "Proceed to Checkout &rarr;"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:40
+#@ woocommerce
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:55
+#: woocustomtemplates/dynamic-shopping-bag.php:54
+#: woocustomtemplates/woo-commerce-custom-functions.php:103
+#@ woocommerce
+#@ cosmotheme
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:63
+#@ woocommerce
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:68
+#@ woocommerce
+msgid "View Cart &rarr;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:69
+#@ woocommerce
+msgid "Checkout &rarr;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:22
+#@ woocommerce
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:28
+#@ woocommerce
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:45
+#: woocommerce/cart/shipping-calculator.php:51
+#: woocommerce/cart/shipping-calculator.php:63
+#@ woocommerce
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:52
+#@ woocommerce
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:72
+#@ woocommerce
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:80
+#@ woocommerce
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:85
+#@ woocommerce
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/cart/shipping-methods.php:32
+#@ woocommerce
+msgid "Free"
+msgstr ""
+
+#: woocommerce/cart/shipping-methods.php:68
+#@ woocommerce
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/shipping-methods.php:76
+#: woocommerce/cart/totals.php:147
+#, php-format
+#@ woocommerce
+msgid "Sorry, it seems that there are no available shipping methods for your location (%s)."
+msgstr ""
+
+#: woocommerce/cart/shipping-methods.php:76
+#: woocommerce/cart/totals.php:147
+#@ woocommerce
+msgid "If you require assistance or wish to make alternate arrangements please contact us."
+msgstr ""
+
+#: woocommerce/cart/totals.php:22
+#@ woocommerce
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/totals.php:28
+#: woocommerce/checkout/review-order.php:27
+#@ woocommerce
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/cart/totals.php:35
+#: woocommerce/checkout/review-order.php:34
+#@ woocommerce
+msgid "Cart Discount"
+msgstr ""
+
+#: woocommerce/cart/totals.php:35
+#: woocommerce/cart/totals.php:83
+#@ woocommerce
+msgid "[Remove]"
+msgstr ""
+
+#: woocommerce/cart/totals.php:46
+#: woocommerce/checkout/review-order.php:45
+#@ woocommerce
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/totals.php:83
+#: woocommerce/checkout/review-order.php:82
+#@ woocommerce
+msgid "Order Discount"
+msgstr ""
+
+#: woocommerce/cart/totals.php:92
+#: woocommerce/checkout/review-order.php:91
+#@ woocommerce
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/cart/totals.php:105
+#: woocommerce/checkout/review-order.php:104
+#, php-format
+#@ woocommerce
+msgid "(Includes %s)"
+msgstr ""
+
+#: woocommerce/cart/totals.php:121
+#, php-format
+#@ woocommerce
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/totals.php:123
+#, php-format
+#@ woocommerce
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/totals.php:135
+#@ woocommerce
+msgid "No shipping methods were found; please recalculate your shipping and enter your state/county and zip/postcode to ensure there are no other available methods for your location."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:16
+#@ woocommerce
+msgid "There are some issues with the items in your cart (shown above). Please go back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:20
+#@ woocommerce
+msgid "&larr; Return To Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:17
+#@ woocommerce
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:21
+#: woocommerce/myaccount/form-edit-address.php:27
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+#: woocommerce/order/order-details.php:115
+#@ woocommerce
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:42
+#@ woocommerce
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:51
+#@ woocommerce
+msgid "Create an account by entering the information below. If you are a returning customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+#@ woocommerce
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:99
+#: woocommerce/checkout/form-checkout.php:108
+#@ woocommerce
+msgid "Continue"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:118
+#@ woocommerce
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:17
+#@ woocommerce
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:20
+#@ woocommerce
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:25
+#@ woocommerce
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:14
+#@ woocommerce
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:17
+#@ woocommerce
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:22
+#@ woocommerce
+msgid "If you have shopped with us before, please enter your details in the boxes below. If you are a new customer please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:20
+#@ woocommerce
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:21
+#@ woocommerce
+msgid "Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:78
+#@ woocommerce
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:87
+#@ woocommerce
+msgid "Pay for order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:32
+#@ woocommerce
+msgid "Ship to billing address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:35
+#: woocommerce/myaccount/form-edit-address.php:27
+#: woocommerce/myaccount/my-address.php:20
+#: woocommerce/order/order-details.php:130
+#@ woocommerce
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:59
+#@ woocommerce
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:174
+#@ woocommerce
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:176
+#@ woocommerce
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:185
+#@ woocommerce
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:185
+#@ woocommerce
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:192
+#@ woocommerce
+msgid "Place order"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:199
+#@ woocommerce
+msgid "I have read and accept the"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:199
+#@ woocommerce
+msgid "terms &amp; conditions"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:18
+#@ woocommerce
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:22
+#@ woocommerce
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:24
+#@ woocommerce
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28
+#: woocommerce/myaccount/my-orders.php:71
+#@ woocommerce
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+#@ woocommerce
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36
+#: woocommerce/checkout/thankyou.php:67
+#@ woocommerce
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40
+#: woocommerce/emails/customer-completed-order.php:18
+#: woocommerce/emails/customer-invoice.php:22
+#: woocommerce/emails/customer-note.php:22
+#: woocommerce/emails/customer-processing-order.php:18
+#@ woocommerce
+msgid "Order:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44
+#@ woocommerce
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:48
+#@ woocommerce
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:53
+#@ woocommerce
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:13
+#: woocommerce/emails/plain/admin-new-order.php:13
+#, php-format
+#@ woocommerce
+msgid "You have received an order from %s. Their order is as follows:"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:17
+#, php-format
+#@ woocommerce
+msgid "Order: %s"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:50
+#: woocommerce/emails/customer-completed-order.php:51
+#: woocommerce/emails/customer-note.php:55
+#: woocommerce/emails/customer-processing-order.php:51
+#: woocommerce/emails/plain/admin-new-order.php:38
+#: woocommerce/order/order-details.php:97
+#@ woocommerce
+msgid "Customer details"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:53
+#: woocommerce/emails/customer-completed-order.php:54
+#: woocommerce/emails/customer-note.php:58
+#: woocommerce/emails/customer-processing-order.php:54
+#: woocommerce/emails/plain/admin-new-order.php:41
+#: woocommerce/emails/plain/customer-completed-order.php:41
+#: woocommerce/emails/plain/customer-note.php:49
+#: woocommerce/emails/plain/customer-processing-order.php:41
+#: woocommerce/order/order-details.php:101
+#@ woocommerce
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:56
+#: woocommerce/emails/customer-completed-order.php:57
+#: woocommerce/emails/customer-note.php:61
+#: woocommerce/emails/customer-processing-order.php:57
+#: woocommerce/emails/plain/admin-new-order.php:44
+#: woocommerce/emails/plain/customer-completed-order.php:44
+#: woocommerce/emails/plain/customer-note.php:52
+#: woocommerce/emails/plain/customer-processing-order.php:44
+#@ woocommerce
+msgid "Tel:"
+msgstr ""
+
+#: woocommerce/emails/customer-completed-order.php:14
+#: woocommerce/emails/plain/customer-completed-order.php:13
+#, php-format
+#@ woocommerce
+msgid "Hi there. Your recent order on %s has been completed. Your order details are shown below for your reference:"
+msgstr ""
+
+#: woocommerce/emails/customer-invoice.php:16
+#: woocommerce/emails/plain/customer-invoice.php:14
+#, php-format
+#@ woocommerce
+msgid "An order has been created for you on %s. To pay for this order please use the following link: %s"
+msgstr ""
+
+#: woocommerce/emails/customer-invoice.php:16
+#@ woocommerce
+msgid "pay"
+msgstr ""
+
+#: woocommerce/emails/customer-new-account.php:14
+#: woocommerce/emails/plain/customer-new-account.php:13
+#, php-format
+#@ woocommerce
+msgid "Thanks for creating an account on %s. Your username is <strong>%s</strong>."
+msgstr ""
+
+#: woocommerce/emails/customer-new-account.php:16
+#: woocommerce/emails/plain/customer-new-account.php:15
+#, php-format
+#@ woocommerce
+msgid "You can access your account area here: %s."
+msgstr ""
+
+#: woocommerce/emails/customer-note.php:14
+#: woocommerce/emails/plain/customer-note.php:13
+#@ woocommerce
+msgid "Hello, a note has just been added to your order:"
+msgstr ""
+
+#: woocommerce/emails/customer-note.php:18
+#: woocommerce/emails/plain/customer-note.php:21
+#@ woocommerce
+msgid "For your reference, your order details are shown below."
+msgstr ""
+
+#: woocommerce/emails/customer-processing-order.php:14
+#: woocommerce/emails/plain/customer-processing-order.php:13
+#@ woocommerce
+msgid "Your order has been received and is now being processed. Your order details are shown below for your reference:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:14
+#: woocommerce/emails/plain/customer-reset-password.php:13
+#@ woocommerce
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:15
+#: woocommerce/emails/plain/customer-reset-password.php:15
+#, php-format
+#@ woocommerce
+msgid "Username: %s"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:16
+#: woocommerce/emails/plain/customer-reset-password.php:16
+#@ woocommerce
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:17
+#: woocommerce/emails/plain/customer-reset-password.php:17
+#@ woocommerce
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:20
+#@ woocommerce
+msgid "Click here to reset your password"
+msgstr ""
+
+#: woocommerce/emails/email-addresses.php:18
+#: woocommerce/emails/plain/email-addresses.php:12
+#@ woocommerce
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/emails/email-addresses.php:28
+#: woocommerce/emails/plain/email-addresses.php:17
+#@ woocommerce
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/emails/email-order-items.php:47
+#, php-format
+#@ woocommerce
+msgid "Download %d:"
+msgstr ""
+
+#: woocommerce/emails/email-order-items.php:49
+#@ woocommerce
+msgid "Download:"
+msgstr ""
+
+#: woocommerce/emails/plain/admin-new-order.php:19
+#: woocommerce/emails/plain/customer-completed-order.php:19
+#: woocommerce/emails/plain/customer-invoice.php:20
+#: woocommerce/emails/plain/customer-note.php:27
+#: woocommerce/emails/plain/customer-processing-order.php:19
+#, php-format
+#@ woocommerce
+msgid "Order number: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/admin-new-order.php:20
+#: woocommerce/emails/plain/customer-completed-order.php:20
+#: woocommerce/emails/plain/customer-invoice.php:21
+#: woocommerce/emails/plain/customer-note.php:28
+#: woocommerce/emails/plain/customer-processing-order.php:20
+#, php-format
+#@ woocommerce
+msgid "Order date: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/admin-new-order.php:20
+#@ woocommerce
+msgid "jS F Y"
+msgstr ""
+
+#: woocommerce/emails/plain/customer-completed-order.php:38
+#: woocommerce/emails/plain/customer-note.php:46
+#: woocommerce/emails/plain/customer-processing-order.php:38
+#@ woocommerce
+msgid "Your details"
+msgstr ""
+
+#: woocommerce/emails/plain/email-order-items.php:28
+#, php-format
+#@ woocommerce
+msgid "Quantity: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/email-order-items.php:31
+#, php-format
+#@ woocommerce
+msgid "Cost: %s"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:17
+#: woocommerce/loop/add-to-cart.php:41
+#: woocommerce/loop/add-to-cart.php:50
+#@ woocommerce
+msgid "Read More"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:33
+#@ woocommerce
+msgid "Select options"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:37
+#@ woocommerce
+msgid "View options"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:46
+#: woocommerce/single-product/add-to-cart/grouped.php:45
+#: woocommerce/single-product/add-to-cart/grouped.php:77
+#: woocommerce/single-product/add-to-cart/simple.php:42
+#: woocommerce/single-product/add-to-cart/variable.php:83
+#@ woocommerce
+msgid "Add to cart"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:14
+#: woocommerce/loop-shop.php:40
+#@ woocommerce
+msgid "No products found which match your selection."
+msgstr ""
+
+#: woocommerce/loop/orderby.php:21
+#@ woocommerce
+msgid "Default sorting"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:22
+#@ woocommerce
+msgid "Sort by popularity"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:23
+#@ woocommerce
+msgid "Sort by average rating"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+#@ woocommerce
+msgid "Sort by newness"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:25
+#@ woocommerce
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:26
+#@ woocommerce
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:28
+#@ woocommerce
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:30
+#, php-format
+#@ woocommerce
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:32
+#, php-format
+#@ woocommerce
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d-%2$d of %3$d results"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:20
+#: woocommerce/myaccount/form-lost-password.php:34
+#@ woocommerce
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:24
+#: woocommerce/myaccount/form-lost-password.php:38
+#@ woocommerce
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:58
+#@ woocommerce
+msgid "Save Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:34
+#: woocommerce/myaccount/form-login.php:135
+#@ woocommerce
+msgid "I'm a returning customer"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:38
+#: woocommerce/myaccount/form-lost-password.php:25
+#: woocommerce/shop/form-login.php:20
+#@ woocommerce
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:42
+#: woocommerce/myaccount/form-login.php:95
+#: woocommerce/shop/form-login.php:24
+#@ woocommerce
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:50
+#@ woocommerce
+msgid "Sign me in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:60
+#: woocommerce/shop/form-login.php:33
+#@ woocommerce
+msgid "Lost Password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:70
+#: woocommerce/myaccount/form-login.php:128
+#@ woocommerce
+msgid "I'm a new customer"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:99
+#@ woocommerce
+msgid "Re-enter password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:112
+#@ woocommerce
+msgid "Create new account"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:22
+#@ woocommerce
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:31
+#@ woocommerce
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:50
+#@ woocommerce
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:19
+#, php-format
+#@ woocommerce
+msgid "Hello, <strong>%s</strong>. From your account dashboard you can view your recent orders, manage your shipping and billing addresses and <a href=\"%s\">change your password</a>."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:17
+#@ woocommerce
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23
+#@ woocommerce
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:36
+#@ woocommerce
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:65
+#@ woocommerce
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:18
+#@ woocommerce
+msgid "Available downloads"
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:27
+#, php-format
+#@ woocommerce
+msgid "%s download remaining"
+msgid_plural "%s downloads remaining"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:26
+#@ woocommerce
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:62
+#, php-format
+#@ woocommerce
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:77
+#@ woocommerce
+msgid "Cancel"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:82
+#@ woocommerce
+msgid "View"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:17
+#@ woocommerce
+msgid "To track your order please enter your Order ID in the box below and press return. This was given to you on your receipt and in the confirmation email you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+#@ woocommerce
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+#@ woocommerce
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+#@ woocommerce
+msgid "Billing Email"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+#@ woocommerce
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:23
+#@ woocommerce
+msgid "Track"
+msgstr ""
+
+#: woocommerce/order/order-details.php:16
+#@ woocommerce
+msgid "Order Details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:64
+#, php-format
+#@ woocommerce
+msgid "Download file%s"
+msgstr ""
+
+#: woocommerce/order/order-details.php:90
+#@ woocommerce
+msgid "Order Again"
+msgstr ""
+
+#: woocommerce/order/order-details.php:102
+#@ woocommerce
+msgid "Telephone:"
+msgstr ""
+
+#: woocommerce/order/order-details.php:119
+#: woocommerce/order/order-details.php:134
+#@ woocommerce
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/tracking.php:18
+#, php-format
+#@ woocommerce
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/order/tracking.php:20
+#@ woocommerce
+msgid "and was completed"
+msgstr ""
+
+#: woocommerce/order/tracking.php:20
+#@ woocommerce
+msgid " ago"
+msgstr ""
+
+#: woocommerce/order/tracking.php:31
+#@ woocommerce
+msgid "Order Updates"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:63
+#@ woocommerce
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:91
+#: woocommerce/shop/breadcrumb.php:188
+#@ woocommerce
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:192
+#@ woocommerce
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:197
+#@ woocommerce
+msgid "Author:"
+msgstr ""
+
+#: woocommerce/shop/form-login.php:31
+#@ woocommerce
+msgid "Login"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:24
+#@ woocommerce
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:69
+#@ woocommerce
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:24
+#@ woocommerce
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:29
+#@ woocommerce
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:34
+#@ woocommerce
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-attributes.php:28
+#@ woocommerce
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:37
+#@ woocommerce
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/single-product/related.php:38
+#@ woocommerce
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:26
+#, php-format
+#@ woocommerce
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:33
+#@ woocommerce
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:40
+#@ woocommerce
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:47
+#@ woocommerce
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:30
+#, php-format
+#@ woocommerce
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:58
+#@ woocommerce
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:59
+#@ woocommerce
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+#@ woocommerce
+msgid "Add Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+#@ woocommerce
+msgid "Add Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:65
+#@ woocommerce
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+#@ woocommerce
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+#@ woocommerce
+msgid "There are no reviews yet, would you like to <a href=\"#review_form\" class=\"inline show_review_form\">submit yours</a>?"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+#@ woocommerce
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+#@ woocommerce
+msgid "Submit Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+#@ woocommerce
+msgid "Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+#@ woocommerce
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+#@ woocommerce
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+#@ woocommerce
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:100
+#@ woocommerce
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+#@ woocommerce
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:102
+#@ woocommerce
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+#@ woocommerce
+msgid "Your Review"
+msgstr ""
+
+#: woocustomtemplates/dynamic-shopping-bag.php:17
+#: woocustomtemplates/woo-commerce-custom-functions.php:66
+#, php-format
+#@ woothemes
+msgid "<i>%d</i> item"
+msgid_plural "<i>%d</i> items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocustomtemplates/dynamic-shopping-bag.php:20
+#: woocustomtemplates/woo-commerce-custom-functions.php:69
+#@ cosmotheme
+msgid "My shopping basket"
+msgstr ""
+
+#: woocustomtemplates/dynamic-shopping-bag.php:46
+#: woocustomtemplates/woo-commerce-custom-functions.php:95
+#@ cosmotheme
+msgid "Cart subtotal"
+msgstr ""
+
+#: woocustomtemplates/dynamic-shopping-bag.php:49
+#: woocustomtemplates/woo-commerce-custom-functions.php:98
+#@ cosmotheme
+msgid "View Cart"
+msgstr ""
+
+#: woocustomtemplates/dynamic-shopping-bag.php:51
+#: woocustomtemplates/woo-commerce-custom-functions.php:100
+#@ cosmotheme
+msgid "Checkout"
+msgstr ""
+
+#: woocustomtemplates/woo-commerce-custom-functions.php:140
+#@ woocommerce
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: woocustomtemplates/woo-commerce-custom-functions.php:188
+#@ cosmotheme
+msgid "click to add to wish list"
+msgstr ""
+
+#: woocustomtemplates/woo-commerce-custom-functions.php:188
+#@ cosmotheme
+msgid "[ + ] Wishlist"
+msgstr ""
+
+#: woocustomtemplates/woo-commerce-custom-functions.php:189
+#@ cosmotheme
+msgid "added to wish list"
+msgstr ""
+
+#: woocustomtemplates/woo-commerce-custom-functions.php:189
+#@ cosmotheme
+msgid "[ &#10003; ] Added"
+msgstr ""
+
+#: woocustomtemplates/woo-commerce-custom-functions.php:208
+#, php-format
+#@ cosmotheme
+msgid "In order to have a better experience, please deactivate Woocommerce default styles from <a href=\"%s\">here</a> "
+msgstr ""
+
