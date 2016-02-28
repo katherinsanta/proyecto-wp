@@ -4646,7 +4646,7 @@ msgstr ""
 
 #: lib/templates/additional_templates.php:681
 #@ cosmotheme
-msgid "this is the ultimate label description"
+msgid " "
 msgstr ""
 
 #: searchform.php:11
