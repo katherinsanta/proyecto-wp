@@ -59,7 +59,6 @@ if (get_post_format($post->ID)=="gallery" && isset($single_slideshow) && strlen(
         if (options::logic( 'blog_post' , 'enb_featmask' ) && options::logic( 'blog_post' , 'enb_cropp_img' ) && get_post_format( $post -> ID ) != 'gallery' && get_post_type() != 'page' ) { 
             wp_localize_script('functions', 'featmask_enb', array(true) );
             ?>
-        <div class="featmask"></div>
         <?php } else {
             wp_localize_script('functions', 'featmask_enb', array(true) );
 
